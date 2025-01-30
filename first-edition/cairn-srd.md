@@ -11,11 +11,12 @@ nav_order: 1
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+**Cairn** er birt undir leyfi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum spilara.
+Spilarar leika harðgert ævintýrafólk að kanna dimman og dularfullan skóg fullan af kynjafólki, földum fjarsjóðum og ólýsanlegum skrímslum.
 
 <details close markdown="block">
   <summary id="index">
@@ -26,92 +27,94 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 {:toc}
 </details>
 
-## Overview
+## Yfirlit
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** var skrifað með eftirfarandi hönnunar hugtök í fyrirrúmi:
 
-### Neutrality
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### Hlutleysi
+Hlutverk Varðarins er að miðla reglum, aðstæðum, aukapersónum og frásögn á skýran hátt á meðan hann sjálfur er hluthlaus dómari.
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### Hlutverkalaust
+Hæfileikar og færni persónu eru ekki skorðað við einstaka hlutverk. Þess í stað er það búnaður sem hún ber og reynsla þeirra sem skilgreina sérhæfingu þeirra.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Dauði
+Persónu eru ef til vill máttugar en þær eru einnig berskjaldaðar fyrir skaða í ýmsum myndum. Dauði er alltaf handan við hornið en aldrei tilviljunarkenndur eða án viðvörunnar.
 
-### Fiction First
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### Sagan fyrst
+Tengingar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Þess í stað eru árangur og mistök ákvörðuð af Verðinum í samtali við spilara byggt á þáttum heimsins. 
 
-### Growth
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Vöxtur
+Persónur breytast með framförum í heiminum, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
 
-### Player Choice
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### Val leikmanna
+Leikmenn ættu alltaf að skilja ástæðurnar á bak við val sitt og upplýsinar um mögulegar hættur ættu að liggja fyrir.
 
-### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Meginreglur
+Vörðurinn og leikmenn hafa hver sínar leiðbeiningar sem stuðla að ákveðni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar er höfð í forgrunni.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+### Sameiginleg markmið
+Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
 
-[back to index](#index)
-<p></p>
-
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
-
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
-
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
-
-### Narrative Focus
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
-
-### Danger
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
-
-### Treasure
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
-
-### Choice
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
-
-### Die of Fate
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
 [back to index](#index)
 <p></p>
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Meginreglur fyrir Vörðinn
+### Upplýsingar
+- Veittu gagnlegar upplýsingar um leikheiminn þegar persónurnar kanna hann.
+- Leikmenn þurfa ekki að kasta teningum til að læra um aðstæður sínar.
+- Vertu hjálpsamur og skýr í svörum sínum við spurningum leikmanna.
+- Svaraðu heiðarlega, hafa lýsingar samkvæmar og ávalt láta leikmenn vita að þeir geti spurt spurningar.    
+
+### Erfiðleikastig
+- Byggðu frekar á samhengi og raunsæi heldur en tölum og kerfi leiksins. 
+- Ef eitthvað sem leikmenn vilja gera er raunverulega ómögulegt, ekkert teningakast gerir það mögulegt.
+- Er það sem leikmaður lýsir raunhæft í samræmi við aðstæður? Leyfðu því að gerast.
+- Varnarköst ná yfir margar óvissar aðstæður og eru oft allt sem þarf fyrir áhættusamar aðgerðir.  
+
+### Undirbúningur
+- Leikheimurinn er lifandi, sveigjandi og tilviljanakenndur. Hann skilur og tekur skarpar beygjur. 
+- Notaðu tilviljunartöflur og sköpunarverkfæri til að þróa aðstæður en ekki sögur eða söguþráð.
+- Aukapersónur muna hvað persónur segja og gera og hvernig það hefur áhrif á heiminn.
+- Aukapersónur vilja ekki deyja. Láttu þeirra eigin hagsmuni og vilja til að lifa koma fram í persónuleika þeirra.
+
+### Áhersla á frásögn
+- Það sem skiptir máli er upplifunin i leiknum, ekki stærðfræði eða eiginleikar persónu. Láttu leikmennina fá kennara og persónuleg verkefni til að auðvelda framfarir og sérhæfingu persónunnar.
+- Taktu eftir þörfum og langanna leikmanna og settu raunveruleg tækifæri á þeirra veg.
+- Rýtingur í hálsinn mun drepa þig, sama hversu dýr brynjan þín er eða hversu vel þú ert þjálfaður.
+
+### Hætta
+- Leikheimurinn skapar rauðverulega hættu á meiðslum og dauða fyrir persónur leikmanna.
+- Gefðu leikmönnum greinilegar vísbendinar um hættu þegar hún er til staðar. Því meiri hætta, því augljósari merki.
+- Láttu gildrur vera augljósar og leyfðu leikmönnum að finna lausn.
+- Gefðu leikmönnum tækifæri á að leysa vandamál og hafa samskipti við heiminn.
+
+### Fjársjóðir
+- Fjársjóður er sértækur fyrir umhverfið sem hann er fundinn í og segir sögu.
+- Fjársjóður er mjög verðmætur, oft fyrirferðamikill og sjaldan gagnlegur utan verðgildi síns og orðspors.
+- Helgigripir eru ekki fjarsjóðir þó þeir séu gagnlegir og áhugaverðir.
+- Notaðu fjarsjóði sem beitu fyrir framandi staði sem eru gættir af ógnvekjandi óvinum.  
+
+### Val
+- Gefðu leikmönnum skýrt val um að knýja fram útkomur þegar leikurinn hægist. 
+- Notaðu tvískipar ,,A eða B?" spurningar þegar fyrirætlanir leikmanna eru óljósar.
+- Vinnið saman að halda leiknum gangi með þessum samtölum.
+- Gakktu úr skugga um að aðgerðir persóna hafi áhrif á leikheiminn. 
+
+### Örlagateningur
+- Stundum muntu vilja eitthvað tilviljunnarkennt (t.d. veðrið, einstaka þekkingu persóna, o.s.frv.)
+- Í slíkum tilvikum kastaðu 1d6. Kast upp á 4 eða meira er leikmönnum í hag.
+- Kast upp á 3 eða lægra táknar oft óheppni fyrir leikmenn eða bandamenn þeirra.
+
+
+[back to index](#index)
+<p></p>
+
+## Meginreglur fyrir spilara
+### Frjáls vilji
+- Eiginleikar og varnarköst skilgreina ekki persónuna þína - þau eru verkfæri.
+- Spurðu ekki aðeins hvað persónan þín myndi gera heldur líka hvað þú myndir gera. 
+- Vertu skapandi með innsæi þitt, búnað og tengsl.  
 
 ### Teamwork
 - Seek consensus from the other players before barreling forward.
