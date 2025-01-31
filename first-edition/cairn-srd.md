@@ -116,47 +116,48 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 - Spurðu ekki aðeins hvað persónan þín myndi gera heldur líka hvað þú myndir gera. 
 - Vertu skapandi með innsæi þitt, búnað og tengsl.  
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Samvinna
+- Leitaðu samþykkis hjá hópnum áður en þú æðir áfram.
+- Verið sammála um markmið og takmörk, að sýna hvert öðru virðingu og að meira næst með samstöðu.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Könnun
+- Að spyrja spurninga og hlusta á smáatriði er gagnlegra en nokkur eiginleiki, hlutur eða hæfileiki í fórum persónu.
+- Takið lýsingum Varðarins án grunsemndar en hinkið ekki við að afla frekari upplýsinga.
+- Það er aldrei ein rétt leið fram á veg. 
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Samskipi
+- Komið fram við aukapersónur eins og raunverulegt fólk og treystið á forvitni ykkar til að afla upplýsinga og leysa vandamál.
+- Þið munuð finna að flest fólk er áhugavert og mun vilja ræða hlutina áður en tekið er til handalögmála.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Varúð
+- Bardagi er val og sjaldan það skynsamlegasta. Hugleiddu hvort ofbeldi sé besta leiðin til að ná markmiðum þínum.
+- Reynið að snúa aðstæðum þér í vil og hörfaðu þegar hlutirnir eru ekki hagstæðir.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+### Plön
+- Finndu leiðir til að forðast hindranir með könnun, útsjónarsemi og staðreyndaleit.
+- Gerið athuganir og spyrjið um út í markmarkmið.
 
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+### Metnaður
+- Settu þér markmarið og notaðu þín fáu úrræði til að taka skref fram á við.
+- Ekki búast við neinu. Aflaðu þér orðspors með gjörðum þínum.
+- Haltu sögunni gangandi og spilaðu til að sjá hvað gerist.
 
 [back to index](#index)
 <p></p>
 
-## Character Creation
+## Persónusköpun
 
-#### Name, Background & Traits
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+#### Nafn, bakgrunnur & einkenni
+Fyrst, veldu eða kastaðu upp á **nafn** og **bakgrunn** fyrir persónuna þína á viðeigandi [töflum](#name--background-d20). Bakgrunnur persónu gefur vísbendingu um mögulega þekkingu og færni hennar.  
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Því næst kastar þú fyrir önnur **einkenni** persónunnar (útlit, talmáta, framkomu, trú, orðsport o.s.frv.) á [**Persónueinkenni**](#character-traits-d10) töflunum. 
 
-Finally, roll for their **age** (2d20+10).
+Að lokum kastar þú upp á **aldur** persónunnar (2d20+10).
 
-#### Ability Scores
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+#### Eiginleikagildi
+Persónur spilara hafa einungis þrjá eiginleika:
+**Styrkur (STY)**, **Fimi(FIM)** og **Viljastyrkur(VIL)**. Þegar persóna er sköpuð kastar leikmaður 3d6 fyrir hvern eiginleika persónunnar í þeirri röð sem þeir eru skráðir. 
+Síðan má skipta um stað á tveimur eiginleika gildum að eigin vali. 
 
 <details markdown="block">
   <summary>
@@ -165,36 +166,41 @@ Expand For Example
  Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 </details>
 
-### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+### Varnarstig
+Kastaðu 1d6 til að ákvarða þau **Varnarstig (VS)** sem persónan byrjar með. VS endurspegla eiginleika persónunnar 
+til að forðast skaða í bardaga. VS tákna ekki líkamlega heilsu eða æðruleysi persónunnar né tapar hún þeim í lengri tíma
+ (Sjá **Lækning**). Ef árás lækkar VS persónun nákvæmlega niður í 0 þá þarf leikmaðurinn að kasta upp á [**Ör**](/cairn-srd#scars-1) töflunni. 
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Birgðir
+Persónur hafa samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf fyrir efri hluta líkama
+ (t.d. belti, búk eða höfuð). Bakpokinn virkar sem svefnpoki í neyð ef allt innihald er tæmt úr honum. 
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saamn. Hólf eru abstrakt og má endurraða eftir mati Varðarins. 
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+**fyrirferðamiklir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 VS.
+Persóna getur ekki borði meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar. **  
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory. **Hirelings** can also be paid to carry equipment.
+ items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. **Leiguliðar** geta einnig borið búnað gegn gjaldi.
 
-#### Starting Gear
-All PCs begin with:
+#### Byrjunarbúnaður
+Allar persónur byrja með:
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Þriggja daga vistir (eitt hólf)
+- Kyndil (eitt hólf)
+- 3d6 gullpeninga
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Kastið einu sinni á hverri **Byrjunarbúnaðar** töflu til að ákvarða brynju, vopn, verkfæri og búnað fyrir persónu þinnar. Ef útkoma gefur til kynna að kasta á [**Galdrabækur**](#spellbooks-d100) töflunni kastið d100 (eða 2d10 og notið annan teninginn fyrir tug og hinn fyrir einingar). 
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Sjá **Búnaðarlista** fyrir tölugildi brynvarnar, skaða og fjöldi hólfa. Smærri hlutir má oft pakka saman í eitt hólf. 
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [**Valfrjáls byrjunarbúnaður**](#optional-gear-packages).  
+
 
 <p></p>
 
-## Name & Background (d20)
+## Nafn og bakgrunnur (d20)
 
-#### Female Names
+#### Kvenmannsnöfn
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -204,7 +210,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
-#### Male Names
+#### Karlmannsnöfn
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -214,7 +220,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### Eftirnöfn
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -224,119 +230,119 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+#### Bakgrunnur
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+|1     |Alkemisti      |6   |Klerkur          |11   |Galdramaður |16    |Flytjandi |
+|2     |Járnsmiður     |7   |Fjárhættuspilari |12   |Málaliði    |17    |Vasaþjófur|
+|3     |Innbrotsþjófur |8   |Grafari          |13   |Kaupmaður   |18    |Smyglari  |
+|4     |Slátrari       |9   |Jurtalæknir      |14   |Námumaður   |19    |Þjónn     |
+|5     |Smiður         |10  |Veiðimaður       |15   |Útlagi      |20    |Rekki     |
 
 <p></p>
 
-## Character Traits (d10)
+## Persónueinkenni (d10)
 
-#### Physique
+#### Líkamsbygging
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 1        | Vöðvastælt/ur | 6    | Rengluleg/ur    |
+| 2        | Kraftmikil/l  | 7    | Lágvaxin/n      |
+| 3        | Feitlagin/n   | 8    | Tignarleg/ur |
+| 4        | Slánaleg/ur   | 9    | Þrekin/n      |
+| 5        | Harðgerð/ur   | 10   | Hávaxin/n   |
 
-#### Skin
+#### Húð
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| 1    | Fæðingarblettur  | 6    | Kúlulaga     |
+| 2    | Dökk             | 7    | Mjúk      |
+| 3    | Slöpp            | 8    | Sólbrún    |
+| 4    | Bólugrafin       | 9    | Húðflúrðuð  |
+| 5    | Rjóð             | 10   | Veðruð |
 
-#### Hair
+#### Hár
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1    | Sköllótt/ur    | 6    | Sítt      |
+| 2    | Fléttað        | 7    | Glæsilegt |
+| 3    | Krullað        | 8    | Feitt      |
+| 4    | Skítugt        | 9    | Bylgjótt      |
+| 5    | Úfið           | 10   | Strítt     |
 
-#### Face
+#### Andlit
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1    | Beinabert   | 6    | Fullkomið  |
+| 2    | Brotið      | 7    | Rottulegt |
+| 3    | Vel mótað   | 8    | Oddhvast    |
+| 4    | Langleitt   | 9    | Ferkantað   |
+| 5    | Fölt        | 10   |  Holt  |
 
-#### Speech
+#### Talandi
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1      | Hreinskilinn  | 6    | Grófur   |
+| 2      | Hávær         | 7    | Nákvæmur    |
+| 3      | Dularfullur   | 8    | Skrækur    |
+| 4      | Einhæfur      | 9    | Stamandi |
+| 5      | Formlegur     | 10   | Hvíslandi   |
 
-#### Clothing
+#### Klæðnaður
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | Forn       | 6    | Tættur |
+| 2        | Blóðugur   | 7    | Ósamstæður |
+| 3        | Glæsilegur | 8    | Einkennis |
+| 4        | Óhreinn    | 9    | Fúllykandi |
+| 5        | Framandi   | 10   | Blettóttur |
 
-#### Virtue
+#### Dyggð
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1      | Metnaðarfull/ur  | 6    | Heiðarleg/ur |
+| 2      | Varkár           | 7    | Hógvær    |
+| 3      | Hugrökk/rakkur   | 8    | Miskunnsamur  |
+| 4      | Agi              | 9    | Friðsæl/ur    |
+| 5      | Félagslynd/ur    | 10   | Umburðarlynd/ur  |
 
-#### Vice
+#### Löstur
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| 1    | Árásargjörn/gjarn | 6    | Löt/Latur     |
+| 2    | Bitur             | 7    | Taugaóstyrk/ur  |
+| 3    | Huglaus           | 8    | Dónaleg/ur     |
+| 4    | Svikul/l          | 9    | Hégómaleg(ur)     |
+| 5    | Gráðug/ur         | 10   | Hefnigjörn/gjarn |
 
-#### Reputation
+#### Orðstír
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| 1          | Metnaðarfull/ur   | 6    | Letingi    |
+| 2          | Dónaleg/ur        | 7    | Sérvitringur   |
+| 3          | Hættuleg/ur       | 8    | Ógeðfelld/ur |
+| 4          | Skemmtikraftur    | 9    | Virðuleg/ur |
+| 5          | Heiðarleg/ur      | 10   | Vitur      |
 
-#### Misfortunes
+#### Ógæfa
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 1           | Yfirgefinn   | 6    | Svikin/n   |
+| 2           | Fíkill       | 7    | Lækkuð/aður í tign     |
+| 3           | Fjárkúun     | 8    | Vanvirt/ur |
+| 4           | Dæmd/ur      | 9    | Afneituð/aður    |
+| 5           | Bölvuð/ur    | 10   | Útlæg/ur     |
 
 <p></p>
 
