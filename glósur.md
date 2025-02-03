@@ -2,4 +2,7 @@ https://app.questportal.com/library/0d17c480-917f-443f-a36b-9e3afdb86def/Jpmdtq9
 
 inventory slot: birgðahólf
 Brjóstvirki/brynstakkur
-Vatnsleitarstöng
+Vatnsleitarsproti
+Animate object
+
+kerfisviðmuðunarskjal

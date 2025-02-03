@@ -1,8 +1,8 @@
 ---
 layout: default
-title: First Edition
+title: Fyrsta Útgáfa
 nav_order: 2
 has_children: true
 ---
 
-# First Edition
+# Fyrsta Útgáfa

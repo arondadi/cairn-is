@@ -6,17 +6,17 @@ redirect_from: /cairn-srd/
 nav_order: 1
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Cairn kerfisviðmuðunarskjal (v.1.0)
 {: .no_toc }
 
 <p></p>
 
 **Cairn** er birt undir leyfi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+Skoðið [repo](https://github.com/yochaigal/cairn) eða hlaðið niður leiknum í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
 
-**Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum spilara.
-Spilarar leika harðgert ævintýrafólk að kanna dimman og dularfullan skóg fullan af undarlegurfólki, földum fjarsjóðum og ólýsanlegum skrímslum.
+**Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
+Leikmenn spila harðgert ævintýrafólk að kanna dimmann og dularfullann skóg fullan af undarlegur fólki, földum fjarsjóðum og ólýsanlegum skrímslum.
 
 <details close markdown="block">
   <summary id="index">
@@ -35,25 +35,25 @@ Spilarar leika harðgert ævintýrafólk að kanna dimman og dularfullan skóg f
 Hlutverk Varðarins er að miðla reglum, aðstæðum, aukapersónum og frásögn á skýran hátt á meðan hann sjálfur er hluthlaus dómari.
 
 ### Hlutverkalaust
-Hæfileikar og færni persónu eru ekki skorðað við einstaka hlutverk. Þess í stað er það búnaður sem hún ber og reynsla þeirra sem skilgreina sérhæfingu þeirra.
+Hæfileikar og færni persónu eru ekki skorðað við einstaka hlutverk. Þess í stað er það búnaðurinn sem hún ber og reynsla þeirra sem skilgreinir sérhæfingu persónunnar.
 
 ### Dauði
-Persónu eru ef til vill máttugar en þær eru einnig berskjaldaðar fyrir skaða í ýmsum myndum. Dauði er alltaf handan við hornið en aldrei tilviljunarkenndur eða án viðvörunnar.
+Persónur eru ef til vill máttugar en þær eru einnig berskjaldaðar fyrir skaða í ýmsum myndum. Dauðinn er alltaf handan við hornið en þó aldrei tilviljunarkenndur eða án viðvörunnar.
 
 ### Sagan fyrst
-Tengingar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Þess í stað eru árangur og mistök ákvörðuð af Verðinum í samtali við spilara byggt á þáttum heimsins. 
+Teningar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Árangur og mistök eru þess í stað ákvörðuð af Verðinum í samtali við spilara, byggt á þáttum heimsins. 
 
 ### Vöxtur
-Persónur breytast með framförum í heiminum, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
+Persónur breytast með framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
 
 ### Val leikmanna
-Leikmenn ættu alltaf að skilja ástæðurnar á bak við val sitt og upplýsinar um mögulegar hættur ættu að liggja fyrir.
+Leikmenn ættu alltaf að skilja ástæðurnar á bak við ákvarðanir sínar og upplýsinar um mögulegar hættur ættu að liggja fyrir.
 
 ### Meginreglur
-Vörðurinn og leikmenn hafa hver sínar leiðbeiningar sem stuðla að ákveðni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar er höfð í forgrunni.
+Vörðurinn og leikmennirnir hafa hver sínar leiðbeiningar sem stuðla að ákveðni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar í spili er höfð í forgrunni.
 
 ### Sameiginleg markmið
-Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
+Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
 
 
 [back to index](#index)
@@ -177,7 +177,7 @@ Persónur hafa samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyr
 
 Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saamn. Hólf eru abstrakt og má endurraða eftir mati Varðarins. 
 
-**Þungir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 VS.
+**þungtir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 VS.
 Persóna getur ekki borði meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar. **  
 
  items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. **Leiguliðar** geta einnig borið búnað gegn gjaldi.
@@ -248,21 +248,21 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Vöðvastælt/ur | 6    | Rengluleg/ur    |
-| 2        | Kraftmikil/l  | 7    | Lágvaxin/n      |
-| 3        | Feitlagin/n   | 8    | Tignarleg/ur |
-| 4        | Slánaleg/ur   | 9    | Þrekin/n      |
-| 5        | Harðgerð/ur   | 10   | Hávaxin/n   |
+| 1        | Vöðvastælt/ur | 6    | Rengluleg/ur   |
+| 2        | Kraftmikil/l  | 7    | Lágvaxin/n     |
+| 3        | Feitlagin/n   | 8    | Tignarleg/ur   |
+| 4        | Slánaleg/ur   | 9    | Þrekin/n       |
+| 5        | Harðgerð/ur   | 10   | Hávaxin/n      |
 
 #### Húð
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Fæðingarblettur  | 6    | Kúlulaga     |
-| 2    | Dökk             | 7    | Mjúk      |
+| 1    | Fæðingarblettur  | 6    | Kúlulaga   |
+| 2    | Dökk             | 7    | Mjúk       |
 | 3    | Slöpp            | 8    | Sólbrún    |
-| 4    | Bólugrafin       | 9    | Húðflúrðuð  |
-| 5    | Rjóð             | 10   | Veðruð |
+| 4    | Bólugrafin       | 9    | Húðflúrðuð |
+| 5    | Rjóð             | 10   | Veðruð     |
 
 #### Hár
 
@@ -270,37 +270,37 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | ---- | ------- | ---- | --------- |
 | 1    | Sköllótt/ur    | 6    | Sítt      |
 | 2    | Fléttað        | 7    | Glæsilegt |
-| 3    | Krullað        | 8    | Feitt      |
-| 4    | Skítugt        | 9    | Bylgjótt      |
-| 5    | Úfið           | 10   | Strítt     |
+| 3    | Krullað        | 8    | Feitt     |
+| 4    | Skítugt        | 9    | Bylgjótt  |
+| 5    | Úfið           | 10   | Strítt    |
 
 #### Andlit
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
 | 1    | Beinabert   | 6    | Fullkomið  |
-| 2    | Brotið      | 7    | Rottulegt |
-| 3    | Vel mótað   | 8    | Oddhvast    |
-| 4    | Langleitt   | 9    | Ferkantað   |
-| 5    | Fölt        | 10   |  Holt  |
+| 2    | Brotið      | 7    | Rottulegt  |
+| 3    | Vel mótað   | 8    | Oddhvast   |
+| 4    | Langleitt   | 9    | Ferkantað  |
+| 5    | Fölt        | 10   |  Holt      |
 
 #### Talandi
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Hreinskilinn  | 6    | Grófur   |
-| 2      | Hávær         | 7    | Nákvæmur    |
+| 1      | Hreinskilinn  | 6    | Grófur     |
+| 2      | Hávær         | 7    | Nákvæmur   |
 | 3      | Dularfullur   | 8    | Skrækur    |
-| 4      | Einhæfur      | 9    | Stamandi |
-| 5      | Formlegur     | 10   | Hvíslandi   |
+| 4      | Einhæfur      | 9    | Stamandi   |
+| 5      | Formlegur     | 10   | Hvíslandi  |
 
 #### Klæðnaður
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Forn       | 6    | Tættur |
+| 1        | Forn       | 6    | Tættur     |
 | 2        | Blóðugur   | 7    | Ósamstæður |
-| 3        | Glæsilegur | 8    | Einkennis |
+| 3        | Glæsilegur | 8    | Einkennis  |
 | 4        | Óhreinn    | 9    | Fúllykandi |
 | 5        | Framandi   | 10   | Blettóttur |
 
@@ -308,41 +308,41 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Metnaðarfull/ur  | 6    | Heiðarleg/ur |
-| 2      | Varkár           | 7    | Hógvær    |
-| 3      | Hugrökk/rakkur   | 8    | Miskunnsamur  |
-| 4      | Agi              | 9    | Friðsæl/ur    |
+| 1      | Metnaðarfull/ur  | 6    | Heiðarleg/ur     |
+| 2      | Varkár           | 7    | Hógvær           |
+| 3      | Hugrökk/rakkur   | 8    | Miskunnsamur     |
+| 4      | Agi              | 9    | Friðsæl/ur       |
 | 5      | Félagslynd/ur    | 10   | Umburðarlynd/ur  |
 
 #### Löstur
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | Árásargjörn/gjarn | 6    | Löt/Latur     |
-| 2    | Bitur             | 7    | Taugaóstyrk/ur  |
-| 3    | Huglaus           | 8    | Dónaleg/ur     |
-| 4    | Svikul/l          | 9    | Hégómaleg(ur)     |
+| 1    | Árásargjörn/gjarn | 6    | Löt/Latur        |
+| 2    | Bitur             | 7    | Taugaóstyrk/ur   |
+| 3    | Huglaus           | 8    | Dónaleg/ur       |
+| 4    | Svikul/l          | 9    | Hégómaleg(ur)    |
 | 5    | Gráðug/ur         | 10   | Hefnigjörn/gjarn |
 
 #### Orðstír
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Metnaðarfull/ur   | 6    | Letingi    |
-| 2          | Dónaleg/ur        | 7    | Sérvitringur   |
-| 3          | Hættuleg/ur       | 8    | Ógeðfelld/ur |
-| 4          | Skemmtikraftur    | 9    | Virðuleg/ur |
-| 5          | Heiðarleg/ur      | 10   | Vitur      |
+| 1          | Metnaðarfull/ur   | 6    | Letingi       |
+| 2          | Dónaleg/ur        | 7    | Sérvitringur  |
+| 3          | Hættuleg/ur       | 8    | Ógeðfelld/ur  |
+| 4          | Skemmtikraftur    | 9    | Virðuleg/ur   |
+| 5          | Heiðarleg/ur      | 10   | Vitur         |
 
 #### Ógæfa
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Yfirgefinn   | 6    | Svikin/n   |
-| 2           | Fíkill       | 7    | Lækkuð/aður í tign     |
-| 3           | Fjárkúun     | 8    | Vanvirt/ur |
-| 4           | Dæmd/ur      | 9    | Afneituð/aður    |
-| 5           | Bölvuð/ur    | 10   | Útlæg/ur     |
+| 1           | Yfirgefinn   | 6    | Svikin/n            |
+| 2           | Fíkill       | 7    | Lækkuð/aður í tign  |
+| 3           | Fjárkúun     | 8    | Vanvirt/ur          |
+| 4           | Dæmd/ur      | 9    | Afneituð/aður       |
+| 5           | Bölvuð/ur    | 10   | Útlæg/ur            |
 
 <p></p>
 
@@ -374,30 +374,30 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |      |                        |      |                |      |             |      |             |
 | ---- | ----------------------  | ---- | -------------- | ---- | ----------- | ---- | ----------- |
 | 1    | Sundblaðra              | 6    | Olía           | 11   | Handjárn       | 16   | Reipi (25 fet) |
-| 2    | Móteitur                | 7    | Klifurkrókur   | 12   | Haki           | 17   | Andafæla |
-| 3    | Kerra (+4 hólf, þungur) | 8    | Stór poki      | 13   | Stöng (10 fet) | 18   | Sjónauki    |
-| 4    | Keðja (10 fet)          | 9    | Dýragildra     | 14   | Trissa         | 19   | Eldfæri   |
-| 5    | Vatnsleitarstöng        | 10   | Þjófalyklar    | 15   | Fráhrinda      | 20   | Eiturjurtir   |
+| 2    | Móteitur                | 7    | Klifurkrókur   | 12   | Haki           | 17   | Andafæla       |
+| 3    | Kerra (+4 hólf, þungtur) | 8    | Stór poki      | 13   | Stöng (10 fet) | 18   | Sjónauki       |
+| 4    | Keðja (10 fet)          | 9    | Dýragildra     | 14   | Trissa         | 19   | Eldfæri        |
+| 5    | Vatnsleitarsproti        | 10   | Þjófalyklar    | 15   | Fráhrinda      | 20   | Eiturjurtir    |
 
 #### Verkfæri
 
 |      |          |      |                |      |            |      |         |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Físibelgur  | 6    | Eldunarpottar | 11   | Smurfita    | 16   | Net     |
-| 2    | Fata        | 7    | Kúbain        | 12   | Hamar       | 17   | Sög     |
-| 3    | Fótönglar   | 8    | Handbor       | 13   | Stundaglas  | 18   | Kítti |
-| 4    | Krít        | 9    | Veiðistöng    | 14   | Járnþjöl    | 19   | Skófla  |
-| 5    | Sporjárn    | 10   | Lím           | 15   | Naglar      | 20   | Tangir   |
+| 1    | Físibelgur  | 6    | Eldunarpottar | 11   | Smurfeiti    | 16   | Net     |
+| 2    | Fata        | 7    | Kúbein        | 12   | Hamar       | 17   | Sög     |
+| 3    | Fótönglar   | 8    | Handbor       | 13   | Stundaglas  | 18   | Kítti   |
+| 4    | Krít        | 9    | Veiðistöng    | 14   | Málmþjöl    | 19   | Skófla  |
+| 5    | Sporjárn    | 10   | Lím           | 15   | Naglar      | 20   | Tangir  |
 
 #### Smámunir
 
 |      |             |      |            |      |             |      |         |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Flaska           | 6    | Horn        | 11   | Spegll         | 16   | Sápa   |
-| 2    | Spilastokkur     | 7    | Reykelsi    | 12   | Ilmvatn        | 17   | Svampur  |
+| 1    | Flaska           | 6    | Horn        | 11   | Spegll         | 16   | Sápa        |
+| 2    | Spilastokkur     | 7    | Reykelsi    | 12   | Ilmvatn        | 17   | Svampur     |
 | 3    | Teningasett      | 8    | Hljóðfæri   | 13   | Blek og penni  | 18   | Tjörupottur |
-| 4    | Andlitsmáling    | 9    | Sjónlinsa   | 14   | Pakki af salti | 19   | Tvinni   |
-| 5    | Gerviskartgripir | 10   | Glerkúlur   | 15   | Lítil bjalla   | 20   | Flauta |
+| 4    | Andlitsmáling    | 9    | Sjónlinsa   | 14   | Pakki af salti | 19   | Tvinni      |
+| 5    | Gerviskartgripir | 10   | Glerkúlur   | 15   | Lítil bjalla   | 20   | Flauta      |
 
 #### Aukahlutur (Kastið aftur á töflu útkomunnar)
 
@@ -440,116 +440,116 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## Búnaður útlistun (Verð í gullpeningum)
 
-#### Armor
+#### Brynja
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Skjöldur (+1 Brynja)           |10   |
+|Hjálmur (+1 Brynja)            |10   |
+|Stungin klæði (+1 Brynja)      |15   |
+|Brynstakkur (1 Brynja, þungt)   |20   |
+|Hringabrynja (2 Brynja, þungt)  |40   |
+|Heilbrynja (3 Brynja, þungt)    |60   |
 
 #### Weapons
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
-|Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|Rýtingur, Kylfa, Sigð, Stafur, o.s.frv (d6 skaði)            |5    |
+|Spear, Sword, Mace, Axe, Flail, etc. (d8 skaði)           |10   |
+|Halberd, War Hammer, Long Sword, etc. (d10 skaði, þungt)  |20   |
+|Sling (d4 skaði)                                          |5    |
+|Bow (d6 skaði, þungt)                                     |20   |
+|Crossbow (d8 skaði, þungt)                                |30   |
 
-#### Gear & Tools
+#### Búnaður og verkfæri
 
 | |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|Sundblaðra                                   |5               |Dýragildra            |20        |
+|Físibelgur                                   |10              |Stór svampur          |5         |
+|Svefnpoki                                    |5               |Linsa                 |10        |
+|Bók                                          |50              |Þjófalyklar           |25        |
+|Fata                                         |5               |Handjárn              |10        |
+|Fótönglar                                    |10              |Málmþjöl              |5         |
+|Kerra (+4 hólf, þungt)                       |30              |Spegill               |5         |
+|Keðja (10 fet)                               |10              |Múldýr (+6 hólf, hægt)|30      |
+|Krít                                         |1               |Net                   |10        |
+|Sporjárn                                     |5               |Vatnsheldur poki      |5         |
+|Eldunarpottar                                |10              |Haki                  |10        |
+|Kúbein                                       |10              |Talía                 |10        |
+|Handbor                                      |10              |Stöng (10 fet)        |5         |
+|Andlitsmáling                                |10              |Blekpenni og bytta    |10        |
+|Olía                                         |10              |Vistir (Þriggja daga)|10        |
+|Veiðistöng                                   |10              |Reipi (25 fet)        |5         |
+|Glerkúlur                                    |5               |Sög                   |5         |
+|Lím                                          |5               |Poki                  |5         |
+|Smurfeiti                                    |10              |Skófla                |5         |
+|Klifurkrókur                                 |25              |Sápa                  |1         |
+|Hamar                                        |5               |Járnhæll              |1         |
+|Vígt vatn                                    |25              |Gaddaskór             |5         |
+|Horn                                         |10              |Sjónauki              |40        |
+|Hestur (+4 hólf)                             |75              |Tjara                 |10        |
+|Stundaglás                                   |50              |Tjald (tveggja manna, þungt)|20        |
+|Reykelsi                                     |10              |Kyndill               |1         |
+|Stigi (þungt, 10 fet)                        |10              |Vagn (+8 hólf, hægt)  |200    |
+|Lampi & olía                                 |10              |Eiturjurtir           |10        |
 
 <p></p>
 
-## Optional Gear Packages
+## Valfrjáls byrjunarbúnaður
 
-#### Cleric
+#### Klerkur
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Stríðshamar (d10, þungt)           |
+| Hringabrynja (+2 Brynja, þungt)        |
+| Brynhanskar (+1 Brynja)              |
+| Hreinsandi rýtingur (d6)              |
+| Helgitákn (_Vörn_ einu sinni á dag) |
+| Skykkja reglunnar sinnar                |
 
-#### Dowser
+#### Vatnsleitarmaður
 
 |                                           |
 |-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
+|Sigð (d6)                                |
+|Stunginklæði (+1 Brynja)               |
+|Vatnsleitarsproti                               |
+|Steinauga (_Skynja_ ef það er sett í fersk vatn)|
+|Gamalt kort                                   |
+|Sjónauki                                   |
 
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
+#### Dvergur
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+|Þyrnótt rót (d6)                        |
+|Könglastakkur (+1 Brynja)               |
+|Handspaði                               |
+|Krukka af skógarmaurum                  |
+|Eitraðir sveppir                        |
+|Handbor                                 |
+
+#### Álfur
+
+||
+|-----------------------------------------|
+|Fágað sverð (d8)                       |
+|Langbogi (d8)                         |
+|Gullslegin klæði (+1 Brynja)                  |
+|Galdrabók (_Heillun_ eða _Galdraskynjun_)    |
+|Gyllt flauta                             |
+|Sundblaðra                              |
 
 #### Fighter
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
+|Glaive (d10, þungt)                    |
 |Scimitar (d8)                          |
 |Shortsword (d6)                        |
 |Shortsword (d6)                        |
@@ -561,19 +561,19 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 ||
 |-------------------------------|
 |Scepter (d6)                   |
-|Deceptive Robes (+1 Armor)     |
+|Deceptive Robes (+1 Brynja)     |
 |Censer & Holy Water            |
 |Jug of Honey Wine              |
 |Folk Songbook                  |
-|Cart (+4 slots, bulky)         |
+|Cart (+4 slots, þungt)         |
 
 #### Knight
 
 |                            |
 | -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1 Armor)          |
+| Longsword (d10, þungt)     |
+| Chainmail (2 Brynja, þungt) |
+| Helmet (+1 Brynja)          |
 | Heraldic Cape              |
 | Manacles                   |
 | Fine Rope                  |
@@ -582,7 +582,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
+|Fizzled Staff (d8, þungt)                |
 |Dagger (d6)                              |
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
@@ -594,7 +594,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 ||
 |-----------------------------------------|
 |Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
+|Hooded Jerkin (1 Brynja)                  |
 |Lockpicks                                |
 |Caltrops                                 |
 |Grappling Hook                           |
@@ -604,9 +604,9 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |------------------------------------------|
-|Longbow (d8, bulky)                       |
+|Longbow (d8, þungt)                       |
 |Hatchet (d6)                              |
-|Padded Leathers (1 Armor)                 |
+|Padded Leathers (1 Brynja)                 |
 |Large Trap                                |
 |Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
 |Thundering Horn                           |
@@ -635,13 +635,13 @@ Expand For Example
 </details>
 
 ### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical skaði**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 ### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
 ### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
+Before calculating skaði to HP, subtract the target's **Armor** value from the result of skaði rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
@@ -712,56 +712,56 @@ Expand For Example
  _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
 </details>
 
-### Attacking & Damage
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+### Attacking & skaði
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 skaði.
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+ _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 skaði and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
 </details>
 
 ### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+If multiple attackers target the same foe, roll all skaði dice and keep the single highest result.
 
 ### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 skaði regardless of the attacks skaði die.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 skaði instead of their normal die.
 
 ### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+If attacking with two weapons at the same time, roll both skaði dice and keep the single highest result.
 
 ### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related skaði die for a result.
 
-### Critical Damage
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+### Critical skaði
+skaði that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical skaði**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical skaði save.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+Any PC that suffers critical skaði cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
 ### Ability Score Loss
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When skaði to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical skaði, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+Attacks against detachments by individuals are **impaired** (excluding blast skaði).  
+Attacks against individuals by detachments are **enhanced** and deal blast skaði.
 
 ### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
 ### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
+When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ skaði taken:
 
 |      |                                                              |
 |------ |---|
@@ -776,7 +776,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical skaði is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
 [back to index](#index)
 <p></p>
@@ -792,7 +792,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 **Hooded Men**  
 12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+- Critical skaði: leech a part of the victim's soul (1d4 WIL skaði).
 
 **Cobblehounds**  
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
@@ -802,7 +802,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 **Wood Troll**   
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
 - As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+- Critical skaði: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**  
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
@@ -822,13 +822,13 @@ Use the following template to model any more sophisticated Monster or NPC:
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+- Special effect or critical skaði consequence
 
 **General Principles**  
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
+- Use critical skaði to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
 **Converting from OSR Games**
@@ -838,12 +838,12 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 
 Some pointers:
 - Is it good at avoiding a hit? Give it HP.
-- Does it soak up damage? Give it Armor.
+- Does it soak up skaði? Give it Armor.
 - Is it strong? Give it a high **STR**.
 - Is it nimble? Give it high **DEX**.
 - Is it charismatic? Give it high **WIL**.
 
-Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+skaði die are roughly the same, though armed attacks do at least 1d6 skaði.
 
 [back to index](#index)
 <p></p>
@@ -874,10 +874,10 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
 | 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
 | 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
+| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or skaði. You can still control them. |
 | 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
 | 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
+| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be skaðid or collapse. |
 | 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
 | 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
 | 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
@@ -994,17 +994,17 @@ Given time and safety, PCs can enhance a spell without any additional cost. If t
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Before calculating skaði to HP, subtract the target's **Armor** value from the result of skaði rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
 
 No one can have more than 3 Armor.
 
-**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+**Unarmed** attacks always do 1d4 skaði. If **multiple attackers** target the same foe, roll all skaði dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both skaði dice and keep the highest.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+If an attack is **impaired** , the skaði die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
-**DAMAGE**  
+**skaði**  
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
  
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
+skaði that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical skaði.** Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
