@@ -16,7 +16,7 @@ nav_order: 1
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
 **Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum spilara.
-Spilarar leika harðgert ævintýrafólk að kanna dimman og dularfullan skóg fullan af kynjafólki, földum fjarsjóðum og ólýsanlegum skrímslum.
+Spilarar leika harðgert ævintýrafólk að kanna dimman og dularfullan skóg fullan af undarlegurfólki, földum fjarsjóðum og ólýsanlegum skrímslum.
 
 <details close markdown="block">
   <summary id="index">
@@ -29,7 +29,7 @@ Spilarar leika harðgert ævintýrafólk að kanna dimman og dularfullan skóg f
 
 ## Yfirlit
 
-**Cairn** var skrifað með eftirfarandi hönnunar hugtök í fyrirrúmi:
+**Cairn** var skrifað með eftirfarandi hugtök í fyrirrúmi:
 
 ### Hlutleysi
 Hlutverk Varðarins er að miðla reglum, aðstæðum, aukapersónum og frásögn á skýran hátt á meðan hann sjálfur er hluthlaus dómari.
