@@ -13,7 +13,7 @@ nav_order: 1
 
 **Cairn** er birt undir leyfi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-Skoðið [repo](https://github.com/yochaigal/cairn) eða hlaðið niður leiknum í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
+Skoðið [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
 
 **Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
 Leikmenn spila harðgert ævintýrafólk að kanna dimmann og dularfullann skóg fullan af undarlegur fólki, földum fjarsjóðum og ólýsanlegum skrímslum.
@@ -634,27 +634,27 @@ Dæmi
  _Bea hittir á hóp af þungavopnuðum drýslum standandi vörð um hellismunna. Leikmaður hennar skipuleggur varðlega leiðina, vitandi það að hún er með 13 í Fimi og að að læðast sé hennar besti valmöguleiki. Hún kastar d20 og útkoman er 10 - kastið heppnast!_
 </details>
 
-### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical skaði**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+### Lækning
+Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð VS en skilur hópinn eftir berskjaldaðann. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+### Skortur & Þreyta
+Persóna sem **skortir** eitthvað lífsnauðsynlegt (líkt og mat eða hvíld) getur ekki endurheimt VS eða eiginleikastig. Hver sá sem líður skort í meira en dag bætir við **Þreyta** í byrðahólf sitt, eina fyrir hvern dag. Hver einasta Þreyta tekur upp eitt hólf og endist þangað til persónan getur hvílst almennilega (eins og góður nætursvefn á öruggum stað). Persónur geta einnig bætt við sig Þreytu með að **kasta göldrum** eða í uppákomum í sögunni. 
 
-### Armor
-Before calculating skaði to HP, subtract the target's **Armor** value from the result of skaði rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+### Brynjur
+Áður er skaði á VS er reiknaður, dragið **Brynju** gildi skotmarksins frá skaða kastinu. Skildir og sambærilegar verjur veita brynvörn (þ.e. +1 Brynja) en einungis ef haldið á hlutnum eða hann borinn.
+Enginn getur haft meira en 3 Brynjur
+Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig það er notað.      
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+### Viðbrögð
+Þegar persónur hitta aukapersónur þar sem viðbrögð þeirra við hópinn eru ekki augljós þá getur Vörðurinn kastar 2d6 og ráðfært sig við eftirfarandi töflu:
 
 | | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| :-----:     | :--:        | :-----:   | :--:          | :--:       |
+|    2        |     3-5     |     6-8   |       9-11    |    12      |
+| Óvinveittur | Tortrygginn | Forvitinn | Vingjarnlegur | Hjálpsamur |
 
-### Morale
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+### Mórall
+Óvinir þurfa að takast VIL varnarkast til að forðast það að flýja þegar sá fyrsti þeirra fellur og aftur þegar þeir hafa miss helming liðstyrks síns. Sumir hópar mega nota VIL foringja síns heldur en þeirra eigin. Stakir óvinir þurfa að takast varnarkast þegar þeir fara í 0 VS. Mórall hefur ekki áhrif á persónur. 
 
 ### Hirelings
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
