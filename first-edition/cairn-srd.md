@@ -56,7 +56,7 @@ Vörðurinn og leikmennirnir hafa hver sínar leiðbeiningar sem stuðla að ák
 Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
 
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
 ## Meginreglur fyrir Vörðinn
@@ -107,7 +107,7 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 - Kast upp á 3 eða lægra táknar oft óheppni fyrir leikmenn eða bandamenn þeirra.
 
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
 ## Meginreglur fyrir spilara
@@ -142,7 +142,7 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 - Ekki búast við neinu. Aflaðu þér orðspors með gjörðum þínum.
 - Haltu sögunni gangandi og spilaðu til að sjá hvað gerist.
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
 ## Persónusköpun
@@ -177,7 +177,7 @@ Persónur hafa samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyr
 
 Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saamn. Hólf eru abstrakt og má endurraða eftir mati Varðarins. 
 
-**þungtir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 VS.
+**Þungtir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 VS.
 Persóna getur ekki borði meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar. **  
 
  items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. **Leiguliðar** geta einnig borið búnað gegn gjaldi.
@@ -375,7 +375,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | ---- | ----------------------  | ---- | -------------- | ---- | ----------- | ---- | ----------- |
 | 1    | Sundblaðra              | 6    | Olía           | 11   | Handjárn       | 16   | Reipi (25 fet) |
 | 2    | Móteitur                | 7    | Klifurkrókur   | 12   | Haki           | 17   | Andafæla       |
-| 3    | Kerra (+4 hólf, þungtur) | 8    | Stór poki      | 13   | Stöng (10 fet) | 18   | Sjónauki       |
+| 3    | Kerra (+4 hólf, Þungtur) | 8    | Stór poki      | 13   | Stöng (10 fet) | 18   | Sjónauki       |
 | 4    | Keðja (10 fet)          | 9    | Dýragildra     | 14   | Trissa         | 19   | Eldfæri        |
 | 5    | Vatnsleitarsproti        | 10   | Þjófalyklar    | 15   | Fráhrinda      | 20   | Eiturjurtir    |
 
@@ -449,20 +449,20 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Skjöldur (+1 Brynja)           |10   |
 |Hjálmur (+1 Brynja)            |10   |
 |Stungin klæði (+1 Brynja)      |15   |
-|Brynstakkur (1 Brynja, þungt)   |20   |
-|Hringabrynja (2 Brynja, þungt)  |40   |
-|Heilbrynja (3 Brynja, þungt)    |60   |
+|Brynstakkur (1 Brynja, Þungt)   |20   |
+|Hringabrynja (2 Brynja, Þungt)  |40   |
+|Heilbrynja (3 Brynja, Þungt)    |60   |
 
 #### Weapons
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Rýtingur, Kylfa, Sigð, Stafur, o.s.frv (d6 skaði)            |5    |
+|Rýtingur, Kylfa, Sigð, Stafur, o.s.frv (d6 skaði)          5    |
 |Spear, Sword, Mace, Axe, Flail, etc. (d8 skaði)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 skaði, þungt)  |20   |
+|Halberd, War Hammer, Long Sword, etc. (d10 skaði, Þungt)  |20   |
 |Sling (d4 skaði)                                          |5    |
-|Bow (d6 skaði, þungt)                                     |20   |
-|Crossbow (d8 skaði, þungt)                                |30   |
+|Bow (d6 skaði, Þungt)                                     |20   |
+|Crossbow (d8 skaði, Þungt)                                |30   |
 
 #### Búnaður og verkfæri
 
@@ -474,7 +474,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Bók                                          |50              |Þjófalyklar           |25        |
 |Fata                                         |5               |Handjárn              |10        |
 |Fótönglar                                    |10              |Málmþjöl              |5         |
-|Kerra (+4 hólf, þungt)                       |30              |Spegill               |5         |
+|Kerra (+4 hólf, Þungt)                       |30              |Spegill               |5         |
 |Keðja (10 fet)                               |10              |Múldýr (+6 hólf, hægt)|30      |
 |Krít                                         |1               |Net                   |10        |
 |Sporjárn                                     |5               |Vatnsheldur poki      |5         |
@@ -492,9 +492,9 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Vígt vatn                                    |25              |Gaddaskór             |5         |
 |Horn                                         |10              |Sjónauki              |40        |
 |Hestur (+4 hólf)                             |75              |Tjara                 |10        |
-|Stundaglás                                   |50              |Tjald (tveggja manna, þungt)|20        |
+|Stundaglás                                   |50              |Tjald (tveggja manna, Þungt)|20        |
 |Reykelsi                                     |10              |Kyndill               |1         |
-|Stigi (þungt, 10 fet)                        |10              |Vagn (+8 hólf, hægt)  |200    |
+|Stigi (Þungt, 10 fet)                        |10              |Vagn (+8 hólf, hægt)  |200    |
 |Lampi & olía                                 |10              |Eiturjurtir           |10        |
 
 <p></p>
@@ -505,8 +505,8 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |                                   |
 | --------------------------------- |
-| Stríðshamar (d10, þungt)           |
-| Hringabrynja (+2 Brynja, þungt)        |
+| Stríðshamar (d10, Þungt)           |
+| Hringabrynja (+2 Brynja, Þungt)        |
 | Brynhanskar (+1 Brynja)              |
 | Hreinsandi rýtingur (d6)              |
 | Helgitákn (_Vörn_ einu sinni á dag) |
@@ -538,100 +538,100 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |-----------------------------------------|
-|Fágað sverð (d8)                       |
-|Langbogi (d8)                         |
-|Gullslegin klæði (+1 Brynja)                  |
-|Galdrabók (_Heillun_ eða _Galdraskynjun_)    |
+|Fágað sverð (d8)                         |
+|Langbogi (d8)                            |
+|Gullslegin klæði (+1 Brynja)             |
+|Galdrabók (_Heillun_ eða _Galdraskynjun_)|
 |Gyllt flauta                             |
-|Sundblaðra                              |
+|Sundblaðra                               |
 
-#### Fighter
+#### Bardagamaður
 
 ||
 |---------------------------------------|
-|Glaive (d10, þungt)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Atgeir (d10, Þungt)                    |
+|Bjúgsverð (d8)                          |
+|Stuttsverð (d6)                        |
+|Stuttsverð (d6)                        |
+|Tóbakspoki og pípa                   |
+|Teningasett                               |
 
-#### Friar
+#### Munkur
 
 ||
 |-------------------------------|
-|Scepter (d6)                   |
-|Deceptive Robes (+1 Brynja)     |
-|Censer & Holy Water            |
-|Jug of Honey Wine              |
-|Folk Songbook                  |
-|Cart (+4 slots, þungt)         |
+|Stafur (d6)                   |
+|Blekkjandi kufl (+1 Brynja)   |
+|Reykelsisker & Vígt vatn      |
+|Kranna af hunangsvíni         |
+|Bók með þjóðlagasöngvum       |
+|Kerra (+4 hólf, Þungt)        |
 
-#### Knight
+#### Riddari
 
 |                            |
 | -------------------------- |
-| Longsword (d10, þungt)     |
-| Chainmail (2 Brynja, þungt) |
-| Helmet (+1 Brynja)          |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+| Langsverð (d10, Þungt)              |
+| Hringabrynja (2 Brynja, Þungt)      |
+| Hjálmur (+1 Brynja)                 |
+| Skikkja með skjaldarmerki herra síns|
+| Handjárn                            |
+| Fín klæði                           |
 
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, þungt)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see **Relics**)              |
-
-#### Thief
+#### Galdramaður
 
 ||
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Brynja)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+|Tómur galdrastafur (d8, Þungt)           |
+|Rýtingur (d6)                            |
+|Galdrabók (kastað upp á galdur)          |
+|Galdrabók (kastað upp á galdur)          |
+|Tötraleg föt (faldir vasar)              |
+|Lénsveppur (x2, sjá **Minjar**)          |
 
-#### Ranger
+#### Þjófur
+
+||
+|-----------------------------------------|
+|Tveir rýtingar (d6+d6)                   |
+|Leðurjakki með hettu (1 Brynja)          |
+|Þjófalyklar                              |
+|Fótönglar                                |
+|Klifurkrókur                             |
+|Málmþjöl                                 |
+
+#### Rekki
 
 ||
 |------------------------------------------|
-|Longbow (d8, þungt)                       |
-|Hatchet (d6)                              |
-|Padded Leathers (1 Brynja)                 |
-|Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
+|Langbogi (d8, Þungt)                     |
+|Handöxi (d6)                             |
+|Stungin klæði (1 Brynja)                 |
+|Dýragildra                               |
+|Blóðhundur &#124; 2 VS, 12 FIM, bit (d6) |
+|Gjallarhorn                              |
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+## Reglur
+### Eiginleikar
+Hver og einn **eiginleiki** er notaður í mismunadi aðstæðum (sjá **varnarköst** hér að neðan). 
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Styrkur (STY)**: Notaður fyrir varnarköst sem krefjast líkamlegra burða eins og lyfta upp hliðum, beygla rimla, verjast eitri o.s.frv.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Fimi (FIM)**: Notaður fyrir varnarköst sem krefjast líkamsstjórnar, hraða og viðbragða eins og forðast hættur, klifra, læðast, halda jafnvægi o.s.frv.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Viljastyrkur (VIL)**: Notaður fyrir varnarköst til þess að sannfæra, blekkja, yfirheyra, ógna, heilla, ögra, beita stjórnunargöldrum o.s.frv. 
 
-### Saves
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+### Varnarköst
+Varnarkast er teningakast til að forðast slæma útkomu á áhættusömum ákvörðunum og aðstæðum. Leikmaður kastar d20 fyrir viðeigandi eiginleikagildi. Ef kastið er jafn eða undir eiginleikagildinu þá tekst þeim varnarkastið. Annars mistekts þeim það. Ef 1 kemur upp teningnum heppnast kastið sama hvað og ef 20 kemur upp á teningnum mistekst það sama hvað. 
 
 <details markdown="block">
   <summary>
-Expand For Example
+Dæmi
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ _Bea hittir á hóp af þungavopnuðum drýslum standandi vörð um hellismunna. Leikmaður hennar skipuleggur varðlega leiðina, vitandi það að hún er með 13 í Fimi og að að læðast sé hennar besti valmöguleiki. Hún kastar d20 og útkoman er 10 - kastið heppnast!_
 </details>
 
 ### Healing
@@ -778,7 +778,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical skaði is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
 ## Bestiary
@@ -845,7 +845,7 @@ Some pointers:
 
 skaði die are roughly the same, though armed attacks do at least 1d6 skaði.
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
 ## 100 Spells
@@ -953,7 +953,7 @@ skaði die are roughly the same, though armed attacks do at least 1d6 skaði.
 | 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
 | 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
 
-[back to index](#index)
+[aftur í efnisyfirlit](#index)
 <p></p>
 
 # Rules Summary
