@@ -656,60 +656,59 @@ Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig þ
 ### Mórall
 Óvinir þurfa að takast VIL varnarkast til að forðast það að flýja þegar sá fyrsti þeirra fellur og aftur þegar þeir hafa miss helming liðstyrks síns. Sumir hópar mega nota VIL foringja síns heldur en þeirra eigin. Stakir óvinir þurfa að takast varnarkast þegar þeir fara í 0 VS. Mórall hefur ekki áhrif á persónur. 
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Leiguliðar
+Persónur geta leigt **leiguliða** til að aðstoða sig í leiðöngrum. Til að búa til leiguliða, kastaðu 3d6 fyrir hvern eiginleika, gefðu þeim síðan 1d6 VS og einfalt vopn (d6). Kastaðu á [**Persónusköpun**](#character-creation) töflunar fyrir fleiri persónueinkenni. Leigaliðar kosta 1-3 gp á dag, eða hluta af þeim fjársjóði sem hópurinn eignast.
 
-### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+### Auður og fjársjóður
+Algengasti peningurinn eru gullpeningar(gp), sem samsvarar 10 silfur peningum (sp) og 100 koparpeningum (kp).
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Fjárjóður er mjög verðmætur, oftast þungur og sjaldan gagnlegur fyrir utan verðgildi sitt. Hann getur verið beita til að draga persónur á framandi og hættulega staði og eru oft gættir af hættulegum óvinum.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Þorp, virki og hafnir stunda vöruskipti og verslun útfrá staðbundnu fágæti og verðgildi hlutar eða vöru. 
 
-## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+## Galdrar
+**Galdrabækur** innihalda einn galdur og taka upp eitt hólf. Þær geta hvorki verið afritaðar eða skapaðar. Þess í stað eru þær endurheimtar frá stöðum eins og grafhýsum, dýflissum og herrasetrum.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Galdrabækur búa stundum yfir óvenjulegum eiginleikum eða takmörkuðum, eins og að gefa frá sér óþef eða ónáttúrulega lykt þegar þær eru opnaðar, búa yfir meðfæddri greind eða vera aðeins læsilegar í tunglskini.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Galdrabækur laða að sér athygli þeirra sem sækjast eftir hinu duldu kröftum sem felast í þeim, og það er talið hættulegt að sýna þær opinberlega. 
 
-**Scrolls** are similar to Spellbooks, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+**Rullur** er svipaðar Galdrabókum, en:
+- Þær taka ekki birgðahólf.
+- Þær valda ekki þreytu.
+- Þær hverfa eftir eina notkun. 
 
-### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+### Að kasta göldrum
+Hver sem er getur brugðið á galdur með því að halda á Galdrabók í báðum höndum og lesa innihald hennar upphátt. Þau þurfa síðan að bæta við Þreytu í birgðirnar sem taka eitt hólf. Ef tími og öryggi er til staðar geta leikmenn _aukið_ áhrif galdurs (t.d. beitt honum á fleiri skotmörk, aukið svo kraft hans o.s.frv.) án viðbótarkostnaðar. Ef persóna er í hættu eða við skort getur Vörðurinn krafið persónuna um um VIL kast til að forðast slæmar afleiðingar galdursins. Afleiðingar mistaka eru í samræmi við áhrif galdursins og geta falið í sér Þreytu, eyðileggingu galdrabókarinnar, meiðsli eða jafnvel dauða.
 
-### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Minjar
+**Minjar** eru hlutir sem eru gæddir galdri eða kröftum. Þeir valda ekki Þreytu. Minjar hafa yfirleitt takmarkaða notkun og sérstakar kröfur um endurhleðslu. Nokkur dæmi:
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Hunanslás**, 3 hleðslur. Ryðgaður hringur sem minnkar það sem ber hann í 6 tommur. Endurhleðsla: setja í fingurbjargarstórt ílát af konungshunangi. 
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Vinur fálkatemjarans**, 1 hleðsla. Stafur í laginu eins og skotbolti sem geymir _Flýtir_ galdurinn. Endurhleðsla: skjóta úr lásaboga og endurheimta. 
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Þagnarstafur**, 1 hleðsla. Svartur sproti sem tímabundið slekkur á öllum göldrum innan 50 feta radíus. Endurhleðsla: Baða í fullu tunglskini. 
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Lénsveppur**, 1 hleðsla. Sá sem neytir þessa grænskorpótta svepps losnar við Þreytu en verður að kasta upp á VIL varnarkast til að forðast ávanabindandi áhrif hans. Að mistakast kastið lætur persónuna líða skort og ófær um að einbeita sér þar til hún neytir annars lénsvepps, sem veitir aðeins skammvinna hvíld frá fíkninni.  
 
-## Combat
+## Bardagi
 
-### Rounds
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### Umferð
+Leikurinn er ofast spilaður án strangrar tímaskráningar. Í bardaga eða aðstæðum þar sem tímasetning skiptir máli, skal nota lotur til að fylgjast með atburðarásinni. **Umferð** samsvarar u.þ.b. tíu sekúndur í leiknum og samanstendur af nokkrum lotum. 
 
-### Actions
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### Aðgerðir
+Í sinni lotu getur persóna fært sig allt að 40 fet og framkvæmt eina aðgerð. Þetta getur verið að kasta galdri, ráðast á, hreyfa sig aftur, eða framkvæma aðra viðeigandi aðgerð. 
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Í hverru umferð tilkynna persónur hvað þær ætla að gera áður en teningum er kastað. Ef persóna reynir eitthvað áhættusamt, biður Vörðurinn um varnarköst fyrir viðeigandi leikmenn eða aukapersónur.
 
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
-
+### Lotur
+Vörðurinn gefur til kynna líklegar aðgerðir aukapersóna eða skrímsla. Í upphafi bardaga verður hver persóna að framkvæma FIM varnarkast til að athafast á undan andstæðingum sínum. 
 <details markdown="block">
   <summary>
-Expand For Example
+Dæmi:
  </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+ _Bea hefur óvart ráfað inna á umráðarsvæði risastórs skógartrölls. Til að geta gert á undan tröllinu þarf hún að gera FIM varnarkast. Henni mistekst og tröllið fær að ráðast á fyrst._
 </details>
 
 ### Attacking & skaði
