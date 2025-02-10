@@ -166,10 +166,10 @@ Expand For Example
  Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
 </details>
 
-### Varnarstig
-Kastaðu 1d6 til að ákvarða þau **Varnarstig (VS)** sem persónan byrjar með. VS endurspegla eiginleika persónunnar 
-til að forðast skaða í bardaga. VS tákna ekki líkamlega heilsu eða æðruleysi persónunnar né tapar hún þeim í lengri tíma
- (Sjá **Lækning**). Ef árás lækkar VS persónun nákvæmlega niður í 0 þá þarf leikmaðurinn að kasta upp á [**Ör**](/cairn-srd#scars-1) töflunni. 
+### Höggþol
+Kastaðu 1d6 til að ákvarða það **Höggþol (HP)** sem persónan byrjar með. HP endurspegla eiginleika persónunnar 
+til að forðast skaða í bardaga. HP tákna ekki líkamlega heilsu eða æðruleysi persónunnar né tapar hún þeim í lengri tíma
+ (Sjá **Lækning**). Ef árás lækkar HP persónun nákvæmlega niður í 0 þá þarf leikmaðurinn að kasta upp á [**Ör**](/cairn-srd#scars-1) töflunni. 
 
 #### Birgðir
 Persónur hafa samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf fyrir efri hluta líkama
@@ -177,7 +177,7 @@ Persónur hafa samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyr
 
 Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saamn. Hólf eru abstrakt og má endurraða eftir mati Varðarins. 
 
-**Þungtir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 VS.
+**Þungtir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 HP.
 Persóna getur ekki borði meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar. **  
 
  items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. **Leiguliðar** geta einnig borið búnað gegn gjaldi.
@@ -414,20 +414,20 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |---|-----------------|---|----------------|---|---------------|---|---------------|
 |1  |Líming           |26 |Jarðskjálfti      |51 |Grímuball     |76 |Reykform           |
 |2  |Akkeri           |27 |Teygjanleiki      |52 |Smækkun       |77 |Þefa               |
-|3  |Uppvakning hlut  |28 |Frumaflsveggur    |53 |Spegilmynd    |78 |Slökkva            |
+|3  |Uppvakning hluts |28 |Frumaflsveggur    |53 |Spegilmynd    |78 |Slökkva            |
 |4  |Mannvæða         |29 |Fjarhnupl         |54 |Spegillganga  |79 |Flokka             |
 |5  |Töfraauga        |30 |Glampi            |55 |Fjölarmur     |80 |Tálsýn             |
 |6  |Geimfangelsi     |31 |Þokuský           |56 |Nátthnöttur   |81 |Galdrasög          |
-|7  |Draga að         |32 |Æði               |57 |Hlutagera     |82 |Köngulóarklifur    |
+|7  |Aðdráttur        |32 |Æði               |57 |Hlutagera     |82 |Köngulóarklifur    |
 |8  |Hljóðblekking    |33 |Hlið              |58 |Slímform      |83 |Framkalla kubba    |
 |9  |Babl             |34 |Snúa þyngdarafli  |59 |Friða         |84 |Ger                |
-|10 |Tálbeitublóm     |35 |Græðgi            |60 |Fælni         |85 |Hugarflutningur    |
+|10 |Beitublóm        |35 |Græðgi            |60 |Fælni         |85 |Hugarflutningur    |
 |11 |Dýrsform         |36 |Flýtir            |61 |Gryfja        |86 |Hugarsamskipti     |
 |12 |Ringla           |37 |Hatri             |62 |Frumbylgja    |87 |Fjarflutningur     |
 |13 |Líkamsskipti     |38 |Hvíslheyrn        |63 |Ýta/Draga     |88 |Markbeita          |
 |14 |Heillun          |39 |Svífa             |64 |Upprisa       |89 |Þykkni             |
 |15 |Skipun           |40 |Dáleiðsla         |65 |Framkalla anda|90 |Framkalla líkneski |
-|16 |Skilja           |41 |Íssnerting        |66 |Hugarlestur   |91 |Tímastjórn         |
+|16 |Skilningur       |41 |Íssnerting        |66 |Hugarlestur   |91 |Tímastjórn         |
 |17 |Froðukeila       |42 |Auðkenna eiganda  |67 |Fráhrinda     |92 |Sannsjón           |
 |18 |Stjórna plöntum  |43 |Lýsa upp          |68 |Skyggnast     |93 |Uppstreymi         |
 |19 |Stjórna veðri    |44 |Ósýnilegt tjóður  |69 |Móta frumefni |94 |Vision             |
@@ -608,7 +608,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Handöxi (d6)                             |
 |Stungin klæði (1 Brynja)                 |
 |Dýragildra                               |
-|Blóðhundur &#124; 2 VS, 12 FIM, bit (d6) |
+|Blóðhundur &#124; 2 HP, 12 FIM, bit (d6) |
 |Gjallarhorn                              |
 
 [aftur í efnisyfirlit](#index)
@@ -635,13 +635,13 @@ Dæmi
 </details>
 
 ### Lækning
-Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð VS en skilur hópinn eftir berskjaldaðann. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
+Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð HP en skilur hópinn eftir berskjaldaðann. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
 
 ### Skortur & Þreyta
-Persóna sem **skortir** eitthvað lífsnauðsynlegt (líkt og mat eða hvíld) getur ekki endurheimt VS eða eiginleikastig. Hver sá sem líður skort í meira en dag bætir við **Þreyta** í byrðahólf sitt, eina fyrir hvern dag. Hver einasta Þreyta tekur upp eitt hólf og endist þangað til persónan getur hvílst almennilega (eins og góður nætursvefn á öruggum stað). Persónur geta einnig bætt við sig Þreytu með að **kasta göldrum** eða í uppákomum í sögunni. 
+Persóna sem **skortir** eitthvað lífsnauðsynlegt (líkt og mat eða hvíld) getur ekki endurheimt HP eða eiginleikastig. Hver sá sem líður skort í meira en dag bætir við **Þreyta** í byrðahólf sitt, eina fyrir hvern dag. Hver einasta Þreyta tekur upp eitt hólf og endist þangað til persónan getur hvílst almennilega (eins og góður nætursvefn á öruggum stað). Persónur geta einnig bætt við sig Þreytu með að **kasta göldrum** eða í uppákomum í sögunni. 
 
 ### Brynjur
-Áður er skaði á VS er reiknaður, dragið **Brynju** gildi skotmarksins frá skaða kastinu. Skildir og sambærilegar verjur veita brynvörn (þ.e. +1 Brynja) en einungis ef haldið á hlutnum eða hann borinn.
+Áður er skaði á HP er reiknaður, dragið **Brynju** gildi skotmarksins frá skaða kastinu. Skildir og sambærilegar verjur veita brynvörn (þ.e. +1 Brynja) en einungis ef haldið á hlutnum eða hann borinn.
 Enginn getur haft meira en 3 Brynjur
 Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig það er notað.      
 
@@ -654,10 +654,10 @@ Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig þ
 | Óvinveittur | Tortrygginn | Forvitinn | Vingjarnlegur | Hjálpsamur |
 
 ### Mórall
-Óvinir þurfa að takast VIL varnarkast til að forðast það að flýja þegar sá fyrsti þeirra fellur og aftur þegar þeir hafa miss helming liðstyrks síns. Sumir hópar mega nota VIL foringja síns heldur en þeirra eigin. Stakir óvinir þurfa að takast varnarkast þegar þeir fara í 0 VS. Mórall hefur ekki áhrif á persónur. 
+Óvinir þurfa að takast VIL varnarkast til að forðast það að flýja þegar sá fyrsti þeirra fellur og aftur þegar þeir hafa miss helming liðstyrks síns. Sumir hópar mega nota VIL foringja síns heldur en þeirra eigin. Stakir óvinir þurfa að takast varnarkast þegar þeir fara í 0 HP. Mórall hefur ekki áhrif á persónur. 
 
 ### Leiguliðar
-Persónur geta leigt **leiguliða** til að aðstoða sig í leiðöngrum. Til að búa til leiguliða, kastaðu 3d6 fyrir hvern eiginleika, gefðu þeim síðan 1d6 VS og einfalt vopn (d6). Kastaðu á [**Persónusköpun**](#character-creation) töflunar fyrir fleiri persónueinkenni. Leigaliðar kosta 1-3 gp á dag, eða hluta af þeim fjársjóði sem hópurinn eignast.
+Persónur geta leigt **leiguliða** til að aðstoða sig í leiðöngrum. Til að búa til leiguliða, kastaðu 3d6 fyrir hvern eiginleika, gefðu þeim síðan 1d6 HP og einfalt vopn (d6). Kastaðu á [**Persónusköpun**](#character-creation) töflunar fyrir fleiri persónueinkenni. Leigaliðar kosta 1-3 gp á dag, eða hluta af þeim fjársjóði sem hópurinn eignast.
 
 ### Auður og fjársjóður
 Algengasti peningurinn eru gullpeningar(gp), sem samsvarar 10 silfur peningum (sp) og 100 koparpeningum (kp).
@@ -684,7 +684,7 @@ Hver sem er getur brugðið á galdur með því að halda á Galdrabók í bá�
 ### Minjar
 **Minjar** eru hlutir sem eru gæddir galdri eða kröftum. Þeir valda ekki Þreytu. Minjar hafa yfirleitt takmarkaða notkun og sérstakar kröfur um endurhleðslu. Nokkur dæmi:
 
-**Hunanslás**, 3 hleðslur. Ryðgaður hringur sem minnkar það sem ber hann í 6 tommur. Endurhleðsla: setja í fingurbjargarstórt ílát af konungshunangi. 
+**Hunangslás**, 3 hleðslur. Ryðgaður hringur sem minnkar það sem ber hann í 6 tommur. Endurhleðsla: setja í fingurbjargarstórt ílát af konungshunangi. 
 
 **Vinur fálkatemjarans**, 1 hleðsla. Stafur í laginu eins og skotbolti sem geymir _Flýtir_ galdurinn. Endurhleðsla: skjóta úr lásaboga og endurheimta. 
 
@@ -711,138 +711,141 @@ Dæmi:
  _Bea hefur óvart ráfað inna á umráðarsvæði risastórs skógartrölls. Til að geta gert á undan tröllinu þarf hún að gera FIM varnarkast. Henni mistekst og tröllið fær að ráðast á fyrst._
 </details>
 
-### Attacking & skaði
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 skaði.
+### Árásir & skaði
+Sá sem framkvæmir árás kastar vopnateningi sínum og dregur frá brynju skotmarksins og afgangurinn er skaði sem dregst frá HP andstæðingins. Óvopnaðar árásir valda alltaf 1d4 skaða. 
 
 <details markdown="block">
   <summary>
-Expand For Example
+Dæmi
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 skaði and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
+ _Skógartröllið öskrar og sveiflar kylfunni sinni að Bea, sem er með 5 HP. Kylfan gerir 1d10 skaða og Vörðurinn kastar upp á 4. Hann dregur 1 frá þar sem Bea er í leðurbrynju þannig hún hefur 2 HP eftir._
 </details>
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all skaði dice and keep the single highest result.
+### Margir árásarmenn
+Ef margir árásarmenn ráðast á sama andstæðing, kastið öllum skaðateningum og haldið hæstu útkomunni.
 
-### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 skaði regardless of the attacks skaði die.
+### Árásar breytur
+Ef barist er úr veikri stöðu (t.d. á óvin í skjóli eða með bundnar hendur), er árásin **skert** og árásarmaðurinn verður að kasta 1d4 óháð skaðatening vopnsins sem hann beitir. 
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 skaði instead of their normal die.
+Ef barist er úr yfirburðastöðu (t.d. gegn varnarlausum óvini eða með djörfu bragði), er árásin **elfd** og árásarmaðurinn kastar 1d12 skaða í stað hefðbundsins skaðatenings. 
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both skaði dice and keep the single highest result.
+### Tvö vopn
+Ef ráðist er með tveimur vopnum samtímis, kastið báðum skaðateningum og haldið hæstu útkomunni.
 
-### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related skaði die for a result.
+### Sprengiskaði
+Árásir með **sprengiskaða** eiginleikann hafa áhring á öll skotmörk innan tilgreinds svæðis og er kastað sérstaklega fyrir hvern sem verður fyrir áhrifum. Sprengiskaði getur vísað til allt frá sprengingum, mjög öflugra höggárása og jafnvel áreksturs loftsteins. Ef óvissa ríkir um fjölda skotmarka, kastið viðeigandi skaðateningi til að ákvarða fjöld.
 
-### Critical skaði
-skaði that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical skaði**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical skaði save.
+### Bannvænn skaði
+Skaði sem lækkar HP skotmarks niður fyrir núll dregur STY gildi þess niður um mismuninn. Það þarf að kastar upp á STY varnarkast til að forðast **banvænan skaða**. Að auki geta sumir óvinir búið yfir sérstökum eiginleikum eða áhrifum sem virkjast þegar skotmark þeirra fellur á varnakastinu við banvænum skaða.
 
-Any PC that suffers critical skaði cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+Hver sú persóna sem verður fyrir banvænum skaða getur ekki gert neitt annað en að skríða veiklulega um og barist fyrir lífi sínu. Ef þeim er veitt hjálp og hvíld þá ná þau stöðugleika. Ef persónan fær ekki aðhlynningu deyr hún innan klukkustundar. 
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+### Tap á eiginleikastigum
+Ef STY persónu fullur í 0, deyr hún. Ef FIM hennar fellur í 0, lamast húns. Ef VIL hennar fellur í 0, verður hún ringluð og óráðin. 
+Þegar FIM og VIL fellur niður í 0 getur persóna ekkert aðhafast þangað til hún jafnar sig með lengri hvíld eða með óvenjulegum leiðum.  
 
-### Scars
-When skaði to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+### Ör
+Þegar skaði á persónu lækkar HP hennar niður í nákvæmlega 0 getur það haft óafturkræf áhrif áhana. Sjá [**ÖR**](/cairn-srd#scars-1) töflu fyrir frekari upplýsingar. 
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical skaði, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Meðvitundarleysi & dauði
+Þegar persóna deyr er leikmanninum frjálst að skapa nýja persónu eða taka stjórn á leiguliða. Nýja persónan gengur tafarlaust til liðs við hópinn til að lágmarka biðtíma.
 
-Attacks against detachments by individuals are **impaired** (excluding blast skaði).  
-Attacks against individuals by detachments are **enhanced** and deal blast skaði.
+### Hersveitir
+Stórir hópar af svipuðum bardagamönnum sem berjast saman eru meðhöndlaðir sem stök **hersveit**. Þegar hersveit verður fyrir banvænum skaða er hún annaðhvort tvístrað eða verulega veikluð. Þegar hún nær 0 STY er hún upprætt.
 
-### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+Árásir einstaklinga gegn hersveitum eru **skertar** (nema með sprengiskaða).
+Árásir hersveita gegn einstaklingum eru **elfd** og valda sprengiskaða.
 
-### Scars
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ skaði taken:
+### Undanhald
+Flótti úr hættulegum aðstæðum krefst alltaf heppnaðs FIM varnarkasts, ásamt öruggann stað til að flýja til. 
+
+### Ör
+Þegar árás lækkar HP persónu niður í nákvæmlega 0 hefur það einstök áhrif á hana. Skoðið töfluna að neðan með tillit til _heildar_ skaða sem persónan varð fyrir:
 
 |      |                                                              |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical skaði is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 1    | Varanlegt ör: Kastaður 1d6 &#124; 1: Háls, 2: Hendur, 3: Auga, 4: Bringa, 5: Fótleggir, 6: Eyra. Kastaðu 1d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna.|
+| 2    | Skelfingarhögg: Þú ert ringlaður og skjálfandi. Lýstu hvernig þú nær áttum. Kastaðu 1d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna. |
+| 3    | Skellur: Þér er kastað til og lendir flatur á andlitinu, úrvinda. Þú líður skort þangað til þú hvílist í nokkrar klukkustundir. Þá kastaru 1d6 og bætir þeirri tölu við hámarks HP þín. |
+| 4    | Brotinn útlimur: Kastaðu 1d6 &#124; 1-2: Fótleggur, 3-4: Handleggur, 5: Rifbein, 6: Hauskúpa. Þegar það er gróið kastaðu 2d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna.|
+| 5    | Sýktur: Þú ert þjakaður af ógeðfelldri og óþæginlegri sýkingu. Þegar þú nærð bata kastaðu 2d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna. |
+| 6    | Ruglaði höfuðhögg: Kastaðu 1d6 &#124; 1-2: STY, 3-4: FIM, 5-6: VIL. Kastaðu 3d6. Ef útkoman er hærri en núverandi eiginleikagildi þín taktu nýju útkomuna. |
+| 7    | Farlama: Þú getur varla hreyft þig fyrr en þú færð nauðsynlega aðstoð og hvíld. Eftir bata kastaðu 3d6. Ef útkoman er hærri en hámarks FIM stig þín taktu nýju útkomuna.|
+| 8    | Heyrnalaus: Þú heyrir ekkert fyrr en þú færð óvenjulega aðstoð. Sama hvað, kastaðu upp á VIL varnarkast. Ef það tekst hækkaðu hámarks VIL stig þín um 1d4.|
+| 9    | Hugur úr skorðum: Dulin hlið á hugarheimi þínum losnar úr læðingi. Kastaðu 3d6. Ef útkoman er hærri en hámarks VIL stig þín taktu nýju útkomunum.|
+| 10   | Sundurslitinn: Útlimur er rifinn af, lamaður eða ónothæfur. Vörðurinn tilgreinir hvaða. Kastaðu síðan VIL varnarkast. Ef það tekst hækkuðu hámarks VIL um 1d6.|
+| 11   | Banvænt sár: Þú líður skort og úr leik. Þú deyrð innan stundar nema þú fáir lækningu. Ef þú lifir af kastaðu 2d6. Taktu nýju útkomuna sem hámarks HP.|
+| 12   | Dauðvona: Dauðinn var skuggalega nærri en einhvernmeginn lifðir þú af. Ef næsta varnarkast þinn við bannvænum skaða mistekst deyrðu hryllilega. Ef það tekst kastaður 3d6. Ef útkoman er hærri en hámarks HP þín taktu nýju útkomuna.  |
 
 [aftur í efnisyfirlit](#index)
 <p></p>
 
-## Bestiary
+## Skrímslaskrá
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical skaði: leech a part of the victim's soul (1d4 WIL skaði).
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+**Rótardrýsill** 
+4 HP, 8 STY, 14 FIM, 8 VIL, spjót (d6)
+- Forðast bardaga nema þeir hafi yfirburði (t.d. fleri í hóp).
+- Verja stolnar eignir sínar til dauða.
+- Þrá galdrabækur og eru tilbúnir að eiga viðskipti með þær.
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical skaði: moss and twigs begin growing out of target's wounds.
+**Hettuklæddir menn**  
+12 HP, 9 STY, 12 FIM, 14 VIL, orku stafur (d8), galdrabók (Veldu eina: _Heillun_, _Dáleiðsla_, _Ýta/Draga_, Skjöldur_)
+- Verndarar skógarins; sértrúarsöfnuður sem sækir mátt sinn frá orkulínum, rúnasteinum og þess háttar.
+- Bannvann skaði: Sogar hluta af sál fórnarlambsins (1d4 VIL skaði).
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**Steinhundar**  
+12 HP, 2 Brynja, 14 STY, 1 FIM, 8 VIL, bit (d10)
+- Óhreyfanleg verkmenni, oft notaðar sem varðmenn yfir miklum gröfum eða gripum.
+- Ónæm fyrir venjulegum fortölum - en elska gott bein. love a good bone.
 
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+**Skógartröll**   
+12 HP, 15 STY, 12 FIM, 7 VIL, klær og bit (d8+d8 sprengiskaði)
+- Getur endurheimt töpuð HP sem aðgerð.
+- Bannvænn skaði: Mosi og kvistir byrja að vaxa úr sárum skotmarksins. 
 
-### Creating Monsters
-Use the following template to model any more sophisticated Monster or NPC:
+**Frostálfur**  
+14 HP, 1 Brynja, 8 STY, 13 FIM, 14 VIL, grýlukertisrýtingur (d6), galdrabók (Veldu eina: _Svefn_, _Fjarflutningur_, _Galdraskynjun_)
+- Fagrir, siðlausir og langlífir.
+- Ónæmir fyrir flestum tegundum galdra.
 
-**Name**  
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical skaði consequence
+**Boggi**  
+3 HP, 4 STY, 17 FIM, 13 VIL
+- Villtur, loðinn hrekkjalómur sem nýtur þess að vera til minniháttar ónæðis.
+- Þráir helgigripi og skínandi smáhluti ofar öllu en neitar að skipta þeim fyrir mynt.
+- Boggar hafa nöfn sem lýsa eðli þeirra. Að vita þeirra sanna nafn veitir stjórn yfir honum. 
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical skaði to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+### Að skaða skrímsli
+Notið eftirfarandi sniðmát til að móta flóknari skrímsli eða aukapersónur:
 
-**Converting from OSR Games**
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
-- **Morale** can also be used as a baseline.
+**Nafn**
+X HP, X Brynja, X STY, X FIM, X VIL, vopn (dX, sérstakir gripir, eiginleikar)
+- Lýsing á útliti eða framkomu.
+- Sérkenni, taktík eða eiginleikaar sem gerir þessa aukapersónu einstaka.
+- Sérstök áhrif eða afleiðingar af bannvænum skaða.
 
-Some pointers:
-- Is it good at avoiding a hit? Give it HP.
-- Does it soak up skaði? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+**Almennar reglur**
+Eiginleikasgildi: 3 er ófullnæjandi, 6 er veikt, 10 er meðal, 14 er merkilegt og 18 er magnað. Breyttu eftir þörfum. 
+- Gefðu meðal skepnu 3 HP, gefðu harðgerðri 6 HP og alvarlegum óvinum 10+ HP.
+- Notaður bragð og stíl til að hjálpa þeim að standa upp úr. Leikmenn munu muna eftir svínslegri mannveru að leita að týndu kindinni sinni frekar en almennri drýsilbogaskyttu. 
+- Notaðu bannvænan skaða til að draga fram ógnina eða undarlegheitin hjá hvers konar árásargjarni aukapersónu. 
+- Mundu að HP er **Höggþol**, ekki heilsupunktar. Það er mælikvarði á seiglu, heppni og áræðni, ekki heilsu. 
 
-skaði die are roughly the same, though armed attacks do at least 1d6 skaði.
+**Að umbreyta úr öðrum OSR (_Old School Renaissance_) spilum**
+- Gefðu 1 HP fyrir hvern HD fyrir flestar verur.
+- Flestar mannverur hafa að minnsta kosti 4 HP.
+- **Mórall** getur líka verið notað sem grunnur.
+
+Nokkur ráð:
+- Er það gott að forðast högg. Gefðu því HP.
+- Sogar það í sig skaða? Gefðu því Brynju. 
+- Er það sterkt? Gefðu því hátt **STY**.
+- Er það fimt? Gefðu því hátt **FIM**.
+- Er það heillandi? GEfðu því hátt **WIL**.
+
+Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera að minnsta kosti 1d6 skaða.
 
 [aftur í efnisyfirlit](#index)
 <p></p>
@@ -851,26 +854,26 @@ skaði die are roughly the same, though armed attacks do at least 1d6 skaði.
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think. It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
+| 1    | [Líming](#adhere)                       | Hlutur er þakinn mjög klístruðu slími.              |
+| 2    | [Akkeri](#anchor)                       | Sterkur vír sprettur frá höndum þér og festir sig við tvo punkta innan 50 feta á hvorri hlið.|
+| 3    | [Uppvakning hluts](#animate-object)     | Hlutir fylgir skipunum þínum eftir bestu getu.          |
+| 4    | [Mannvæða](#anthropomorphize)           | Dýr öðlast annað hvort mannlega vitsmuni eða mannlegt útlit í einn dag. |
+| 5    | [Töfraauga](#arcane-eye)                | Þú getur séð í gegnum fljótandi töfraauga sem flýgur um eftir skipun þinni. |
+| 6    | [Geimfangelsi](#astral-prison)          | Hlutur er frystur í tíma og rúmi fyrir innan óbrjótanlega kristalsskel. |
+| 7    | [Aðdráttur](#attract)                   | Tveir hlutir eru mjög segulmagnaðir að hvor öðrum ef þeir koma innan við 10 fet frá hvor öðrum. |
+| 8    | [Hljóðblekking](#auditory-illusion)     | Þú skapar blekkingar hljóð sem virðast koma úr átt að þínu vali. |
+| 9    | [Babl](#babble)                         | Vera þarf að endurtaka hátt og skýrt allt sem þú hugsar. Annars er hún mállaus. |
+| 10   | [Beitublóm](#bait-flower)               | Planta sprettur úr jörðinni sem gefur frá sér lykt af rotnandi holdi. |
+| 11   | [Dýrsform](#beast-form)                 | Þú og eigur þínar skipta ham yfir í hefðbundið dýr. |
+| 12   | [Ringla](#befuddle)                     | Vera að þínu vali er ófær um að mynda skammtímaminningar á meðan galdurinn endist. |
+| 13   | [Líkamsskipti](#body-swap)              | Þú skiptir um líkama við veru sem þú snertir. Ef annar líkami deyr deyr hinn einnig. |
+| 14   | [Heillun](#charm)                       | Vera sem þú sérð lítur á þig sem vin.               |
+| 15   | [Skipun](#command)                      | Skotmark fylgir einni þriggja orða skipum sem skaðar hana ekki |
+| 16   | [Skilningur](#comprehend)               | Þú verður reiprennandi í öllum tungumálum í stutta stund.       |
+| 17   | [Froðukeila](#cone-of-foam)             | Þétt froða spreyjast frá höndum þínum og þekur skotmarkið.       |
+| 18   | [Stjórna plöntum](#control-plants)      | Allar nálægar plöntur og tré hlíða þér og öðlast getuna að hreyfa sig hægt.|
+| 19   | [Stjórna veðri](#control-weather)       | Þú mátt breyta gerð verðurs að vild, en fyrir utan það stjórnar þú því ekki. |
+| 20   | [Sárabót](#cure-wounds)                 | Persónna sem þú getur snert endurheimtir 1d4 STY á dag.      |
 | 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
 | 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
 | 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or skaði. You can still control them. |
