@@ -13,7 +13,7 @@ nav_order: 1
 
 **Cairn** er birt undir leyfi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-Skoðið [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
+Kannið [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
 
 **Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
 Leikmenn spila harðgert ævintýrafólk að kanna dimmann og dularfullann skóg fullan af undarlegur fólki, földum fjarsjóðum og ólýsanlegum skrímslum.
@@ -27,6 +27,7 @@ Leikmenn spila harðgert ævintýrafólk að kanna dimmann og dularfullann skóg
 {:toc}
 </details>
 
+
 ## Yfirlit
 
 **Cairn** var skrifað með eftirfarandi hugtök í fyrirrúmi:
@@ -35,22 +36,22 @@ Leikmenn spila harðgert ævintýrafólk að kanna dimmann og dularfullann skóg
 Hlutverk Varðarins er að miðla reglum, aðstæðum, aukapersónum og frásögn á skýran hátt á meðan hann sjálfur er hluthlaus dómari.
 
 ### Hlutverkalaust
-Hæfileikar og færni persónu eru ekki skorðað við einstaka hlutverk. Þess í stað er það búnaðurinn sem hún ber og reynsla þeirra sem skilgreinir sérhæfingu persónunnar.
+Hæfileikar og færni persónu eru ekki skorðað við einstaka hlutverk. Þess í stað er það búnaðurinn sem hún ber og reynsla hennar sem skilgreinir sérhæfingu persónunnar.
 
 ### Dauði
 Persónur eru ef til vill máttugar en þær eru einnig berskjaldaðar fyrir skaða í ýmsum myndum. Dauðinn er alltaf handan við hornið en þó aldrei tilviljunarkenndur eða án viðvörunnar.
 
 ### Sagan fyrst
-Teningar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Árangur og mistök eru þess í stað ákvörðuð af Verðinum í samtali við spilara, byggt á þáttum heimsins. 
+Teningar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Árangur og mistök eru þess í stað ákvörðuð af Verðinum í samtali við spilara, byggt á þáttum innan heimsins. 
 
 ### Vöxtur
 Persónur breytast með framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
 
 ### Val leikmanna
-Leikmenn ættu alltaf að skilja ástæðurnar á bak við ákvarðanir sínar og upplýsinar um mögulegar hættur ættu að liggja fyrir.
+Leikmenn ættu alltaf að skilja ástæðurnar á bak við ákvarðanir sínar og upplýsinar um mögulegar hættur ættu að vera veittar að vild og reglulega.
 
 ### Meginreglur
-Vörðurinn og leikmennirnir hafa hver sínar leiðbeiningar sem stuðla að ákveðni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar í spili er höfð í forgrunni.
+Vörðurinn og leikmennirnir hafa leiðbeiningar sem stuðla að ákveðni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar í spili er höfð í forgrunni.
 
 ### Sameiginleg markmið
 Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
@@ -415,7 +416,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |1  |Líming           |26 |Jarðskjálfti      |51 |Grímuball     |76 |Reykform           |
 |2  |Akkeri           |27 |Teygjanleiki      |52 |Smækkun       |77 |Þefa               |
 |3  |Uppvakning hluts |28 |Frumaflsveggur    |53 |Spegilmynd    |78 |Slökkva            |
-|4  |Mannvæða         |29 |Fjarhnupl         |54 |Spegillganga  |79 |Flokka             |
+|4  |Mannvæða         |29 |Fjarhnupl         |54 |Spegilganga  |79 |Flokka             |
 |5  |Töfraauga        |30 |Glampi            |55 |Fjölarmur     |80 |Tálsýn             |
 |6  |Geimfangelsi     |31 |Þokuský           |56 |Nátthnöttur   |81 |Galdrasög          |
 |7  |Aðdráttur        |32 |Æði               |57 |Hlutagera     |82 |Köngulóarklifur    |
@@ -423,20 +424,20 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |9  |Babl             |34 |Snúa þyngdarafli  |59 |Friða         |84 |Ger                |
 |10 |Beitublóm        |35 |Græðgi            |60 |Fælni         |85 |Hugarflutningur    |
 |11 |Dýrsform         |36 |Flýtir            |61 |Gryfja        |86 |Hugarsamskipti     |
-|12 |Ringla           |37 |Hatri             |62 |Frumbylgja    |87 |Fjarflutningur     |
+|12 |Ringla           |37 |Hatur             |62 |Frumbylgja    |87 |Fjarflutningur     |
 |13 |Líkamsskipti     |38 |Hvíslheyrn        |63 |Ýta/Draga     |88 |Markbeita          |
-|14 |Heillun          |39 |Svífa             |64 |Upprisa       |89 |Þykkni             |
+|14 |Heillun          |39 |Svif              |64 |Upprisa       |89 |Þykkni             |
 |15 |Skipun           |40 |Dáleiðsla         |65 |Framkalla anda|90 |Framkalla líkneski |
 |16 |Skilningur       |41 |Íssnerting        |66 |Hugarlestur   |91 |Tímastjórn         |
 |17 |Froðukeila       |42 |Auðkenna eiganda  |67 |Fráhrinda     |92 |Sannsjón           |
 |18 |Stjórna plöntum  |43 |Lýsa upp          |68 |Skyggnast     |93 |Uppstreymi         |
-|19 |Stjórna veðri    |44 |Ósýnilegt tjóður  |69 |Móta frumefni |94 |Vision             |
+|19 |Stjórna veðri    |44 |Ósýnilegt tjóður  |69 |Móta frumefni |94 |Sýn                |
 |20 |Sárabót          |45 |Bank              |70 |Skynja        |95 |Sjónhverfing       | 
 |21 |Gera heyrnalausa |46 |Stökk             |71 |Skjöldur      |96 |Vörn               |
 |22 |Galdraskynjun    |47 |Fljótandi loft    |72 |Hylja         |97 |Vefur              |
-|23 |Taka í sundur    |48 |Galdrahemill      |73 |Víxla         |98 |Græja              |
+|23 |Sundurlimun      |48 |Galdradempari     |73 |Víxla         |98 |Græja              |
 |24 |Dulargervi       |49 |Óðal              |74 |Svefn         |99 |Galdramerki        |
-|25 |Staðarfærsla     |50 |Marmaraæði        |75 |Svell         |100|Röntgensjón        |
+|25 |Tálfærsla     |50 |Marmaraæði        |75 |Svell         |100|Röntgensjón        |
 
 <p></p>
 
@@ -712,7 +713,7 @@ Dæmi:
 </details>
 
 ### Árásir & skaði
-Sá sem framkvæmir árás kastar vopnateningi sínum og dregur frá brynju skotmarksins og afgangurinn er skaði sem dregst frá HP andstæðingins. Óvopnaðar árásir valda alltaf 1d4 skaða. 
+Sá sem framkvæmir árás kastar vopnateningi sínum og dregur frá Brynju skotmarksins og afgangurinn er skaði sem dregst frá HP andstæðingins. Óvopnaðar árásir valda alltaf 1d4 skaða. 
 
 <details markdown="block">
   <summary>
@@ -850,7 +851,7 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 [aftur í efnisyfirlit](#index)
 <p></p>
 
-## 100 Spells
+## 100 Galdrar
 
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
@@ -874,139 +875,140 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 | 18   | [Stjórna plöntum](#control-plants)      | Allar nálægar plöntur og tré hlíða þér og öðlast getuna að hreyfa sig hægt.|
 | 19   | [Stjórna veðri](#control-weather)       | Þú mátt breyta gerð verðurs að vild, en fyrir utan það stjórnar þú því ekki. |
 | 20   | [Sárabót](#cure-wounds)                 | Persónna sem þú getur snert endurheimtir 1d4 STY á dag.      |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or skaði. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be skaðid or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A character's appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 21   | [Gera heyrarlausa](#deafen)             | Allar nálægar verur verða heyrnarlausar.                           |
+| 22   | [Galdraskynjun](#detect-magic)          | Þú getur séð eða heyrt nálægar galdrar árur.                   |
+| 23   | [Sundurlimun](#disassemble)             | Það er hægt að taka frá og setja aftur saman alla líkamshluta þína án sársauka eða skaða. Þú getur ennþá stjórnað þeim.|
+| 24   | [Dulargervi](#disguise)                 | Þú getur breytt útliti einnar persónu að vildi svo lengi sem þau eru mannverur. Ef hermt er eftir annarri persónu er erfitt að sjá mun. |
+| 25   | [Tálfærsla](#displace)                  | Hlutir virðist vera allt að 15 fet frá raunverulegum stað sínum.|
+| 26   | [Jarðskjálfti](#earthquake)             | Jörðin tekur að hristast stjórnlaust. Byggingar geta skemmds eða hrunið.|
+| 27   | [Teygjanleiki](#elasticity)             | Líkami þinn getur teygst allt að 10 fet.                     |
+| 28   | [Frumaflsveggur](#elemental-wall)       | Beinn veggur úr ís eða eldi 50 fet á lengt og 10 fet á hæð rís upp úr jörðinni. |
+| 29   | [Fjarhnupl](#filch)                     | Hlutur sem þú sérð fjarflyst í hendur þínar.                 |
+| 30   | [Glampi](#flare)                        | Bjartur hnöttur af orku brennir ljósaslóð í himininn og afhjúpar staðsetningu þína fyrir vin eða óvin. |
+| 31   | [Þokuský](#fog-cloud)                   | Þétt þoka sprettur út frá þér. |
+| 32   | [Æði](#frenzy)                          | Það gengur ofbeldisæði yfir nálæga veru.            |
+| 33   | [Hlið](#gate)                           | Hliðgátt til handahófskennds heimssviðs opnast.                  |
+| 34   | [Snúa þyngdarafli](#gravity-shift)      | Þú getur snúið stefnu þyngarkrafsins fyrir sjálfan þig.|
+| 35   | [Græðgi](#greed)                        | Vera þróar með sér óstjórnlega löngun í að eignast sýnilegan hlut að þínu vali. |
+| 36   | [Flýtir](#haste)                        | Hraði þinn þrefaldast.                          |
+| 37   | [Hatur](#hatred)                        | Vera þróar djúpt hatur gagnvart annari veru eða hópi og vill tortýma þeim. |
+| 38   | [Hvíslheyrn](#hear-whispers)            | Þú heyrir lágvær hljóð skýrt.                           |
+| 39   | [Svif](#hover)                          | Hlutur svífur í lausu lofti 2 fet frá jörðu. Hann getur haldið uppi einni mannveru. |
+| 40   | [Dáleiðsla](#hypnotize)                 | Vera fellur í dá og svarar satt einni já og nei spurningu sem þú spyrð hana. |
+| 41   | [Íssnerting](#icy-touch)                | Þykkt lag af ís breiðist yfir yfirborð sem þú snertir, allt að 10 fet í radíus. |
+| 42   | [Auðkenna eiganda](#identify-owner)     | Stafir birtast fyrir ofan hlut sem þú snertir og stafa nafn eiganda hlutsins ef hann er til. |
+| 43   | [Lýsa upp](#illuminate)                 | Svífandi ljós sem hreyfist samkvæmt skipunum þínum.                   |
+| 44   | [Ósýnilegt tjóður](#invisible-tether)   | Tveir hlutir innan við 10 fet frá hvor öðrum geta ekki færast lengar en 10 fet frá hvor öðrum. |
+| 45   | [Bank](#knock)                          | Nálægur lás, venjulegur eða göldróttur opnast með látum.           |
+| 46   | [Stökk](#leap)                          | Þú stekkur 10 fet upp í loftið, einu sinni.                            |
+| 47   | [Fljótandi loft](#liquid-air)           | Það er hægt að synda í loftinu í kringum þig.             |
+| 48   | [Galdradempari](#magic-dampener)        | Öll nálæg galdraáhrif minnka um helming.  |
+| 49   | [Óðal](#manse)                          | Sterkalega byggt, fullinnréttað hús birtist í 12 tíma. Þú getur leyft eða hamlað inngöngu að vild. |
+| 50   | [Marmaraæði](#marble-craze)             | Vasar þínir fyllast af glerkúlum og endurfyllast á 30 sekúndna fresti.|
+| 51   | [Grímuball](#masquerade)                | Útlit og rödd persónu verður nákvæmlega eins og persónu sem þú snertir.|
+| 52   | [Smækkun](#miniaturize)                 | Vera sem þú snertir er smækkuð niður í stærð músar.  |
+| 53   | [Spegilmynd](#mirror-image)             | Tálmynd sjálfum þér birtist og lætur undir stjórn þinni.|
+| 54   | [Spegilganga](#mirrorwalk)              | Spegill verður hliðgátt inní annan spegil sem þú horftðir á í dag. |
+| 55   | [Fjölarmur](#multiarm)                  | Þér vex tímabundið auka handleggur.                       |
+| 56   | [Nátthnöttur](#night-sphere)            | 50 feta breiður hnöttur af myrkri sem sýnir næturhimininn birtist fyrir framan þig. |
+| 57   | [Hlutgera](#objectify)                  | Þú breytist í líflausan hlut sem er á stærð milli flygils og eplis. |
+| 58   | [Slímform](#ooze-form)                  | Þú verður lifandi hlaup.                                   |
+| 59   | [Friða](#pacify)                        | Vera nálægt þér forðast ofbeldi.             |
+| 60   | [Fælni](#phobia)                        | Nálæg vera verður skelfingu lostin við hlut að þínu vali.|
+| 61   | [Gryfja](#pit)                          | Gryfja 10 fet á breidd og 10 fet á dýpt opnast í jörðinni.        |
+| 62   | [Frumbylgja](#primal-surge)             | Vera þróast snögglega í æðri útgáfu af tegund sinni.  |
+| 63   | [Ýta/Draga](#push/pull)                 | Hlutur af einhverri stærð er dreginn beint í átt að þér eða er ýtt beint frá þér með styrk eins manns. |
+| 64   | [Upprisa](#raise-dead)                  | Beinagrind rís upp úr jörðinni til að þjóna þér. Þær eru gríðarlega heimskar og geta aðeins fylgt einföldum skipunum. |
+| 65   | [Framkalla anda](#raise-spirit)         | Andi líks nálægt þér vaknar upp og svarar 1 spurning.  |
+| 66   | [Hugarlestur](#read-mind)               | Þú getur heyrt grunnhugsanir nálægra vera.     |
+| 67   | [Fráhrinda](#repel)                     | Tveir hlutir hrindast frá hvor öðrum innan 10 feta. |
+| 68   | [Skyggnast](#scry)                      | Þú getur séð í gegnum augu á veru sem þú snertir fyrr um daginn.s |
+| 69   | [Móta frumefni](#sculpt-elements)       | Líflaust efni verður eins og leir í höndum þínum.          |
+| 70   | [Skynja](#sense)                        | Veldu eina tegund af hlut (lykil, gull, ör, kanna, o.s.frv.). Þú getur skynjast nálægasta hlut af þeirri gerð. |
+| 71   | [Skjöldur](#shield)                     | Vera sem þú snertir er farin gegn hefðbundnum árásum í eina mínútu. |
+| 72   | [Hylja](#shroud)                        | Vera sem þú snertir verður ósýnileg þar til hún hreyfir sig.          |
+| 73   | [Víxla](#shuffle)                       | Tvær verur sem þú sérð skipta samstundis um stað.          |
+| 74   | [Svefn](#sleep)                         | Vera sem þú sérð sofnar lausum svefni.             |
+| 75   | [Svell](#slick)                         | Öll yfirborð í 30 feta radíus verða mjög hál.  |
+| 76   | [Reykform](#smoke-form)                 | Líkami þinn verður lifandi reykur sem þú hefur stjórn á.       |
+| 77   | [Þefa](#sniff)                          | Þú finnur alla lykt, jafnvel hina daufust.           |
+| 78   | [Slökkva](#snuff)                       | Allar uppsprettur af hefðbundnu ljósi sem þú sérð slökkna. |
+| 79   | [Flokka](#sort)                         | Líflausir hlutir flokka sig niður í flokka sem þú tilgreinir. |
+| 80   | [Tálsýn](#spectacle)                    | Greinilega fölsk en áhrifamikil tálsýn að þínu vali birtist undir þinni stjórn. Hún getur verið á stærð við höll og getur hreyfst og gefið frá sér hljóð. |
+| 81   | [Galdrasög](#spellsaw)                  | Snúandi blað flýgur frá brjóstkassanum á þér, höggvandi niður allt plöntuefni í vegi sínum. Fyrir utan það er það skaðlaust. |
+| 82   | [Köngulóarklifur](#spider-climb)        | Þú getur klifrað yfirborð eins og könguló.                       |
+| 83   | [Framkalla teninga](#summon-cube)       | Einu sinni á sekúndu getur þú framkallað eða fjarlægt 3 feta breiðan tening af jörð. Nýjir teningar verða að festast við jörðina eða aðra teninga. |
+| 84   | [Ger](#swarm)                           | Þú breytist í ger af krákum, rottum eða píranafiskum. Það er aðeins hægt að slasa þig með sprengiskaða. |
+| 85   | [Hugarflutningur](#telekinesis)         | Þú getur hreyft einn hlut undir 60 pundum með hugarafli.               |
+| 86   | [Hugarsamskipti](#telepathy)            | Tvær verur geta heyrt hugsanir hvors annars, sama hversu langt í burtu þær eru. |
+| 87   | [Fjarflutningur](#teleport)             | Hlutur eða persóna sem þú sérð er fjarflutt frá einu stað til annars í 50 feta radíus. |
+| 88   | [Markbeita](#target-lure)               | Hlutur sem þú snertir verður skotmark galdurs. |
+| 89   | [Þykkni](#thicket)                      | Trjá- og runnaþykkni allt að 50 fet á breidd sprettur snögglega úr jörðinni. |
+| 90   | [Framkalla líkneski](#summon-idol)      | Útskorin steinstytta á stærð við múldýr rís upp úr jörðinni.|
+| 91   | [Tímastjórnun](#time-control)           | Tíminn inní 50 feta bólu hægist eða hraðast um 10% í 30 sekúndur. |
+| 92   | [Sannsjón](#true-sight)                 | Þú sér í gegnum allar nálægar tálsýnar.                      |
+| 93   | [Uppstreymi](#upwell)                   | Uppspretta með sjó birtist.                                |
+| 94   | [Sýn](#vision)                          | Þú hefur algjöra stjórn á hvað vera sér.               |
+| 95   | [Sjónhverfing](#visual-illusion)        | Þögul, óhreyfanleg sjónhverfing á stærð við herbergi birtist að þínu vali. |
+| 96   | [Vörn](#ward)                           | Silfur hringur 50 fet í þvermál birtist á jörðinni. Veldu eina tegund sem getur ekki farið yfir hringinn. |
+| 97   | [Vefur](#web)                           | Þykkur vefur skýst út úr úlnliðum þínum.                         |
+| 98   | [Græja](#widget)                        | Frumstæð útgáfa að teiknuðu verkfæri eða hlut birtist fyrir framan þig og hverfu eftir stutta stund. |
+| 99   | [Galdramerki](#wizard-mark)             | Þú getur skotið galdralitaðir málingu út um figurgómana á þér. Aðeins þú getur séð þessa málingu og hún sést úr hvaða fjarlægð, gegnum hvað sem er. |
+| 100  | [Röntgensjón](#x-ray-vision)            | Þú getur sé í gegnum veggi, jörð, föt, o.s.frv.              | 
 
 [aftur í efnisyfirlit](#index)
 <p></p>
 
-# Rules Summary
+# Samantekt reglna
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+**AÐGERÐIR**
+Í sinni lotu getur persóna fært sig allt að 40 fet og framkvæmt eina aðgerð. Þetta getur verið að kasta galdri, ráðast á, hreyfa sig aftur, eða framkvæma aðra viðeigandi aðgerð. Aðgerðir, árásir og hreyfingar gerast á sama tíma. Þegar röð lota er óviss skulu persónur kasta upp á FIM varnarkast til að gera á undan óvinum sínum. 
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+**Flótti** frá hættulegum aðstæðum krefast alltaf að persónu takist FIM varnarkast og að hún hafi öruggan stað til að hlaupa á.
 
-**ABILITIES**  
-**STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
-**WIL:** Persuasion, intimidation & magic.
+**EIGINLEIKAR**  
+**STY:** Kraftur, hæfni & viðnám. 
+**FIM:** Komast undan, læðast og viðbrögð.   
+**VIL:** Sannfæring, hótanir og töfrar.
 
-**SAVES**
-- Roll a d20 equal to or under an ability.
-- 1 is always a success, 20 is always a failure.
+**VARNARKÖST**
+- Kastið d20 upp á útkomu jafnri eða undir eiginleikagildi.
+- 1 tekst alltaf, 20 mistekst alltaf.
 
-**HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**HÖGGÞOL**  
+**HP** merkir getu persónu til að forðast meiðsli. Það tapast í bardaga og er endurheimt með stuttri hvíld.
 
-**INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+**Birgðir**  
+Persónur hafa 10 birgðahólf: fjögur á líkama sínum og sex í bakpoka (sem virkar eins og svefnpoki ef tæmdur). Flestir hlutir taka eitt hólf en smærri hlutum er hægt að pakka í pakka. **Þungir** hlutir taka tvö hólf og er erfitt og vandræðalegt að bera þá.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Að fylla öll tíu hólf lækkar HP persónu niður í 0. Persónur geta ekki borið meira en birgðahólf þeirra leyfa, en kerrur og hestar geta veitt auka hólf.ots.
 
-**DEPRIVATION**  
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**SKORTUR**  
+Persóna sem líður **Skort** getur ekki endurheimt HP. Ef persóna líður skort í meira en einn dag bættu við **Þreytu** í birgðirnar. Þreyta tekur eitt hólf og endist þangað til hægt er að hvílast í öruggum aðstæðum. Þessi áhrif safnast upp. 
 
-**HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+**LÆKNING**  
+Stutt hvíld og vatnsopi endurheimta allt tapa HP en skilur hópinn eftir berskjaldaðann. Við að missa **eiginleikastig** þarf viku hvíld og aðstoð heilara.
 
-**SPELLBOOKS**  
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**GALDRABÆKUR**
+Galdrabækur innihalda stakan galdur og taka eitt birgðahólf. Hver sem er getur kastað galdri með að halda á galdrabók í báðum höndum og lesa innihald hennar upphátt. Að kasta galdri bætir við **Þreytu** í birgðahólf persónu.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+Ef tími og öryggi er til staðar geta leikmenn _aukið_ áhrif galdurs (t.d. beitt honum á fleiri skotmörk, aukið svo kraft hans o.s.frv.) án viðbótarkostnaðar. Ef persóna er í hættu eða við skort getur Vörðurinn krafið persónuna um um VIL kast til að forðast slæmar afleiðingar galdursins. 
 
-**COMBAT**  
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
 
-Before calculating skaði to HP, subtract the target's **Armor** value from the result of skaði rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+**BARDAGI**  
+Árásarmaðurinn kastar vopnateningi sínum og drekur frá Brynju skotmarksins og minnkar síðan HP skotmarksins með afganginum. 
 
-No one can have more than 3 Armor.
+Enginn getur verið með meira en 3 Brynjur. 
 
-**Unarmed** attacks always do 1d4 skaði. If **multiple attackers** target the same foe, roll all skaði dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both skaði dice and keep the highest.
+**Óvopnaðar** árásir gera 1d4 skaða. Ef **margir árásarmenn** miða á sama óvin, kastið öllum skaðateningum og haldið hæstu útkomunni. Ef ráðist er á með **tveimur vopnum** á sama tíma kastið báðum skaðateningum og haldið hærri útkomunni.
 
-If an attack is **impaired** , the skaði die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+Ef árás er **skert** er 1d4 skaðateningur notaður sama hvert vopnið er. Ef árásin er **elfd** er kastað með 1d12. Árásir með **sprengjuskaða** hafa áhrif á öll skotmörk á ákveðnu svæði, kastað sér fyrir hvert.
 
-**skaði**  
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
- 
-skaði that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical skaði.** Failure takes them out of combat, dying if left untreated.
 
-Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+**SKAÐI**  
+Ef árás minnkar HP persónu niður í nákvæmlega 0, skoðið [**Ör**](/cairn-srd#scars-1) töfluna.
+
+Skaði sem minnkar HP persónu **niður** fyrir 0 dregur afganginn frá STY. Hún þarf síðan að kasta upp á STY varnarkast til að forðast **bannvænan skaða**. Að mistakast það kast tekur persónu úr bardaga og hún deyr án aðhlynningar.
+
+Að hafa 0 STY þýðir **dauði**, að hafa 0 FIM þýðir lömun, að hafa 0 VIL þýðir vitstola. 
+

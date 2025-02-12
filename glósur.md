@@ -1,6 +1,10 @@
 https://app.questportal.com/library/0d17c480-917f-443f-a36b-9e3afdb86def/Jpmdtq92LPCU/NR6QkL7lJo
 
 
+Cairn : Varða
+
+
+
 Brjóstvirki/brynstakkur
 Vatnsleitarsproti
 Animate object
@@ -14,7 +18,7 @@ kerfisviðmuðunarskjal
 "Hörkusvið" (HP) – Ef "Protection" er hugsað sem svið eða stuðpúði gegn höggum.
 
 # Heiti á hlutum
-Armor - Brynja með B
+Armor - Brynja með B  / brynjugildi?
 varnarstig - heilsupunktar
 hit protection - höggþol?
 inventory slot: birgðahólf
@@ -25,6 +29,8 @@ score: gildi - stig ???
 
 leyline - leylínur / orkulínur
 Eiginleikagildi/tala/stig
+
+brynju
 
 
 
