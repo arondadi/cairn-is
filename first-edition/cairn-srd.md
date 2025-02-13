@@ -13,9 +13,9 @@ nav_order: 1
 
 **Cairn** er birt undir leyfi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-Kannið [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
+Kíkið á [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
 
-**Cairn** er ævintýraspil með einum leiðbeinanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
+**Cairn** er ævintýraspil með einum stjórnanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
 Leikmenn spila harðgert ævintýrafólk að kanna dimmann og dularfullann skóg fullan af undarlegur fólki, földum fjarsjóðum og ólýsanlegum skrímslum.
 
 <details close markdown="block">
@@ -41,75 +41,76 @@ Hæfileikar og færni persónu eru ekki skorðað við einstaka hlutverk. Þess 
 ### Dauði
 Persónur eru ef til vill máttugar en þær eru einnig berskjaldaðar fyrir skaða í ýmsum myndum. Dauðinn er alltaf handan við hornið en þó aldrei tilviljunarkenndur eða án viðvörunnar.
 
-### Sagan fyrst
-Teningar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Árangur og mistök eru þess í stað ákvörðuð af Verðinum í samtali við spilara, byggt á þáttum innan heimsins. 
+### Sagan   
+Teningar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Að takast eitthvað eða mistakast eru þess í stað ákvarðað af Verðinum í samtali við spilara, byggt á þáttum innan heimsins. 
 
 ### Vöxtur
-Persónur breytast með framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
+Persónur taka framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
 
 ### Val leikmanna
 Leikmenn ættu alltaf að skilja ástæðurnar á bak við ákvarðanir sínar og upplýsinar um mögulegar hættur ættu að vera veittar að vild og reglulega.
 
 ### Meginreglur
-Vörðurinn og leikmennirnir hafa leiðbeiningar sem stuðla að ákveðni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar í spili er höfð í forgrunni.
+Vörðurinn og leikmennirnir hafa leiðbeiningar sem stuðla að ákveðinni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar í spili er höfð í forgrunni.
 
 ### Sameiginleg markmið
-Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
+Leikmenn treysta á hvorn annan í að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
 
 
 [aftur í efnisyfirlit](#index)
 <p></p>
 
 ## Meginreglur fyrir Vörðinn
+
 ### Upplýsingar
 - Veittu gagnlegar upplýsingar um leikheiminn þegar persónurnar kanna hann.
 - Leikmenn þurfa ekki að kasta teningum til að læra um aðstæður sínar.
-- Vertu hjálpsamur og skýr í svörum sínum við spurningum leikmanna.
-- Svaraðu heiðarlega, hafa lýsingar samkvæmar og ávalt láta leikmenn vita að þeir geti spurt spurningar.    
+- Vertu hjálpsamur og skýr í svörum þínum við spurningum leikmanna.
+- Svaraðu heiðarlega, hafðu lýsingar samkvæmar og minntu leikmenn á að þeir geti alltaf spurt spurninga.    
 
 ### Erfiðleikastig
 - Byggðu frekar á samhengi og raunsæi heldur en tölum og kerfi leiksins. 
-- Ef eitthvað sem leikmenn vilja gera er raunverulega ómögulegt, ekkert teningakast gerir það mögulegt.
+- Ef eitthvað sem leikmenn vilja gera er raunverulega ómögulegt, gerir ekkert teningakast það mögulegt.
 - Er það sem leikmaður lýsir raunhæft í samræmi við aðstæður? Leyfðu því að gerast.
 - Varnarköst ná yfir margar óvissar aðstæður og eru oft allt sem þarf fyrir áhættusamar aðgerðir.  
 
 ### Undirbúningur
-- Leikheimurinn er lifandi, sveigjandi og tilviljanakenndur. Hann skilur og tekur skarpar beygjur. 
+- Leikheimurinn er lifandi, sveigjandi og tilviljanakenndur. Hann skilur og tekur krappar beygjur. 
 - Notaðu tilviljunartöflur og sköpunarverkfæri til að þróa aðstæður en ekki sögur eða söguþráð.
 - Aukapersónur muna hvað persónur segja og gera og hvernig það hefur áhrif á heiminn.
 - Aukapersónur vilja ekki deyja. Láttu þeirra eigin hagsmuni og vilja til að lifa koma fram í persónuleika þeirra.
 
 ### Áhersla á frásögn
-- Það sem skiptir máli er upplifunin i leiknum, ekki stærðfræði eða eiginleikar persónu. Láttu leikmennina fá kennara og persónuleg verkefni til að auðvelda framfarir og sérhæfingu persónunnar.
-- Taktu eftir þörfum og langanna leikmanna og settu raunveruleg tækifæri á þeirra veg.
-- Rýtingur í hálsinn mun drepa þig, sama hversu dýr brynjan þín er eða hversu vel þú ert þjálfaður.
+- Það sem skiptir máli er upplifunin i leiknum, ekki stærðfræði eða eiginleikar persónu. Láttu leikmennina fá vopnaþjálfara og persónuleg verkefni til að auðvelda framfarir og sérhæfingu.
+- Taktu eftir þörfum og löngunum leikmanna og settu raunveruleg tækifæri í veg þeirra.
+- Rýtingur í hálsinn á þér mun drepa þig, sama hversu dýr brynjan þín er eða hversu vel þú ert þjálfaður.
 
 ### Hætta
-- Leikheimurinn skapar rauðverulega hættu á meiðslum og dauða fyrir persónur leikmanna.
+- Leikheimurinn skapar rauðverulega hættu á sársauka og dauða fyrir persónur leikmanna.
 - Gefðu leikmönnum greinilegar vísbendinar um hættu þegar hún er til staðar. Því meiri hætta, því augljósari merki.
-- Láttu gildrur vera augljósar og leyfðu leikmönnum að finna lausn.
-- Gefðu leikmönnum tækifæri á að leysa vandamál og hafa samskipti við heiminn.
+- Láttu gildrur vera augljósar og leyfðu leikmönnum að finna lausn á þeim.
+- Gefðu leikmönnum tækifæri á að leysa vandamál og eiga samskipti við heiminn.
 
 ### Fjársjóðir
 - Fjársjóður er sértækur fyrir umhverfið sem hann er fundinn í og segir sögu.
-- Fjársjóður er mjög verðmætur, oft fyrirferðamikill og sjaldan gagnlegur utan verðgildi síns og orðspors.
+- Fjársjóður er mjög verðmætur, oft fyrirferðamikill og sjaldan gagnlegur fyrir utan verðgildi og orðspors hans.
 - Helgigripir eru ekki fjarsjóðir þó þeir séu gagnlegir og áhugaverðir.
 - Notaðu fjarsjóði sem beitu fyrir framandi staði sem eru gættir af ógnvekjandi óvinum.  
 
 ### Val
 - Gefðu leikmönnum skýrt val um að knýja fram útkomur þegar leikurinn hægist. 
-- Notaðu tvískipar ,,A eða B?" spurningar þegar fyrirætlanir leikmanna eru óljósar.
-- Vinnið saman að halda leiknum gangi með þessum samtölum.
+- Notaðu tvískipt ,,svo... A eða B?" svör þegar fyrirætlanir leikmanna eru óljósar.
+- Vinnið saman að halda leiknum gangandi með þessum samtölum.
 - Gakktu úr skugga um að aðgerðir persóna hafi áhrif á leikheiminn. 
 
 ### Örlagateningur
 - Stundum muntu vilja eitthvað tilviljunnarkennt (t.d. veðrið, einstaka þekkingu persóna, o.s.frv.)
-- Í slíkum tilvikum kastaðu 1d6. Kast upp á 4 eða meira er leikmönnum í hag.
-- Kast upp á 3 eða lægra táknar oft óheppni fyrir leikmenn eða bandamenn þeirra.
-
+- Í slíkum tilvikum kastaðu 1d6. Kast upp á 4 eða hærra er leikmönnum í hag.
+- Kast upp á 3 eða lægra táknar oft óheppni fyrir persónur eða bandamenn þeirra.
 
 [aftur í efnisyfirlit](#index)
 <p></p>
+
 
 ## Meginreglur fyrir spilara
 ### Frjáls vilji
@@ -119,27 +120,27 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 
 ### Samvinna
 - Leitaðu samþykkis hjá hópnum áður en þú æðir áfram.
-- Verið sammála um markmið og takmörk, að sýna hvert öðru virðingu og að meira næst með samstöðu.
+- Verið sammála um markmið og takmörk, að sýna hvert öðru virðingu og að afreka meira sem hópur heldur en einstaklingar.
 
 ### Könnun
 - Að spyrja spurninga og hlusta á smáatriði er gagnlegra en nokkur eiginleiki, hlutur eða hæfileiki í fórum persónu.
-- Takið lýsingum Varðarins án grunsemndar en hinkið ekki við að afla frekari upplýsinga.
-- Það er aldrei ein rétt leið fram á veg. 
+- Takið lýsingum Varðarins án grunsemndar en hikið ekki við að afla frekari upplýsinga.
+- Það er aldrei ein rétt leið fram á við. 
 
 ### Samskipi
 - Komið fram við aukapersónur eins og raunverulegt fólk og treystið á forvitni ykkar til að afla upplýsinga og leysa vandamál.
 - Þið munuð finna að flest fólk er áhugavert og mun vilja ræða hlutina áður en tekið er til handalögmála.
 
 ### Varúð
-- Bardagi er val og sjaldan það skynsamlegasta. Hugleiddu hvort ofbeldi sé besta leiðin til að ná markmiðum þínum.
-- Reynið að snúa aðstæðum þér í vil og hörfaðu þegar hlutirnir eru ekki hagstæðir.
+- Bardagi er val og sjaldan það skynsamlegasta. Hugleiddu hvort ofbeldi sé besta leiðin til að ná markmiðum ykkar.
+- Reynið að snúa aðstæðum ykkur í vil og hörfið þegar hlutirnir eru ekki hagstæðir.
 
 ### Plön
-- Finndu leiðir til að forðast hindranir með könnun, útsjónarsemi og staðreyndaleit.
-- Gerið athuganir og spyrjið um út í markmarkmið.
+- Finnið leiðir til að forðast hindranir með könnun, útsjónarsemi og staðreyndaleit.
+- Gerið athuganir og spyrjið út í markmið.
 
 ### Metnaður
-- Settu þér markmarið og notaðu þín fáu úrræði til að taka skref fram á við.
+- Settu þér markmið og notaðu þín fátæklegu úrræði til að taka skref fram á við.
 - Ekki búast við neinu. Aflaðu þér orðspors með gjörðum þínum.
 - Haltu sögunni gangandi og spilaðu til að sjá hvað gerist.
 
@@ -151,50 +152,47 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 #### Nafn, bakgrunnur & einkenni
 Fyrst, veldu eða kastaðu upp á **nafn** og **bakgrunn** fyrir persónuna þína á viðeigandi [töflum](#name--background-d20). Bakgrunnur persónu gefur vísbendingu um mögulega þekkingu og færni hennar.  
 
-Því næst kastar þú fyrir önnur **einkenni** persónunnar (útlit, talmáta, framkomu, trú, orðsport o.s.frv.) á [**Persónueinkenni**](#character-traits-d10) töflunum. 
+Því næst kastaðu upp á önnur **einkenni** persónunnar (útlit, talmáta, framkomu, trú, orðspor o.s.frv.) á [**Persónueinkenni**](#character-traits-d10) töflunum. 
 
-Að lokum kastar þú upp á **aldur** persónunnar (2d20+10).
+Að lokum kastaðu upp á **aldur** persónunnar (2d20+10).
 
-#### Eiginleikagildi
-Persónur spilara hafa einungis þrjá eiginleika:
-**Styrkur (STY)**, **Fimi(FIM)** og **Viljastyrkur(VIL)**. Þegar persóna er sköpuð kastar leikmaður 3d6 fyrir hvern eiginleika persónunnar í þeirri röð sem þeir eru skráðir. 
-Síðan má skipta um stað á tveimur eiginleika gildum að eigin vali. 
+#### Eiginleikastig
+Persónur leikamanna hafa einungis þrjá eiginleika:
+**Styrkur (STY)**, **Fimi (FIM)** og **Viljastyrkur (VIL)**. Þegar persóna er sköpuð kastar leikmaður 3d6 fyrir hvert eiginleikastig persónunnar í þeirri röð sem þeir eru skráðir. 
+Eftir það má skipta á tveimur eiginleikagildum að eigin vali. 
 
 <details markdown="block">
   <summary>
-Expand For Example
+Stækkið fyrir dæmi
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+ Ines kastar upp á **STY** persónunar og fær **2**, **4** og **6**, samanlagt **12**. Næstu tvö köst eru samanlagt **9** fyrir **FIM** og **13** fyrir **VIL**. Hún ákveður að skipta á **12** og **9** fyrir persónu með **9 STY**, **12 FIM** og **13 VIL**.
 </details>
 
 ### Höggþol
-Kastaðu 1d6 til að ákvarða það **Höggþol (HP)** sem persónan byrjar með. HP endurspegla eiginleika persónunnar 
-til að forðast skaða í bardaga. HP tákna ekki líkamlega heilsu eða æðruleysi persónunnar né tapar hún þeim í lengri tíma
- (Sjá **Lækning**). Ef árás lækkar HP persónun nákvæmlega niður í 0 þá þarf leikmaðurinn að kasta upp á [**Ör**](/cairn-srd#scars-1) töflunni. 
+Kastaðu 1d6 til að ákvarða það **Höggþol (HP)** sem persónan byrjar með. HP endurspeglar eiginleika persónunnar til að forðast skaða í bardaga. HP tákna ekki líkamlega heilsu eða æðruleysi persónunnar né tapar hún þeim í lengri tíma (sjá **Lækning**). Ef árás lækkar HP persónu niður í nákvæmlega 0 þá þarf leikmaðurinn að kasta á [**Ör**](/cairn-srd#scars-1) töflunni. 
 
 #### Birgðir
 Persónur hafa samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf fyrir efri hluta líkama
  (t.d. belti, búk eða höfuð). Bakpokinn virkar sem svefnpoki í neyð ef allt innihald er tæmt úr honum. 
 
-Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saamn. Hólf eru abstrakt og má endurraða eftir mati Varðarins. 
+Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saman. Hólf eru abstrakt og má endurraða eftir mati Varðarins. 
 
-**Þungtir** hlutir taka tvö hólf og eru venjulega tvíhenda eða erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) er með 0 HP.
-Persóna getur ekki borði meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar. **  
+**Þungir** hlutir taka tvö hólf og krefjast venjulega beggja handa eða eru erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) lækkar niður í 0 HP.
+Persóna getur ekki borið meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar.  **Leiguliðar** geta einnig borið búnað gegn gjaldi.
 
- items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP. **Leiguliðar** geta einnig borið búnað gegn gjaldi.
 
-#### Byrjunarbúnaður
+#### Upphafsbúnaður
 Allar persónur byrja með:
 
 - Þriggja daga vistir (eitt hólf)
-- Kyndil (eitt hólf)
+- Kyndill (eitt hólf)
 - 3d6 gullpeninga
 
-Kastið einu sinni á hverri **Byrjunarbúnaðar** töflu til að ákvarða brynju, vopn, verkfæri og búnað fyrir persónu þinnar. Ef útkoma gefur til kynna að kasta á [**Galdrabækur**](#spellbooks-d100) töflunni kastið d100 (eða 2d10 og notið annan teninginn fyrir tug og hinn fyrir einingar). 
+Kastið einu sinni á hverri **Upphafsbúnaðar** töflu til að ákvarða brynju, vopn, verkfæri og búnað persónu þinnar. Ef útkoma gefur til kynna að kasta á [**Galdrabóka**](#spellbooks-d100) töflunni kastið d100 (eða 2d10 og notið annan teninginn fyrir tug og hinn fyrir einingar). 
 
-Sjá **Búnaðarlista** fyrir tölugildi brynvarnar, skaða og fjöldi hólfa. Smærri hlutir má oft pakka saman í eitt hólf. 
+Sjá **Búnaðarlista** fyrir tölugildi brynvarnar, skaða og fjölda hólfa. Smærri hluti má oft pakka saman í eitt hólf. 
 
-Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [**Valfrjáls byrjunarbúnaður**](#optional-gear-packages).  
+Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [**Valfrjálsa búnaðarpakka**](#optional-gear-packages).  
 
 
 <p></p>
@@ -249,17 +247,17 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Vöðvastælt/ur | 6    | Rengluleg/ur   |
-| 2        | Kraftmikil/l  | 7    | Lágvaxin/n     |
-| 3        | Feitlagin/n   | 8    | Tignarleg/ur   |
-| 4        | Slánaleg/ur   | 9    | Þrekin/n       |
-| 5        | Harðgerð/ur   | 10   | Hávaxin/n      |
+| 1        | Vöðvastælt/ur  | 6    | Rengluleg/ur   |
+| 2        | Kraftmikil/l   | 7    | Lágvaxin/n     |
+| 3        | Feitlagin/n    | 8    | Tignarleg/ur   |
+| 4        | Slánaleg/ur    | 9    | Þrekin/n       |
+| 5        | Harðgerð/ur    | 10   | Hávaxin/n      |
 
 #### Húð
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Fæðingarblettur  | 6    | Kúlulaga   |
+| 1    | Fæðingarblettir  | 6    | Hnöttótt   |
 | 2    | Dökk             | 7    | Mjúk       |
 | 3    | Slöpp            | 8    | Sólbrún    |
 | 4    | Bólugrafin       | 9    | Húðflúrðuð |
@@ -269,7 +267,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Sköllótt/ur    | 6    | Sítt      |
+| 1    | Sköllótt       | 6    | Sítt      |
 | 2    | Fléttað        | 7    | Glæsilegt |
 | 3    | Krullað        | 8    | Feitt     |
 | 4    | Skítugt        | 9    | Bylgjótt  |
@@ -283,7 +281,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | 2    | Brotið      | 7    | Rottulegt  |
 | 3    | Vel mótað   | 8    | Oddhvast   |
 | 4    | Langleitt   | 9    | Ferkantað  |
-| 5    | Fölt        | 10   |  Holt      |
+| 5    | Fölt        | 10   | Holt       |
 
 #### Talandi
 
@@ -311,8 +309,8 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | ------ | ----------- | ---- | --------- |
 | 1      | Metnaðarfull/ur  | 6    | Heiðarleg/ur     |
 | 2      | Varkár           | 7    | Hógvær           |
-| 3      | Hugrökk/rakkur   | 8    | Miskunnsamur     |
-| 4      | Agi              | 9    | Friðsæl/ur       |
+| 3      | Hugrökk/rakkur   | 8    | Miskunnsöm/samur |
+| 4      | Öguð/Agaður      | 9    | Friðsæl/ur       |
 | 5      | Félagslynd/ur    | 10   | Umburðarlynd/ur  |
 
 #### Löstur
@@ -322,7 +320,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | 1    | Árásargjörn/gjarn | 6    | Löt/Latur        |
 | 2    | Bitur             | 7    | Taugaóstyrk/ur   |
 | 3    | Huglaus           | 8    | Dónaleg/ur       |
-| 4    | Svikul/l          | 9    | Hégómaleg(ur)    |
+| 4    | Svikul/l          | 9    | Hégómaleg/ur     |
 | 5    | Gráðug/ur         | 10   | Hefnigjörn/gjarn |
 
 #### Orðstír
@@ -330,7 +328,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
 | 1          | Metnaðarfull/ur   | 6    | Letingi       |
-| 2          | Dónaleg/ur        | 7    | Sérvitringur  |
+| 2          | Dónaleg/ur        | 7    | Sérvitur      |
 | 3          | Hættuleg/ur       | 8    | Ógeðfelld/ur  |
 | 4          | Skemmtikraftur    | 9    | Virðuleg/ur   |
 | 5          | Heiðarleg/ur      | 10   | Vitur         |
@@ -339,7 +337,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Yfirgefinn   | 6    | Svikin/n            |
+| 1           | Yfirgefin/n  | 6    | Svikin/n            |
 | 2           | Fíkill       | 7    | Lækkuð/aður í tign  |
 | 3           | Fjárkúun     | 8    | Vanvirt/ur          |
 | 4           | Dæmd/ur      | 9    | Afneituð/aður       |
@@ -354,30 +352,30 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |  |            |           |        |
 | :---: | :--------:  | :-------:    | :---: |
 |  1-3  |    4-14     |   15-19      |  20   |
-| Engin | Brynstakkur | Hringabrynja | Heilbrynja |
+| Engin | Brynstakkur | Hringabrynja | Plötubrynja |
 
 #### Hjálmar og skildir
 
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       Ekkert        | Hjálmur | Skjöldur | Hjálmur og skjöldur |
+|  |        |        |                   |
+| :---------------: | :----:  | :----:   | :-------------: |
+|       1-13        | 14-16   | 17-19    |       20        |
+|       Ekkert      | Hjálmur | Skjöldur | Hjálmur og skjöldur |
 
 #### Vopn
 
 |                |                  |                          |                                |
-| :-------------------: | :--------------: | :------------------: | :------------------------------: |
-|          1-5          |       6-14       |          15-19       |               20               |
+| :-------------------:   | :--------------:        | :------------------:    | :------------------------------: |
+|          1-5            |       6-14              |          15-19          |               20               |
 | Rýtingur, Kylfa, Stafur | Sverð, Stríðskylfa, Exi | Bogi, Lásabogi, Slöngva | Atgeir, Stríðshamar, Stríðsexi |
 
 #### Ferðabúnaður
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ----------------------  | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Sundblaðra              | 6    | Olía           | 11   | Handjárn       | 16   | Reipi (25 fet) |
-| 2    | Móteitur                | 7    | Klifurkrókur   | 12   | Haki           | 17   | Andafæla       |
-| 3    | Kerra (+4 hólf, Þungtur) | 8    | Stór poki      | 13   | Stöng (10 fet) | 18   | Sjónauki       |
-| 4    | Keðja (10 fet)          | 9    | Dýragildra     | 14   | Trissa         | 19   | Eldfæri        |
+| 1    | Sundblaðra               | 6    | Olía           | 11   | Handjárn       | 16   | Reipi (25 fet) |
+| 2    | Móteitur                 | 7    | Klifurkrókur   | 12   | Haki           | 17   | Andafæla       |
+| 3    | Kerra (+4 hólf, þungt)   | 8    | Stór sekkur    | 13   | Stöng (10 fet) | 18   | Sjónauki       |
+| 4    | Keðja (10 fet)           | 9    | Dýragildra     | 14   | Trissa         | 19   | Eldfæri        |
 | 5    | Vatnsleitarsproti        | 10   | Þjófalyklar    | 15   | Fráhrinda      | 20   | Eiturjurtir    |
 
 #### Verkfæri
@@ -404,7 +402,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
-|       1-5       |        6-13        |      14-17      |   18-20   |
+|       1-5              |     6-13     |      14-19      |   18-20   |
 | Verkfæri eða smáhlutur | Ferðabúnaður | Brynja eða vopn | Galdrabók |
 
 <p></p>
@@ -437,11 +435,11 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |22 |Galdraskynjun    |47 |Fljótandi loft    |72 |Hylja         |97 |Vefur              |
 |23 |Sundurlimun      |48 |Galdradempari     |73 |Víxla         |98 |Græja              |
 |24 |Dulargervi       |49 |Óðal              |74 |Svefn         |99 |Galdramerki        |
-|25 |Tálfærsla     |50 |Marmaraæði        |75 |Svell         |100|Röntgensjón        |
+|25 |Tálfærsla        |50 |Marmaraæði        |75 |Svell         |100|Röntgensjón        |
 
 <p></p>
 
-## Búnaður útlistun (Verð í gullpeningum)
+## Búnaðarlisti  (Verð í gullpeningum)
 
 #### Brynja
 
@@ -450,20 +448,20 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Skjöldur (+1 Brynja)           |10   |
 |Hjálmur (+1 Brynja)            |10   |
 |Stungin klæði (+1 Brynja)      |15   |
-|Brynstakkur (1 Brynja, Þungt)   |20   |
-|Hringabrynja (2 Brynja, Þungt)  |40   |
-|Heilbrynja (3 Brynja, Þungt)    |60   |
+|Brynstakkur (1 Brynja, þungt)   |20   |
+|Hringabrynja (2 Brynja, þungt)  |40   |
+|Heilbrynja (3 Brynja, þungt)    |60   |
 
 #### Weapons
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Rýtingur, Kylfa, Sigð, Stafur, o.s.frv (d6 skaði)          5    |
+|Rýtingur, Kylfa, Sigð, Stafur, o.s.frv (d6 skaði)         |5    |
 |Spear, Sword, Mace, Axe, Flail, etc. (d8 skaði)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 skaði, Þungt)  |20   |
+|Halberd, War Hammer, Long Sword, etc. (d10 skaði, þungt)  |20   |
 |Sling (d4 skaði)                                          |5    |
-|Bow (d6 skaði, Þungt)                                     |20   |
-|Crossbow (d8 skaði, Þungt)                                |30   |
+|Bow (d6 skaði, þungt)                                     |20   |
+|Crossbow (d8 skaði, þungt)                                |30   |
 
 #### Búnaður og verkfæri
 
@@ -475,7 +473,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Bók                                          |50              |Þjófalyklar           |25        |
 |Fata                                         |5               |Handjárn              |10        |
 |Fótönglar                                    |10              |Málmþjöl              |5         |
-|Kerra (+4 hólf, Þungt)                       |30              |Spegill               |5         |
+|Kerra (+4 hólf, þungt)                       |30              |Spegill               |5         |
 |Keðja (10 fet)                               |10              |Múldýr (+6 hólf, hægt)|30      |
 |Krít                                         |1               |Net                   |10        |
 |Sporjárn                                     |5               |Vatnsheldur poki      |5         |
@@ -483,7 +481,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Kúbein                                       |10              |Talía                 |10        |
 |Handbor                                      |10              |Stöng (10 fet)        |5         |
 |Andlitsmáling                                |10              |Blekpenni og bytta    |10        |
-|Olía                                         |10              |Vistir (Þriggja daga)|10        |
+|Olía                                         |10              |Vistir (þriggja daga)|10        |
 |Veiðistöng                                   |10              |Reipi (25 fet)        |5         |
 |Glerkúlur                                    |5               |Sög                   |5         |
 |Lím                                          |5               |Poki                  |5         |
@@ -493,43 +491,43 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Vígt vatn                                    |25              |Gaddaskór             |5         |
 |Horn                                         |10              |Sjónauki              |40        |
 |Hestur (+4 hólf)                             |75              |Tjara                 |10        |
-|Stundaglás                                   |50              |Tjald (tveggja manna, Þungt)|20        |
+|Stundaglás                                   |50              |Tjald (tveggja manna, þungt)|20        |
 |Reykelsi                                     |10              |Kyndill               |1         |
-|Stigi (Þungt, 10 fet)                        |10              |Vagn (+8 hólf, hægt)  |200    |
+|Stigi (þungt, 10 fet)                        |10              |Vagn (+8 hólf, hægt)  |200    |
 |Lampi & olía                                 |10              |Eiturjurtir           |10        |
 
 <p></p>
 
-## Valfrjáls byrjunarbúnaður
+## Valfrjálir búnaðurpakkar
 
 #### Klerkur
 
 |                                   |
 | --------------------------------- |
-| Stríðshamar (d10, Þungt)           |
-| Hringabrynja (+2 Brynja, Þungt)        |
-| Brynhanskar (+1 Brynja)              |
-| Hreinsandi rýtingur (d6)              |
+| Stríðshamar (d10, þungt)            |
+| Hringabrynja (2 Brynja, þungt)      |
+| Brynhanskar (+1 Brynja)             |
+| Hreinsandi rýtingur (d6)            |
 | Helgitákn (_Vörn_ einu sinni á dag) |
-| Skykkja reglunnar sinnar                |
+| Skykkja reglunnar sinnar            |
 
 #### Vatnsleitarmaður
 
 |                                           |
 |-------------------------------------------|
-|Sigð (d6)                                |
-|Stunginklæði (+1 Brynja)               |
-|Vatnsleitarsproti                               |
-|Steinauga (_Skynja_ ef það er sett í fersk vatn)|
-|Gamalt kort                                   |
-|Sjónauki                                   |
+|Sigð (d6)                                        |
+|Stunginklæði (+1 Brynja)                         |
+|Vatnsleitarsproti                                |
+|Steinauga (_Skynja_ ef það er sett í fersk vatn) |
+|Gamalt kort                                      |
+|Sjónauki                                         |
 
 #### Dvergur
 
 ||
 |-----------------------------------------|
 |Þyrnótt rót (d6)                        |
-|Könglastakkur (+1 Brynja)               |
+|Könglastakkur (1 Brynja)               |
 |Handspaði                               |
 |Krukka af skógarmaurum                  |
 |Eitraðir sveppir                        |
@@ -540,8 +538,8 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 ||
 |-----------------------------------------|
 |Fágað sverð (d8)                         |
-|Langbogi (d8)                            |
-|Gullslegin klæði (+1 Brynja)             |
+|Rekúrv bogi (d8)                         |
+|Gullslegin klæði (1 Brynja)              |
 |Galdrabók (_Heillun_ eða _Galdraskynjun_)|
 |Gyllt flauta                             |
 |Sundblaðra                               |
@@ -550,30 +548,30 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |---------------------------------------|
-|Atgeir (d10, Þungt)                    |
-|Bjúgsverð (d8)                          |
+|Atgeir (d10, þungt)                    |
+|Bjúgsverð (d8)                         |
 |Stuttsverð (d6)                        |
 |Stuttsverð (d6)                        |
-|Tóbakspoki og pípa                   |
-|Teningasett                               |
+|Tóbakspoki og pípa                     |
+|Teningasett                            |
 
 #### Munkur
 
 ||
 |-------------------------------|
 |Stafur (d6)                   |
-|Blekkjandi kufl (+1 Brynja)   |
-|Reykelsisker & Vígt vatn      |
+|Villandi kufl (+1 Brynja)   |
+|Reykelsisker & vígt vatn      |
 |Kranna af hunangsvíni         |
 |Bók með þjóðlagasöngvum       |
-|Kerra (+4 hólf, Þungt)        |
+|Kerra (+4 hólf, þungt)        |
 
 #### Riddari
 
 |                            |
 | -------------------------- |
-| Langsverð (d10, Þungt)              |
-| Hringabrynja (2 Brynja, Þungt)      |
+| Langsverð (d10, þungt)              |
+| Hringabrynja (2 Brynja, þungt)      |
 | Hjálmur (+1 Brynja)                 |
 | Skikkja með skjaldarmerki herra síns|
 | Handjárn                            |
@@ -583,7 +581,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |-----------------------------------------|
-|Tómur galdrastafur (d8, Þungt)           |
+|Uppurinn galdrastafur (d8, þungt)           |
 |Rýtingur (d6)                            |
 |Galdrabók (kastað upp á galdur)          |
 |Galdrabók (kastað upp á galdur)          |
@@ -605,7 +603,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |------------------------------------------|
-|Langbogi (d8, Þungt)                     |
+|Langbogi (d8, þungt)                     |
 |Handöxi (d6)                             |
 |Stungin klæði (1 Brynja)                 |
 |Dýragildra                               |
@@ -615,39 +613,40 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 [aftur í efnisyfirlit](#index)
 <p></p>
 
+
 ## Reglur
 ### Eiginleikar
-Hver og einn **eiginleiki** er notaður í mismunadi aðstæðum (sjá **varnarköst** hér að neðan). 
+Hver og einn **eiginleiki** er notaður í mismunandi aðstæðum (sjá **varnarköst** hér að neðan). 
 
 **Styrkur (STY)**: Notaður fyrir varnarköst sem krefjast líkamlegra burða eins og lyfta upp hliðum, beygla rimla, verjast eitri o.s.frv.
 
-**Fimi (FIM)**: Notaður fyrir varnarköst sem krefjast líkamsstjórnar, hraða og viðbragða eins og forðast hættur, klifra, læðast, halda jafnvægi o.s.frv.
+**Fimi (FIM)**: Notaður fyrir varnarköst sem krefjast líkamsstjórnar, hraða og viðbragða eins og að forðast hættur, klifra, læðast, halda jafnvægi o.s.frv.
 
 **Viljastyrkur (VIL)**: Notaður fyrir varnarköst til þess að sannfæra, blekkja, yfirheyra, ógna, heilla, ögra, beita stjórnunargöldrum o.s.frv. 
 
 ### Varnarköst
-Varnarkast er teningakast til að forðast slæma útkomu á áhættusömum ákvörðunum og aðstæðum. Leikmaður kastar d20 fyrir viðeigandi eiginleikagildi. Ef kastið er jafn eða undir eiginleikagildinu þá tekst þeim varnarkastið. Annars mistekts þeim það. Ef 1 kemur upp teningnum heppnast kastið sama hvað og ef 20 kemur upp á teningnum mistekst það sama hvað. 
+Varnarkast er teningakast til að forðast slæma útkomu á áhættusömum ákvörðunum og aðstæðum. Leikmaður kastar d20 fyrir viðeigandi eiginleikastig. Ef kastið er jafn eða lægra en eiginleikastigið þá tekst þeim varnarkastið. Annars mistekst þeim það. Ef 1 kemur upp teningnum heppnast kastið sama hvað og ef 20 kemur upp á teningnum mistekst það sama hvað. 
 
 <details markdown="block">
   <summary>
-Dæmi
+Stækkið fyrir dæmi
  </summary>
  _Bea hittir á hóp af þungavopnuðum drýslum standandi vörð um hellismunna. Leikmaður hennar skipuleggur varðlega leiðina, vitandi það að hún er með 13 í Fimi og að að læðast sé hennar besti valmöguleiki. Hún kastar d20 og útkoman er 10 - kastið heppnast!_
 </details>
 
 ### Lækning
-Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð HP en skilur hópinn eftir berskjaldaðann. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
+Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð HP en skilur hópinn eftir berskjaldaðan. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
 
 ### Skortur & Þreyta
-Persóna sem **skortir** eitthvað lífsnauðsynlegt (líkt og mat eða hvíld) getur ekki endurheimt HP eða eiginleikastig. Hver sá sem líður skort í meira en dag bætir við **Þreyta** í byrðahólf sitt, eina fyrir hvern dag. Hver einasta Þreyta tekur upp eitt hólf og endist þangað til persónan getur hvílst almennilega (eins og góður nætursvefn á öruggum stað). Persónur geta einnig bætt við sig Þreytu með að **kasta göldrum** eða í uppákomum í sögunni. 
+Persónu sem **skortir** eitthvað lífsnauðsynlegt (líkt og mat eða hvíld) getur ekki endurheimt HP eða eiginleikastig. Hver sá sem líður skort í meira en dag bætir við **þreyta** í byrðahólf sitt, eina fyrir hvern dag. Hver einasta Þreyta tekur upp eitt hólf og endist þangað til persónan getur hvílst almennilega (eins og góður nætursvefn á öruggum stað). Persónur geta einnig bætt við sig þreytu með því að **kasta göldrum** eða í uppákomum í sögunni. 
 
 ### Brynjur
 Áður er skaði á HP er reiknaður, dragið **Brynju** gildi skotmarksins frá skaða kastinu. Skildir og sambærilegar verjur veita brynvörn (þ.e. +1 Brynja) en einungis ef haldið á hlutnum eða hann borinn.
 Enginn getur haft meira en 3 Brynjur
-Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig það er notað.      
+Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig það er notað.     
 
 ### Viðbrögð
-Þegar persónur hitta aukapersónur þar sem viðbrögð þeirra við hópinn eru ekki augljós þá getur Vörðurinn kastar 2d6 og ráðfært sig við eftirfarandi töflu:
+Þegar persónur hitta aukapersónur þar sem viðbrögð þeirra við hópnum eru ekki augljós þá getur Vörðurinn kastar 2d6 og ráðfært sig við eftirfarandi töflu:
 
 | | | | | |
 | :-----:     | :--:        | :-----:   | :--:          | :--:       |
@@ -655,69 +654,70 @@ Skildir, brynhanskar og hjálmar geta veitt aukalegt gagn eftir því hvernig þ
 | Óvinveittur | Tortrygginn | Forvitinn | Vingjarnlegur | Hjálpsamur |
 
 ### Mórall
-Óvinir þurfa að takast VIL varnarkast til að forðast það að flýja þegar sá fyrsti þeirra fellur og aftur þegar þeir hafa miss helming liðstyrks síns. Sumir hópar mega nota VIL foringja síns heldur en þeirra eigin. Stakir óvinir þurfa að takast varnarkast þegar þeir fara í 0 HP. Mórall hefur ekki áhrif á persónur. 
+Óvinir þurfa að takast VIL varnarkast til að forðast það að flýja þegar sá fyrsti þeirra fellur og aftur þegar þeir hafa misst helming liðstyrks síns. Sumir hópar mega nota VIL foringja sinna frelar en þeirra eigin. Stakir óvinir þurfa að takast varnarkast þegar þeir fara í 0 HP. Mórall hefur ekki áhrif á persónur. 
 
 ### Leiguliðar
-Persónur geta leigt **leiguliða** til að aðstoða sig í leiðöngrum. Til að búa til leiguliða, kastaðu 3d6 fyrir hvern eiginleika, gefðu þeim síðan 1d6 HP og einfalt vopn (d6). Kastaðu á [**Persónusköpun**](#character-creation) töflunar fyrir fleiri persónueinkenni. Leigaliðar kosta 1-3 gp á dag, eða hluta af þeim fjársjóði sem hópurinn eignast.
+Persónur geta leigt **leiguliða** til að aðstoða sig í leiðöngrum. Til að búa til leiguliða kastaðu 3d6 fyrir hvern eiginleika, gefðu þeim síðan 1d6 HP og einfalt vopn (d6). Kastaðu á [**Persónusköpun**](#character-creation) töflunum fyrir fleiri persónueinkenni. Leiguliðar kosta 1-3 gp á dag, eða hluta af þeim fjársjóði sem hópurinn eignast.
 
 ### Auður og fjársjóður
-Algengasti peningurinn eru gullpeningar(gp), sem samsvarar 10 silfur peningum (sp) og 100 koparpeningum (kp).
+Algengasti peningurinn eru gullpeningar (gp), sem samsvarar 10 silfurpeningum (sp) og 100 koparpeningum (kp).
 
 Fjárjóður er mjög verðmætur, oftast þungur og sjaldan gagnlegur fyrir utan verðgildi sitt. Hann getur verið beita til að draga persónur á framandi og hættulega staði og eru oft gættir af hættulegum óvinum.
 
-Þorp, virki og hafnir stunda vöruskipti og verslun útfrá staðbundnu fágæti og verðgildi hlutar eða vöru. 
+Þorp, virki og hafnir stunda vöruskipti og verslun út frá staðbundnu fágæti og verðgildi hlutar eða vöru. 
 
 ## Galdrar
-**Galdrabækur** innihalda einn galdur og taka upp eitt hólf. Þær geta hvorki verið afritaðar eða skapaðar. Þess í stað eru þær endurheimtar frá stöðum eins og grafhýsum, dýflissum og herrasetrum.
+**Galdrabækur** innihalda einn galdur og taka upp eitt hólf. Þær geta hvorki verið afritaðar né skapaðar. Þess í stað eru þær endurheimtar frá stöðum eins og grafhýsum, dýflissum og herrasetrum.
 
 Galdrabækur búa stundum yfir óvenjulegum eiginleikum eða takmörkuðum, eins og að gefa frá sér óþef eða ónáttúrulega lykt þegar þær eru opnaðar, búa yfir meðfæddri greind eða vera aðeins læsilegar í tunglskini.
 
-Galdrabækur laða að sér athygli þeirra sem sækjast eftir hinu duldu kröftum sem felast í þeim, og það er talið hættulegt að sýna þær opinberlega. 
+Galdrabækur laða að sér athygli þeirra sem sækjast eftir hinum duldu kröftum sem felast í þeim, og það er talið hættulegt að sýna þær opinberlega. 
 
-**Rullur** er svipaðar Galdrabókum, en:
+**Rullur** eru svipaðar galdrabókum, en:
 - Þær taka ekki birgðahólf.
 - Þær valda ekki þreytu.
 - Þær hverfa eftir eina notkun. 
 
 ### Að kasta göldrum
-Hver sem er getur brugðið á galdur með því að halda á Galdrabók í báðum höndum og lesa innihald hennar upphátt. Þau þurfa síðan að bæta við Þreytu í birgðirnar sem taka eitt hólf. Ef tími og öryggi er til staðar geta leikmenn _aukið_ áhrif galdurs (t.d. beitt honum á fleiri skotmörk, aukið svo kraft hans o.s.frv.) án viðbótarkostnaðar. Ef persóna er í hættu eða við skort getur Vörðurinn krafið persónuna um um VIL kast til að forðast slæmar afleiðingar galdursins. Afleiðingar mistaka eru í samræmi við áhrif galdursins og geta falið í sér Þreytu, eyðileggingu galdrabókarinnar, meiðsli eða jafnvel dauða.
+Hver sem er getur brugðið á galdur með því að halda á galdrabók í báðum höndum og lesa innihald hennar upphátt. Þau þurfa síðan að bæta við Þreytu í birgðirnar sem taka eitt hólf. Ef tími og öryggi er til staðar geta leikmenn _aukið_ áhrif galdurs (t.d. beitt honum á fleiri skotmörk, aukið svo kraft hans o.s.frv.) án viðbótarkostnaðar. Ef persóna er í hættu eða við skort getur Vörðurinn krafið persónuna um VIL kast til að forðast slæmar afleiðingar galdursins. Afleiðingar mistaka eru í samræmi við áhrif galdursins og geta falið í sér þreytu, eyðileggingu galdrabókarinnar, meiðsli eða jafnvel dauða.
 
 ### Minjar
-**Minjar** eru hlutir sem eru gæddir galdri eða kröftum. Þeir valda ekki Þreytu. Minjar hafa yfirleitt takmarkaða notkun og sérstakar kröfur um endurhleðslu. Nokkur dæmi:
+**Minjar** eru hlutir sem eru gæddir galdri eða kröftum. Þeir valda ekki þreytu. Minjar hafa yfirleitt takmarkaða notkun og sérstakar kröfur um endurhleðslu. Nokkur dæmi:
 
 **Hunangslás**, 3 hleðslur. Ryðgaður hringur sem minnkar það sem ber hann í 6 tommur. Endurhleðsla: setja í fingurbjargarstórt ílát af konungshunangi. 
 
 **Vinur fálkatemjarans**, 1 hleðsla. Stafur í laginu eins og skotbolti sem geymir _Flýtir_ galdurinn. Endurhleðsla: skjóta úr lásaboga og endurheimta. 
 
-**Þagnarstafur**, 1 hleðsla. Svartur sproti sem tímabundið slekkur á öllum göldrum innan 50 feta radíus. Endurhleðsla: Baða í fullu tunglskini. 
+**Þagnarstafur**, 1 hleðsla. Svartur sproti sem tímabundið slekkur á öllum göldrum innan 50 feta radíusar. Endurhleðsla: Baða í fullu tunglskini. 
 
-**Lénsveppur**, 1 hleðsla. Sá sem neytir þessa grænskorpótta svepps losnar við Þreytu en verður að kasta upp á VIL varnarkast til að forðast ávanabindandi áhrif hans. Að mistakast kastið lætur persónuna líða skort og ófær um að einbeita sér þar til hún neytir annars lénsvepps, sem veitir aðeins skammvinna hvíld frá fíkninni.  
+**Lénsveppur**, 1 hleðsla. Sá sem neytir þessa grænskorpótta svepps losnar við þreytu en verður að kasta upp á VIL varnarkast til að forðast ávanabindandi áhrif hans. Að mistakast kastið lætur persónuna líða skort og verða ófæra um að einbeita sér þar til hún neytir annars lénsvepps, sem veitir aðeins skammvinna hvíld frá fíkninni.  
 
 ## Bardagi
 
 ### Umferð
-Leikurinn er ofast spilaður án strangrar tímaskráningar. Í bardaga eða aðstæðum þar sem tímasetning skiptir máli, skal nota lotur til að fylgjast með atburðarásinni. **Umferð** samsvarar u.þ.b. tíu sekúndur í leiknum og samanstendur af nokkrum lotum. 
+Leikurinn er ofast spilaður án strangrar tímaskráningar. Í bardaga eða aðstæðum þar sem tímasetning skiptir máli, skal nota lotur til að fylgjast með atburðarásinni. **Umferð** samsvarar u.þ.b. tíu sekúndum í leiknum og samanstendur af nokkrum lotum. 
 
 ### Aðgerðir
 Í sinni lotu getur persóna fært sig allt að 40 fet og framkvæmt eina aðgerð. Þetta getur verið að kasta galdri, ráðast á, hreyfa sig aftur, eða framkvæma aðra viðeigandi aðgerð. 
 
-Í hverru umferð tilkynna persónur hvað þær ætla að gera áður en teningum er kastað. Ef persóna reynir eitthvað áhættusamt, biður Vörðurinn um varnarköst fyrir viðeigandi leikmenn eða aukapersónur.
+Í hverri umferð tilkynna persónur hvað þær ætla að gera áður en teningum er kastað. Ef persóna reynir eitthvað áhættusamt, biður Vörðurinn um varnarköst fyrir viðeigandi leikmenn eða aukapersónur.
 
 ### Lotur
-Vörðurinn gefur til kynna líklegar aðgerðir aukapersóna eða skrímsla. Í upphafi bardaga verður hver persóna að framkvæma FIM varnarkast til að athafast á undan andstæðingum sínum. 
+Vörðurinn gefur til kynna líklegar aðgerðir aukapersóna eða skrímsla. Í upphafi bardaga verður hver persóna að framkvæma FIM varnarkast til að athafnast á undan andstæðingum sínum. 
+
 <details markdown="block">
   <summary>
-Dæmi:
+Stækkið fyrir dæmi:
  </summary>
- _Bea hefur óvart ráfað inna á umráðarsvæði risastórs skógartrölls. Til að geta gert á undan tröllinu þarf hún að gera FIM varnarkast. Henni mistekst og tröllið fær að ráðast á fyrst._
+ _Bea hefur óvart ráfað inn á umráðasvæði risastórs skógartrölls. Til að geta gert á undan tröllinu þarf hún að gera FIM varnarkast. Henni mistekst og tröllið fær að ráðast á fyrst._
 </details>
 
 ### Árásir & skaði
-Sá sem framkvæmir árás kastar vopnateningi sínum og dregur frá Brynju skotmarksins og afgangurinn er skaði sem dregst frá HP andstæðingins. Óvopnaðar árásir valda alltaf 1d4 skaða. 
+Sá sem framkvæmir árás kastar vopnateningnum sínum og dregur frá Brynju skotmarksins og afgangurinn er skaði sem dregst frá HP andstæðingsins. Óvopnaðar árásir valda alltaf 1d4 skaða. 
 
 <details markdown="block">
   <summary>
-Dæmi
+Stækkið fyrir dæmi:
  </summary>
  _Skógartröllið öskrar og sveiflar kylfunni sinni að Bea, sem er með 5 HP. Kylfan gerir 1d10 skaða og Vörðurinn kastar upp á 4. Hann dregur 1 frá þar sem Bea er í leðurbrynju þannig hún hefur 2 HP eftir._
 </details>
@@ -725,59 +725,59 @@ Dæmi
 ### Margir árásarmenn
 Ef margir árásarmenn ráðast á sama andstæðing, kastið öllum skaðateningum og haldið hæstu útkomunni.
 
-### Árásar breytur
-Ef barist er úr veikri stöðu (t.d. á óvin í skjóli eða með bundnar hendur), er árásin **skert** og árásarmaðurinn verður að kasta 1d4 óháð skaðatening vopnsins sem hann beitir. 
+### Árásarbreytur
+Ef barist er úr veikri stöðu (t.d. á óvin í skjóli eða með bundnar hendur) er árásin **skert** og árásarmaðurinn verður að kasta 1d4 óháð skaðatening vopnsins sem hann beitir. 
 
-Ef barist er úr yfirburðastöðu (t.d. gegn varnarlausum óvini eða með djörfu bragði), er árásin **elfd** og árásarmaðurinn kastar 1d12 skaða í stað hefðbundsins skaðatenings. 
+Ef barist er úr yfirburðastöðu (t.d. gegn varnarlausum óvini eða með djörfu bragði) er árásin **elfd** og árásarmaðurinn kastar 1d12 skaða í stað hefðbundins skaðatenings. 
 
 ### Tvö vopn
 Ef ráðist er með tveimur vopnum samtímis, kastið báðum skaðateningum og haldið hæstu útkomunni.
 
 ### Sprengiskaði
-Árásir með **sprengiskaða** eiginleikann hafa áhring á öll skotmörk innan tilgreinds svæðis og er kastað sérstaklega fyrir hvern sem verður fyrir áhrifum. Sprengiskaði getur vísað til allt frá sprengingum, mjög öflugra höggárása og jafnvel áreksturs loftsteins. Ef óvissa ríkir um fjölda skotmarka, kastið viðeigandi skaðateningi til að ákvarða fjöld.
+Árásir með **sprengiskaða** eiginleikann hafa áhrif á öll skotmörk innan tilgreinds svæðis og er kastað sérstaklega fyrir hvern sem verður fyrir áhrifum. Sprengiskaði getur vísað til allt frá sprengingum, mjög öflugra höggárása og jafnvel áreksturs loftsteins. Ef óvissa ríkir um fjölda skotmarka, kastið viðeigandi skaðateningi til að ákvarða fjölda.
 
 ### Bannvænn skaði
-Skaði sem lækkar HP skotmarks niður fyrir núll dregur STY gildi þess niður um mismuninn. Það þarf að kastar upp á STY varnarkast til að forðast **banvænan skaða**. Að auki geta sumir óvinir búið yfir sérstökum eiginleikum eða áhrifum sem virkjast þegar skotmark þeirra fellur á varnakastinu við banvænum skaða.
+Skaði sem lækkar HP gildi skotmarks niður fyrir núll dregur STY gildi þess niður um mismuninn. Þá þarf að kasta upp á STY varnarkast til að forðast **banvænan skaða**. Að auki geta sumir óvinir búið yfir sérstökum eiginleikum eða áhrifum sem virkjast þegar skotmark þeirra fellur á varnakastinu við banvænum skaða.
 
 Hver sú persóna sem verður fyrir banvænum skaða getur ekki gert neitt annað en að skríða veiklulega um og barist fyrir lífi sínu. Ef þeim er veitt hjálp og hvíld þá ná þau stöðugleika. Ef persónan fær ekki aðhlynningu deyr hún innan klukkustundar. 
 
 ### Tap á eiginleikastigum
-Ef STY persónu fullur í 0, deyr hún. Ef FIM hennar fellur í 0, lamast húns. Ef VIL hennar fellur í 0, verður hún ringluð og óráðin. 
-Þegar FIM og VIL fellur niður í 0 getur persóna ekkert aðhafast þangað til hún jafnar sig með lengri hvíld eða með óvenjulegum leiðum.  
+Ef STY persónu fellur í 0, deyr hún. Ef FIM hennar fellur í 0, lamast hún. Ef VIL hennar fellur í 0, verður hún ringluð og óráðin. 
+Þegar FIM og VIL fellur niður í 0 getur persóna ekkert aðhafst þangað til hún jafnar sig með lengri hvíld eða með óvenjulegum leiðum.  
 
 
 ### Ör
-Þegar skaði á persónu lækkar HP hennar niður í nákvæmlega 0 getur það haft óafturkræf áhrif áhana. Sjá [**ÖR**](/cairn-srd#scars-1) töflu fyrir frekari upplýsingar. 
+Þegar skaði á persónu lækkar HP hennar niður í nákvæmlega 0 getur það haft óafturkræf áhrif á hana. Sjá [**ÖR**](/cairn-srd#scars-1) töflu fyrir frekari upplýsingar. 
 
 ### Meðvitundarleysi & dauði
 Þegar persóna deyr er leikmanninum frjálst að skapa nýja persónu eða taka stjórn á leiguliða. Nýja persónan gengur tafarlaust til liðs við hópinn til að lágmarka biðtíma.
 
 ### Hersveitir
-Stórir hópar af svipuðum bardagamönnum sem berjast saman eru meðhöndlaðir sem stök **hersveit**. Þegar hersveit verður fyrir banvænum skaða er hún annaðhvort tvístrað eða verulega veikluð. Þegar hún nær 0 STY er hún upprætt.
+Stórir hópar af svipuðum bardagamönnum sem berjast saman eru meðhöndlaðir sem stök **hersveit**. Þegar hersveit verður fyrir banvænum skaða er hún annaðhvort tvístruð eða verulega veikluð. Þegar hún nær 0 STY er hún upprætt.
 
 Árásir einstaklinga gegn hersveitum eru **skertar** (nema með sprengiskaða).
 Árásir hersveita gegn einstaklingum eru **elfd** og valda sprengiskaða.
 
 ### Undanhald
-Flótti úr hættulegum aðstæðum krefst alltaf heppnaðs FIM varnarkasts, ásamt öruggann stað til að flýja til. 
+Flótti úr hættulegum aðstæðum krefst alltaf heppnaðs FIM varnarkasts, ásamt öruggs stað til að flýja til. 
 
 ### Ör
-Þegar árás lækkar HP persónu niður í nákvæmlega 0 hefur það einstök áhrif á hana. Skoðið töfluna að neðan með tillit til _heildar_ skaða sem persónan varð fyrir:
+Þegar árás lækkar HP gidli persónu niður í nákvæmlega 0 hefur það einstök áhrif á hana. Skoðið töfluna að neðan með tilliti til _heildar_ skaða sem persónan varð fyrir:
 
 |      |                                                              |
 |------ |---|
 | 1    | Varanlegt ör: Kastaður 1d6 &#124; 1: Háls, 2: Hendur, 3: Auga, 4: Bringa, 5: Fótleggir, 6: Eyra. Kastaðu 1d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna.|
-| 2    | Skelfingarhögg: Þú ert ringlaður og skjálfandi. Lýstu hvernig þú nær áttum. Kastaðu 1d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna. |
+| 2    | Skelfingarhögg: Þú ert ringlaður og skjálfandi. Lýstu hvernig þú nær áttum. Kastaðu 1d6. Ef útkoman er hærri en núverandi HP þitt, taktu nýju útkomuna. |
 | 3    | Skellur: Þér er kastað til og lendir flatur á andlitinu, úrvinda. Þú líður skort þangað til þú hvílist í nokkrar klukkustundir. Þá kastaru 1d6 og bætir þeirri tölu við hámarks HP þín. |
 | 4    | Brotinn útlimur: Kastaðu 1d6 &#124; 1-2: Fótleggur, 3-4: Handleggur, 5: Rifbein, 6: Hauskúpa. Þegar það er gróið kastaðu 2d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna.|
 | 5    | Sýktur: Þú ert þjakaður af ógeðfelldri og óþæginlegri sýkingu. Þegar þú nærð bata kastaðu 2d6. Ef útkoman er hærri en núverandi HP þín taktu nýju útkomuna. |
-| 6    | Ruglaði höfuðhögg: Kastaðu 1d6 &#124; 1-2: STY, 3-4: FIM, 5-6: VIL. Kastaðu 3d6. Ef útkoman er hærri en núverandi eiginleikagildi þín taktu nýju útkomuna. |
+| 6    | Ruglandi höfuðhögg: Kastaðu 1d6 &#124; 1-2: STY, 3-4: FIM, 5-6: VIL. Kastaðu 3d6. Ef útkoman er hærri en núverandi eiginleikastig þín taktu nýju útkomuna. |
 | 7    | Farlama: Þú getur varla hreyft þig fyrr en þú færð nauðsynlega aðstoð og hvíld. Eftir bata kastaðu 3d6. Ef útkoman er hærri en hámarks FIM stig þín taktu nýju útkomuna.|
 | 8    | Heyrnalaus: Þú heyrir ekkert fyrr en þú færð óvenjulega aðstoð. Sama hvað, kastaðu upp á VIL varnarkast. Ef það tekst hækkaðu hámarks VIL stig þín um 1d4.|
 | 9    | Hugur úr skorðum: Dulin hlið á hugarheimi þínum losnar úr læðingi. Kastaðu 3d6. Ef útkoman er hærri en hámarks VIL stig þín taktu nýju útkomunum.|
-| 10   | Sundurslitinn: Útlimur er rifinn af, lamaður eða ónothæfur. Vörðurinn tilgreinir hvaða. Kastaðu síðan VIL varnarkast. Ef það tekst hækkuðu hámarks VIL um 1d6.|
+| 10   | Sundurslitinn: Útlimur er rifinn af, lamaður eða ónothæfur. Vörðurinn tilgreinir hvaða. Kastaðu síðan VIL varnarkast. Ef það tekst hækkaðu hámarks VIL um 1d6.|
 | 11   | Banvænt sár: Þú líður skort og úr leik. Þú deyrð innan stundar nema þú fáir lækningu. Ef þú lifir af kastaðu 2d6. Taktu nýju útkomuna sem hámarks HP.|
-| 12   | Dauðvona: Dauðinn var skuggalega nærri en einhvernmeginn lifðir þú af. Ef næsta varnarkast þinn við bannvænum skaða mistekst deyrðu hryllilega. Ef það tekst kastaður 3d6. Ef útkoman er hærri en hámarks HP þín taktu nýju útkomuna.  |
+| 12   | Dauðvona: Dauðinn var skuggalega nærri en einhvern veginn lifðir þú af. Ef næsta varnarkast þinn við bannvænum skaða mistekst deyrðu hryllilega. Ef það tekst kastaður 3d6. Ef útkoman er hærri en hámarks HP þín taktu nýju útkomuna.  |
 
 [aftur í efnisyfirlit](#index)
 <p></p>
@@ -788,12 +788,12 @@ Flótti úr hættulegum aðstæðum krefst alltaf heppnaðs FIM varnarkasts, ás
 
 **Rótardrýsill** 
 4 HP, 8 STY, 14 FIM, 8 VIL, spjót (d6)
-- Forðast bardaga nema þeir hafi yfirburði (t.d. fleri í hóp).
+- Forðast bardaga nema þeir hafi yfirburði (t.d. fleiri í hóp).
 - Verja stolnar eignir sínar til dauða.
 - Þrá galdrabækur og eru tilbúnir að eiga viðskipti með þær.
 
 **Hettuklæddir menn**  
-12 HP, 9 STY, 12 FIM, 14 VIL, orku stafur (d8), galdrabók (Veldu eina: _Heillun_, _Dáleiðsla_, _Ýta/Draga_, Skjöldur_)
+12 HP, 9 STY, 12 FIM, 14 VIL, leystafur (d8), galdrabók (Veldu eina: _Heillun_, _Dáleiðsla_, _Ýta/Draga_, Skjöldur_)
 - Verndarar skógarins; sértrúarsöfnuður sem sækir mátt sinn frá orkulínum, rúnasteinum og þess háttar.
 - Bannvann skaði: Sogar hluta af sál fórnarlambsins (1d4 VIL skaði).
 
@@ -828,25 +828,25 @@ X HP, X Brynja, X STY, X FIM, X VIL, vopn (dX, sérstakir gripir, eiginleikar)
 - Sérstök áhrif eða afleiðingar af bannvænum skaða.
 
 **Almennar reglur**
-Eiginleikasgildi: 3 er ófullnæjandi, 6 er veikt, 10 er meðal, 14 er merkilegt og 18 er magnað. Breyttu eftir þörfum. 
-- Gefðu meðal skepnu 3 HP, gefðu harðgerðri 6 HP og alvarlegum óvinum 10+ HP.
+Eiginleikasstig: 3 er ófullnægjandi, 6 er veikt, 10 er meðal, 14 er merkilegt og 18 er magnað. Breyttu eftir þörfum. 
+- Gefðu meðalskepnu 3 HP, gefðu harðgerðri 6 HP og alvarlegum óvinum 10+ HP.
 - Notaður bragð og stíl til að hjálpa þeim að standa upp úr. Leikmenn munu muna eftir svínslegri mannveru að leita að týndu kindinni sinni frekar en almennri drýsilbogaskyttu. 
-- Notaðu bannvænan skaða til að draga fram ógnina eða undarlegheitin hjá hvers konar árásargjarni aukapersónu. 
-- Mundu að HP er **Höggþol**, ekki heilsupunktar. Það er mælikvarði á seiglu, heppni og áræðni, ekki heilsu. 
+- Notaðu bannvænan skaða til að draga fram ógnina eða undarlegheitin hjá hvers konar árásargjarnri aukapersónu. 
+- Mundu að HP er **höggþol**, ekki heilsupunktar. Það er mælikvarði á seiglu, heppni og áræðni, ekki heilsu. 
 
 **Að umbreyta úr öðrum OSR (_Old School Renaissance_) spilum**
 - Gefðu 1 HP fyrir hvern HD fyrir flestar verur.
 - Flestar mannverur hafa að minnsta kosti 4 HP.
-- **Mórall** getur líka verið notað sem grunnur.
+- **Mórall** getur líka verið notaður sem grunnur.
 
 Nokkur ráð:
 - Er það gott að forðast högg. Gefðu því HP.
 - Sogar það í sig skaða? Gefðu því Brynju. 
 - Er það sterkt? Gefðu því hátt **STY**.
 - Er það fimt? Gefðu því hátt **FIM**.
-- Er það heillandi? GEfðu því hátt **WIL**.
+- Er það heillandi? Gefðu því hátt **WIL**.
 
-Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera að minnsta kosti 1d6 skaða.
+Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri að minnsta kosti 1d6 skaða.
 
 [aftur í efnisyfirlit](#index)
 <p></p>
@@ -858,11 +858,11 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 | 1    | [Líming](#adhere)                       | Hlutur er þakinn mjög klístruðu slími.              |
 | 2    | [Akkeri](#anchor)                       | Sterkur vír sprettur frá höndum þér og festir sig við tvo punkta innan 50 feta á hvorri hlið.|
 | 3    | [Uppvakning hluts](#animate-object)     | Hlutir fylgir skipunum þínum eftir bestu getu.          |
-| 4    | [Mannvæða](#anthropomorphize)           | Dýr öðlast annað hvort mannlega vitsmuni eða mannlegt útlit í einn dag. |
+| 4    | [Mannvæða](#anthropomorphize)           | Dýr öðlast annaðhvort mannlega vitsmuni eða mannlegt útlit í einn dag. |
 | 5    | [Töfraauga](#arcane-eye)                | Þú getur séð í gegnum fljótandi töfraauga sem flýgur um eftir skipun þinni. |
 | 6    | [Geimfangelsi](#astral-prison)          | Hlutur er frystur í tíma og rúmi fyrir innan óbrjótanlega kristalsskel. |
 | 7    | [Aðdráttur](#attract)                   | Tveir hlutir eru mjög segulmagnaðir að hvor öðrum ef þeir koma innan við 10 fet frá hvor öðrum. |
-| 8    | [Hljóðblekking](#auditory-illusion)     | Þú skapar blekkingar hljóð sem virðast koma úr átt að þínu vali. |
+| 8    | [Hljóðblekking](#auditory-illusion)     | Þú skapar blekkingarhljóð sem virðast koma úr átt að þínu vali. |
 | 9    | [Babl](#babble)                         | Vera þarf að endurtaka hátt og skýrt allt sem þú hugsar. Annars er hún mállaus. |
 | 10   | [Beitublóm](#bait-flower)               | Planta sprettur úr jörðinni sem gefur frá sér lykt af rotnandi holdi. |
 | 11   | [Dýrsform](#beast-form)                 | Þú og eigur þínar skipta ham yfir í hefðbundið dýr. |
@@ -876,22 +876,22 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 | 19   | [Stjórna veðri](#control-weather)       | Þú mátt breyta gerð verðurs að vild, en fyrir utan það stjórnar þú því ekki. |
 | 20   | [Sárabót](#cure-wounds)                 | Persónna sem þú getur snert endurheimtir 1d4 STY á dag.      |
 | 21   | [Gera heyrarlausa](#deafen)             | Allar nálægar verur verða heyrnarlausar.                           |
-| 22   | [Galdraskynjun](#detect-magic)          | Þú getur séð eða heyrt nálægar galdrar árur.                   |
-| 23   | [Sundurlimun](#disassemble)             | Það er hægt að taka frá og setja aftur saman alla líkamshluta þína án sársauka eða skaða. Þú getur ennþá stjórnað þeim.|
+| 22   | [Galdraskynjun](#detect-magic)          | Þú getur séð eða heyrt nálægar galdrarárur.                   |
+| 23   | [Sundurlimun](#disassemble)             | Það er hægt að taka frá og setja aftur saman alla líkamshluta þína án sársauka eða skaða. Þú getur enn þá stjórnað þeim.|
 | 24   | [Dulargervi](#disguise)                 | Þú getur breytt útliti einnar persónu að vildi svo lengi sem þau eru mannverur. Ef hermt er eftir annarri persónu er erfitt að sjá mun. |
 | 25   | [Tálfærsla](#displace)                  | Hlutir virðist vera allt að 15 fet frá raunverulegum stað sínum.|
 | 26   | [Jarðskjálfti](#earthquake)             | Jörðin tekur að hristast stjórnlaust. Byggingar geta skemmds eða hrunið.|
 | 27   | [Teygjanleiki](#elasticity)             | Líkami þinn getur teygst allt að 10 fet.                     |
-| 28   | [Frumaflsveggur](#elemental-wall)       | Beinn veggur úr ís eða eldi 50 fet á lengt og 10 fet á hæð rís upp úr jörðinni. |
+| 28   | [Frumaflsveggur](#elemental-wall)       | Beinn veggur úr ís eða eldi, 50 fet á lengt og 10 fet á hæð, rís upp úr jörðinni. |
 | 29   | [Fjarhnupl](#filch)                     | Hlutur sem þú sérð fjarflyst í hendur þínar.                 |
 | 30   | [Glampi](#flare)                        | Bjartur hnöttur af orku brennir ljósaslóð í himininn og afhjúpar staðsetningu þína fyrir vin eða óvin. |
 | 31   | [Þokuský](#fog-cloud)                   | Þétt þoka sprettur út frá þér. |
 | 32   | [Æði](#frenzy)                          | Það gengur ofbeldisæði yfir nálæga veru.            |
 | 33   | [Hlið](#gate)                           | Hliðgátt til handahófskennds heimssviðs opnast.                  |
-| 34   | [Snúa þyngdarafli](#gravity-shift)      | Þú getur snúið stefnu þyngarkrafsins fyrir sjálfan þig.|
+| 34   | [Snúa þyngdarafli](#gravity-shift)      | Þú getur snúið stefnu þyngarkraftsins fyrir sjálfan þig.|
 | 35   | [Græðgi](#greed)                        | Vera þróar með sér óstjórnlega löngun í að eignast sýnilegan hlut að þínu vali. |
 | 36   | [Flýtir](#haste)                        | Hraði þinn þrefaldast.                          |
-| 37   | [Hatur](#hatred)                        | Vera þróar djúpt hatur gagnvart annari veru eða hópi og vill tortýma þeim. |
+| 37   | [Hatur](#hatred)                        | Vera þróar djúpt hatur gagnvart annarri veru eða hópi og vill tortíma þeim. |
 | 38   | [Hvíslheyrn](#hear-whispers)            | Þú heyrir lágvær hljóð skýrt.                           |
 | 39   | [Svif](#hover)                          | Hlutur svífur í lausu lofti 2 fet frá jörðu. Hann getur haldið uppi einni mannveru. |
 | 40   | [Dáleiðsla](#hypnotize)                 | Vera fellur í dá og svarar satt einni já og nei spurningu sem þú spyrð hana. |
@@ -899,16 +899,16 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 | 42   | [Auðkenna eiganda](#identify-owner)     | Stafir birtast fyrir ofan hlut sem þú snertir og stafa nafn eiganda hlutsins ef hann er til. |
 | 43   | [Lýsa upp](#illuminate)                 | Svífandi ljós sem hreyfist samkvæmt skipunum þínum.                   |
 | 44   | [Ósýnilegt tjóður](#invisible-tether)   | Tveir hlutir innan við 10 fet frá hvor öðrum geta ekki færast lengar en 10 fet frá hvor öðrum. |
-| 45   | [Bank](#knock)                          | Nálægur lás, venjulegur eða göldróttur opnast með látum.           |
+| 45   | [Bank](#knock)                          | Nálægur lás, venjulegur eða göldróttur, opnast með látum.           |
 | 46   | [Stökk](#leap)                          | Þú stekkur 10 fet upp í loftið, einu sinni.                            |
 | 47   | [Fljótandi loft](#liquid-air)           | Það er hægt að synda í loftinu í kringum þig.             |
 | 48   | [Galdradempari](#magic-dampener)        | Öll nálæg galdraáhrif minnka um helming.  |
-| 49   | [Óðal](#manse)                          | Sterkalega byggt, fullinnréttað hús birtist í 12 tíma. Þú getur leyft eða hamlað inngöngu að vild. |
+| 49   | [Óðal](#manse)                          | Sterklega byggt, fullinnréttað hús birtist í 12 tíma. Þú getur leyft eða hamlað inngöngu að vild. |
 | 50   | [Marmaraæði](#marble-craze)             | Vasar þínir fyllast af glerkúlum og endurfyllast á 30 sekúndna fresti.|
-| 51   | [Grímuball](#masquerade)                | Útlit og rödd persónu verður nákvæmlega eins og persónu sem þú snertir.|
+| 51   | [Grímuball](#masquerade)                | Útlit og rödd persónu verða nákvæmlega eins og persónu sem þú snertir.|
 | 52   | [Smækkun](#miniaturize)                 | Vera sem þú snertir er smækkuð niður í stærð músar.  |
 | 53   | [Spegilmynd](#mirror-image)             | Tálmynd sjálfum þér birtist og lætur undir stjórn þinni.|
-| 54   | [Spegilganga](#mirrorwalk)              | Spegill verður hliðgátt inní annan spegil sem þú horftðir á í dag. |
+| 54   | [Spegilganga](#mirrorwalk)              | Spegill verður hliðgátt inní annan spegil sem þú horfðir á í dag. |
 | 55   | [Fjölarmur](#multiarm)                  | Þér vex tímabundið auka handleggur.                       |
 | 56   | [Nátthnöttur](#night-sphere)            | 50 feta breiður hnöttur af myrkri sem sýnir næturhimininn birtist fyrir framan þig. |
 | 57   | [Hlutgera](#objectify)                  | Þú breytist í líflausan hlut sem er á stærð milli flygils og eplis. |
@@ -931,29 +931,29 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 | 74   | [Svefn](#sleep)                         | Vera sem þú sérð sofnar lausum svefni.             |
 | 75   | [Svell](#slick)                         | Öll yfirborð í 30 feta radíus verða mjög hál.  |
 | 76   | [Reykform](#smoke-form)                 | Líkami þinn verður lifandi reykur sem þú hefur stjórn á.       |
-| 77   | [Þefa](#sniff)                          | Þú finnur alla lykt, jafnvel hina daufust.           |
+| 77   | [Þefa](#sniff)                          | Þú finnur alla lykt, jafnvel hina daufustu.           |
 | 78   | [Slökkva](#snuff)                       | Allar uppsprettur af hefðbundnu ljósi sem þú sérð slökkna. |
 | 79   | [Flokka](#sort)                         | Líflausir hlutir flokka sig niður í flokka sem þú tilgreinir. |
 | 80   | [Tálsýn](#spectacle)                    | Greinilega fölsk en áhrifamikil tálsýn að þínu vali birtist undir þinni stjórn. Hún getur verið á stærð við höll og getur hreyfst og gefið frá sér hljóð. |
 | 81   | [Galdrasög](#spellsaw)                  | Snúandi blað flýgur frá brjóstkassanum á þér, höggvandi niður allt plöntuefni í vegi sínum. Fyrir utan það er það skaðlaust. |
 | 82   | [Köngulóarklifur](#spider-climb)        | Þú getur klifrað yfirborð eins og könguló.                       |
-| 83   | [Framkalla teninga](#summon-cube)       | Einu sinni á sekúndu getur þú framkallað eða fjarlægt 3 feta breiðan tening af jörð. Nýjir teningar verða að festast við jörðina eða aðra teninga. |
+| 83   | [Framkalla teninga](#summon-cube)       | Einu sinni á sekúndu getur þú framkallað eða fjarlægt 3 feta breiðan tening af jörð. Nýir teningar verða að festast við jörðina eða aðra teninga. |
 | 84   | [Ger](#swarm)                           | Þú breytist í ger af krákum, rottum eða píranafiskum. Það er aðeins hægt að slasa þig með sprengiskaða. |
 | 85   | [Hugarflutningur](#telekinesis)         | Þú getur hreyft einn hlut undir 60 pundum með hugarafli.               |
-| 86   | [Hugarsamskipti](#telepathy)            | Tvær verur geta heyrt hugsanir hvors annars, sama hversu langt í burtu þær eru. |
-| 87   | [Fjarflutningur](#teleport)             | Hlutur eða persóna sem þú sérð er fjarflutt frá einu stað til annars í 50 feta radíus. |
+| 86   | [Hugarsamskipti](#telepathy)            | Tvær verur geta heyrt hugsanir hvor annars, sama hversu langt í burtu þær eru. |
+| 87   | [Fjarflutningur](#teleport)             | Hlutur eða persóna sem þú sérð er fjarflutt frá einum stað til annars í 50 feta radíus. |
 | 88   | [Markbeita](#target-lure)               | Hlutur sem þú snertir verður skotmark galdurs. |
 | 89   | [Þykkni](#thicket)                      | Trjá- og runnaþykkni allt að 50 fet á breidd sprettur snögglega úr jörðinni. |
 | 90   | [Framkalla líkneski](#summon-idol)      | Útskorin steinstytta á stærð við múldýr rís upp úr jörðinni.|
-| 91   | [Tímastjórnun](#time-control)           | Tíminn inní 50 feta bólu hægist eða hraðast um 10% í 30 sekúndur. |
+| 91   | [Tímastjórnun](#time-control)           | Tíminn inn í 50 feta bólu hægist eða hraðast um 10% í 30 sekúndur. |
 | 92   | [Sannsjón](#true-sight)                 | Þú sér í gegnum allar nálægar tálsýnar.                      |
 | 93   | [Uppstreymi](#upwell)                   | Uppspretta með sjó birtist.                                |
 | 94   | [Sýn](#vision)                          | Þú hefur algjöra stjórn á hvað vera sér.               |
 | 95   | [Sjónhverfing](#visual-illusion)        | Þögul, óhreyfanleg sjónhverfing á stærð við herbergi birtist að þínu vali. |
-| 96   | [Vörn](#ward)                           | Silfur hringur 50 fet í þvermál birtist á jörðinni. Veldu eina tegund sem getur ekki farið yfir hringinn. |
+| 96   | [Vörn](#ward)                           | Silfurhringur 50 fet í þvermál birtist á jörðinni. Veldu eina tegund sem getur ekki farið yfir hringinn. |
 | 97   | [Vefur](#web)                           | Þykkur vefur skýst út úr úlnliðum þínum.                         |
-| 98   | [Græja](#widget)                        | Frumstæð útgáfa að teiknuðu verkfæri eða hlut birtist fyrir framan þig og hverfu eftir stutta stund. |
-| 99   | [Galdramerki](#wizard-mark)             | Þú getur skotið galdralitaðir málingu út um figurgómana á þér. Aðeins þú getur séð þessa málingu og hún sést úr hvaða fjarlægð, gegnum hvað sem er. |
+| 98   | [Græja](#widget)                        | Frumstæð útgáfa af teiknuðu verkfæri eða hlut birtist fyrir framan þig og hverfu eftir stutta stund. |
+| 99   | [Galdramerki](#wizard-mark)             | Þú getur skotið galdralitaðri málningu út um figurgómana á þér. Aðeins þú getur séð þessa málningu og hún sést úr hvaða fjarlægð, gegnum hvað sem er. |
 | 100  | [Röntgensjón](#x-ray-vision)            | Þú getur sé í gegnum veggi, jörð, föt, o.s.frv.              | 
 
 [aftur í efnisyfirlit](#index)
@@ -964,7 +964,7 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 **AÐGERÐIR**
 Í sinni lotu getur persóna fært sig allt að 40 fet og framkvæmt eina aðgerð. Þetta getur verið að kasta galdri, ráðast á, hreyfa sig aftur, eða framkvæma aðra viðeigandi aðgerð. Aðgerðir, árásir og hreyfingar gerast á sama tíma. Þegar röð lota er óviss skulu persónur kasta upp á FIM varnarkast til að gera á undan óvinum sínum. 
 
-**Flótti** frá hættulegum aðstæðum krefast alltaf að persónu takist FIM varnarkast og að hún hafi öruggan stað til að hlaupa á.
+**Flótti** frá hættulegum aðstæðum krefst alltaf að persónu takist FIM varnarkast og að hún hafi öruggan stað til að hlaupa á.
 
 **EIGINLEIKAR**  
 **STY:** Kraftur, hæfni & viðnám. 
@@ -972,7 +972,7 @@ Skaða teningur er nokkurn vegin það sama, þó að vopnaðar árásir gera a�
 **VIL:** Sannfæring, hótanir og töfrar.
 
 **VARNARKÖST**
-- Kastið d20 upp á útkomu jafnri eða undir eiginleikagildi.
+- Kastið d20 til að fá útkomu jafna eða undir eiginleikastigi.
 - 1 tekst alltaf, 20 mistekst alltaf.
 
 **HÖGGÞOL**  
@@ -984,23 +984,22 @@ Persónur hafa 10 birgðahólf: fjögur á líkama sínum og sex í bakpoka (sem
 Að fylla öll tíu hólf lækkar HP persónu niður í 0. Persónur geta ekki borið meira en birgðahólf þeirra leyfa, en kerrur og hestar geta veitt auka hólf.ots.
 
 **SKORTUR**  
-Persóna sem líður **Skort** getur ekki endurheimt HP. Ef persóna líður skort í meira en einn dag bættu við **Þreytu** í birgðirnar. Þreyta tekur eitt hólf og endist þangað til hægt er að hvílast í öruggum aðstæðum. Þessi áhrif safnast upp. 
+Persóna sem líður **skort** getur ekki endurheimt HP. Ef persóna líður skort í meira en einn dag bættu við **þreytu** í birgðirnar. Þreyta tekur eitt hólf og endist þangað til hægt er að hvílast í öruggum aðstæðum. Þessi áhrif safnast upp. 
 
 **LÆKNING**  
-Stutt hvíld og vatnsopi endurheimta allt tapa HP en skilur hópinn eftir berskjaldaðann. Við að missa **eiginleikastig** þarf viku hvíld og aðstoð heilara.
+Stutt hvíld og vatnsopi endurheimta allt tapað HP en skilur hópinn eftir berskjaldaðan. Við að missa **eiginleikastig** þarf viku hvíld og aðstoð heilara.
 
 **GALDRABÆKUR**
-Galdrabækur innihalda stakan galdur og taka eitt birgðahólf. Hver sem er getur kastað galdri með að halda á galdrabók í báðum höndum og lesa innihald hennar upphátt. Að kasta galdri bætir við **Þreytu** í birgðahólf persónu.
+Galdrabækur innihalda stakan galdur og taka eitt birgðahólf. Hver sem er getur kastað galdri með að halda á galdrabók í báðum höndum og lesa innihald hennar upphátt. Að kasta galdri bætir við **þreytu** í birgðahólf persónunnar.
 
-Ef tími og öryggi er til staðar geta leikmenn _aukið_ áhrif galdurs (t.d. beitt honum á fleiri skotmörk, aukið svo kraft hans o.s.frv.) án viðbótarkostnaðar. Ef persóna er í hættu eða við skort getur Vörðurinn krafið persónuna um um VIL kast til að forðast slæmar afleiðingar galdursins. 
-
+Ef tími og öryggi er til staðar geta leikmenn _aukið_ áhrif galdurs (t.d. beitt honum á fleiri skotmörk, aukið svo kraft hans o.s.frv.) án viðbótarkostnaðar. Ef persóna er í hættu eða við skort getur Vörðurinn krafið persónuna um VIL kast til að forðast slæmar afleiðingar galdursins. 
 
 **BARDAGI**  
 Árásarmaðurinn kastar vopnateningi sínum og drekur frá Brynju skotmarksins og minnkar síðan HP skotmarksins með afganginum. 
 
 Enginn getur verið með meira en 3 Brynjur. 
 
-**Óvopnaðar** árásir gera 1d4 skaða. Ef **margir árásarmenn** miða á sama óvin, kastið öllum skaðateningum og haldið hæstu útkomunni. Ef ráðist er á með **tveimur vopnum** á sama tíma kastið báðum skaðateningum og haldið hærri útkomunni.
+**Óvopnaðar** árásir gera 1d4 skaða. Ef **margir árásarmenn** miða á sama óvin, kastið öllum skaðateningum og haldið hæstu útkomunni. Ef ráðist er á með **tveimur vopnum** á sama tíma, kastið báðum skaðateningum og haldið hærri útkomunni.
 
 Ef árás er **skert** er 1d4 skaðateningur notaður sama hvert vopnið er. Ef árásin er **elfd** er kastað með 1d12. Árásir með **sprengjuskaða** hafa áhrif á öll skotmörk á ákveðnu svæði, kastað sér fyrir hvert.
 
@@ -1011,4 +1010,7 @@ Ef árás minnkar HP persónu niður í nákvæmlega 0, skoðið [**Ör**](/cair
 Skaði sem minnkar HP persónu **niður** fyrir 0 dregur afganginn frá STY. Hún þarf síðan að kasta upp á STY varnarkast til að forðast **bannvænan skaða**. Að mistakast það kast tekur persónu úr bardaga og hún deyr án aðhlynningar.
 
 Að hafa 0 STY þýðir **dauði**, að hafa 0 FIM þýðir lömun, að hafa 0 VIL þýðir vitstola. 
+
+
+
 
