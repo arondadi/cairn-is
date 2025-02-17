@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 
-|------|--------|
+|-|-|
 |Enska                         |  Íslenska    |
 | Class                        | Hlutverk    |
 | Character (PC)               | Persóna   |

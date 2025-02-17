@@ -233,11 +233,11 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     |Alkemisti      |6   |Klerkur          |11   |Galdramaður |16    |Flytjandi |
-|2     |Járnsmiður     |7   |Fjárhættuspilari |12   |Málaliði    |17    |Vasaþjófur|
-|3     |Innbrotsþjófur |8   |Grafari          |13   |Kaupmaður   |18    |Smyglari  |
-|4     |Slátrari       |9   |Jurtalæknir      |14   |Námumaður   |19    |Þjónn     |
-|5     |Smiður         |10  |Veiðimaður       |15   |Útlagi      |20    |Rekki     |
+|1     |Alkemisti         |6   |Innbrotsþjófur  |11   |Málaliði   |16    |Smyglari |
+|2     |Flytjandi         |7   |Járnsmiður      |12   |Námumaður  |17    |Þjónn|
+|3     |Fjárhættuspilari  |8   |Jurtalæknir     |13   |Rekki      |18    |Útlagi  |
+|4     |Galdramaður       |9   |Kaupmaður       |14   |Slátrari   |19    |Vasaþjófur     |
+|5     |Grafari           |10  |Klerkur         |15   |Smiður     |20    |Veiðimaður     |
 
 <p></p>
 
@@ -266,7 +266,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 #### Hár
 
 |  |         |      |           |
-| ---- | ------- | ---- | --------- |
+| ---- | --------- | ---- | --------- |
 | 1    | Sköllótt       | 6    | Sítt      |
 | 2    | Fléttað        | 7    | Glæsilegt |
 | 3    | Krullað        | 8    | Feitt     |
@@ -310,7 +310,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | 1      | Metnaðarfull/ur  | 6    | Heiðarleg/ur     |
 | 2      | Varkár           | 7    | Hógvær           |
 | 3      | Hugrökk/rakkur   | 8    | Miskunnsöm/samur |
-| 4      | Öguð/Agaður      | 9    | Friðsæl/ur       |
+| 4      | Öguð/Agaður      | 9    | Friðsæl/l       |
 | 5      | Félagslynd/ur    | 10   | Umburðarlynd/ur  |
 
 #### Löstur
@@ -355,10 +355,10 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | Engin | Brynstakkur | Hringabrynja | Plötubrynja |
 
 #### Hjálmar og skildir
-
-|  |        |        |                   |
-| :---------------: | :----:  | :----:   | :-------------: |
-|       1-13        | 14-16   | 17-19    |       20        |
+ 
+|                   |         |          |                     |
+| :---------------: | :----:  | :----:   | :-------------:     |
+|       1-13        | 14-16   | 17-19    |       20            |
 |       Ekkert      | Hjálmur | Skjöldur | Hjálmur og skjöldur |
 
 #### Vopn
@@ -371,32 +371,35 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 #### Ferðabúnaður
 
 |      |                        |      |                |      |             |      |             |
-| ---- | ----------------------  | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Sundblaðra               | 6    | Olía           | 11   | Handjárn       | 16   | Reipi (25 fet) |
-| 2    | Móteitur                 | 7    | Klifurkrókur   | 12   | Haki           | 17   | Andafæla       |
-| 3    | Kerra (+4 hólf, þungt)   | 8    | Stór sekkur    | 13   | Stöng (10 fet) | 18   | Sjónauki       |
-| 4    | Keðja (10 fet)           | 9    | Dýragildra     | 14   | Trissa         | 19   | Eldfæri        |
-| 5    | Vatnsleitarsproti        | 10   | Þjófalyklar    | 15   | Fráhrinda      | 20   | Eiturjurtir    |
+| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
+| 1    | Andafæla              | 6    | Fráhrinda      | 11   | Klifurkrókur | 16   | Reipi (25 fet) |
+| 2    | Dýragildra            | 7    | Haki           | 12   | Móteitur     | 17   | Sjónauki       |
+| 3    | Eiturjurtir           | 8    | Handjárn       | 13   | Olía         | 18   | Stór sekkur    |
+| 4    | Eldfæri               | 9    | Keðja (10 fet) | 14   | Stöng (10 fet) | 19   | Sundblaðra     |
+| 5    | Kerra (+4 hólf, þungt) | 10   | Þjófalyklar    | 15   | Trissa       | 20   | Vatnsleitarsproti |
+
 
 #### Verkfæri
 
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Físibelgur  | 6    | Eldunarpottar | 11   | Smurfeiti    | 16   | Net     |
-| 2    | Fata        | 7    | Kúbein        | 12   | Hamar       | 17   | Sög     |
-| 3    | Fótönglar   | 8    | Handbor       | 13   | Stundaglas  | 18   | Kítti   |
-| 4    | Krít        | 9    | Veiðistöng    | 14   | Málmþjöl    | 19   | Skófla  |
-| 5    | Sporjárn    | 10   | Lím           | 15   | Naglar      | 20   | Tangir  |
+|      |            |      |                |      |            |      |         |
+| ---- | ---------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
+| 1    | Eldunarpottar | 6    | Fata          | 11   | Lím        | 16   | Skófla  |
+| 2    | Físibelgur    | 7    | Fótönglar     | 12   | Málmþjöl   | 17   | Smurfeiti |
+| 3    | Handbor       | 8    | Hamar         | 13   | Naglar     | 18   | Sög     |
+| 4    | Kítti         | 9    | Krít          | 14   | Net        | 19   | Sporjárn |
+| 5    | Kúbein        | 10   | Veiðistöng    | 15   | Stundaglas | 20   | Tangir   |
+
 
 #### Smámunir
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Flaska           | 6    | Horn        | 11   | Spegll         | 16   | Sápa        |
-| 2    | Spilastokkur     | 7    | Reykelsi    | 12   | Ilmvatn        | 17   | Svampur     |
-| 3    | Teningasett      | 8    | Hljóðfæri   | 13   | Blek og penni  | 18   | Tjörupottur |
-| 4    | Andlitsmáling    | 9    | Sjónlinsa   | 14   | Pakki af salti | 19   | Tvinni      |
-| 5    | Gerviskartgripir | 10   | Glerkúlur   | 15   | Lítil bjalla   | 20   | Flauta      |
+|      |                 |      |              |      |                 |      |             |
+| ---- | -------------- | ---- | ------------ | ---- | -------------- | ---- | ---------- |
+| 1    | Andlitsmáling  | 6    | Glerkúlur    | 11   | Lítil bjalla    | 16   | Spegill     |
+| 2    | Blek og penni  | 7    | Gerviskartgripir | 12   | Pakki af salti | 17   | Spilastokkur |
+| 3    | Flauta         | 8    | Hljóðfæri    | 13   | Reykelsi        | 18   | Svampur      |
+| 4    | Flaska         | 9    | Horn         | 14   | Sápa            | 19   | Teningasett  |
+| 5    | Ilmvatn        | 10   | Sjónlinsa    | 15   | Tjörupottur     | 20   | Tvinni       |
+
 
 #### Aukahlutur (Kastið aftur á töflu útkomunnar)
 
@@ -409,33 +412,36 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 #### Galdrabækur (d100)
 
-|||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Líming           |26 |Jarðskjálfti      |51 |Grímuball     |76 |Reykform           |
-|2  |Akkeri           |27 |Teygjanleiki      |52 |Smækkun       |77 |Þefa               |
-|3  |Uppvakning hluts |28 |Frumaflsveggur    |53 |Spegilmynd    |78 |Slökkva            |
-|4  |Mannvæða         |29 |Fjarhnupl         |54 |Spegilganga  |79 |Flokka             |
-|5  |Töfraauga        |30 |Glampi            |55 |Fjölarmur     |80 |Tálsýn             |
-|6  |Geimfangelsi     |31 |Þokuský           |56 |Nátthnöttur   |81 |Galdrasög          |
-|7  |Aðdráttur        |32 |Æði               |57 |Hlutagera     |82 |Köngulóarklifur    |
-|8  |Hljóðblekking    |33 |Hlið              |58 |Slímform      |83 |Framkalla kubba    |
-|9  |Babl             |34 |Snúa þyngdarafli  |59 |Friða         |84 |Ger                |
-|10 |Beitublóm        |35 |Græðgi            |60 |Fælni         |85 |Hugarflutningur    |
-|11 |Dýrsform         |36 |Flýtir            |61 |Gryfja        |86 |Hugarsamskipti     |
-|12 |Ringla           |37 |Hatur             |62 |Frumbylgja    |87 |Fjarflutningur     |
-|13 |Líkamsskipti     |38 |Hvíslheyrn        |63 |Ýta/Draga     |88 |Markbeita          |
-|14 |Heillun          |39 |Svif              |64 |Upprisa       |89 |Þykkni             |
-|15 |Skipun           |40 |Dáleiðsla         |65 |Framkalla anda|90 |Framkalla líkneski |
-|16 |Skilningur       |41 |Íssnerting        |66 |Hugarlestur   |91 |Tímastjórn         |
-|17 |Froðukeila       |42 |Auðkenna eiganda  |67 |Fráhrinda     |92 |Sannsjón           |
-|18 |Stjórna plöntum  |43 |Lýsa upp          |68 |Skyggnast     |93 |Uppstreymi         |
-|19 |Stjórna veðri    |44 |Ósýnilegt tjóður  |69 |Móta frumefni |94 |Sýn                |
-|20 |Sárabót          |45 |Bank              |70 |Skynja        |95 |Sjónhverfing       | 
-|21 |Gera heyrnalausa |46 |Stökk             |71 |Skjöldur      |96 |Vörn               |
-|22 |Galdraskynjun    |47 |Fljótandi loft    |72 |Hylja         |97 |Vefur              |
-|23 |Sundurlimun      |48 |Galdradempari     |73 |Víxla         |98 |Græja              |
-|24 |Dulargervi       |49 |Óðal              |74 |Svefn         |99 |Galdramerki        |
-|25 |Tálfærsla        |50 |Marmaraæði        |75 |Svell         |100|Röntgensjón        |
+
+|    |                  |    |                  |    |                  |    |                  |
+|----|---------------------|----|--------------------|----|----------------|----|--------------------|
+|  1  | Aðdráttur          | 26  | Galdramerki       | 51  | Líming          | 76  | Spegilmynd          |
+|  2  | Akkeri             | 27  | Galdraskynjun     | 52  | Lýsa upp        | 77  | Stjórna plöntum    |
+|  3  | Auðkenna eiganda   | 28  | Galdrasög         | 53  | Mannvæða        | 78  | Stjórna veðri     |
+|  4  | Babl               | 29  | Geimfangelsi      | 54  | Markbeita       | 79  | Stökk             |
+|  5  | Bank               | 30  | Ger               | 55  | Marmaraæði      | 80  | Sundurlimun      |
+|  6  | Beitublóm          | 31  | Gera heyrnalausa  | 56  | Móta frumefni   | 81  | Svefn            |
+|  7  | Dáleiðsla          | 32  | Glampi            | 57  | Nátthnöttur     | 82  | Svell            |
+|  8  | Dulargervi         | 33  | Grímuball         | 58  | Óðal            | 83  | Svif             |
+|  9  | Dýrsform           | 34  | Gryfja            | 59  | Ósýnilegt tjóður| 84  | Sýn              |
+| 10  | Fjarflutningur     | 35  | Græðgi            | 60  | Reykform        | 85  | Tálfærsla        |
+| 11  | Fjarhnupl          | 36  | Græja             | 61  | Ringla          | 86  | Tálsýn           |
+| 12  | Fjölarmur          | 37  | Hatur             | 62  | Röntgensjón     | 87  | Teygjanleiki     |
+| 13  | Fljótandi loft     | 38  | Heillun           | 63  | Sannsjón        | 88  | Tímastjórn       |
+| 14  | Flokka             | 39  | Hlið              | 64  | Sárabót         | 89  | Töfraauga        |
+| 15  | Flýtir             | 40  | Hljóðblekking     | 65  | Sjónhverfing    | 90  | Upprisa          |
+| 16  | Framkalla anda     | 41  | Hlutagera         | 66  | Skilningur      | 91  | Uppstreymi       |
+| 17  | Framkalla kubba    | 42  | Hugarflutningur   | 67  | Skipun          | 92  | Uppvakning hluts |
+| 18  | Framkalla líkneski | 43  | Hugarlestur       | 68  | Skjöldur        | 93  | Vefur            |
+| 19  | Fráhrinda          | 44  | Hugarsamskipti    | 69  | Skyggnast       | 94  | Víxla            |
+| 20  | Friða              | 45  | Hvíslheyrn        | 70  | Skynja          | 95  | Vörn             |
+| 21  | Froðukeila         | 46  | Hylja             | 71  | Slímform        | 96  | Ýta/Draga        |
+| 22  | Frumaflsveggur     | 47  | Íssnerting        | 72  | Slökkva         | 97  | Þefa             |
+| 23  | Frumbylgja         | 48  | Jarðskjálfti      | 73  | Smækkun         | 98  | Þokuský          |
+| 24  | Fælni              | 49  | Köngulóarklifur   | 74  | Snúa þyngdarafli| 99  | Þykkni           |
+| 25  | Galdradempari      | 50  | Líkamsskipti      | 75  | Spegilganga     |100  | Æði              |
+
+
 
 <p></p>
 
@@ -465,36 +471,37 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 #### Búnaður og verkfæri
 
-| |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Sundblaðra                                   |5               |Dýragildra            |20        |
-|Físibelgur                                   |10              |Stór svampur          |5         |
-|Svefnpoki                                    |5               |Linsa                 |10        |
-|Bók                                          |50              |Þjófalyklar           |25        |
-|Fata                                         |5               |Handjárn              |10        |
-|Fótönglar                                    |10              |Málmþjöl              |5         |
-|Kerra (+4 hólf, þungt)                       |30              |Spegill               |5         |
-|Keðja (10 fet)                               |10              |Múldýr (+6 hólf, hægt)|30      |
-|Krít                                         |1               |Net                   |10        |
-|Sporjárn                                     |5               |Vatnsheldur poki      |5         |
-|Eldunarpottar                                |10              |Haki                  |10        |
-|Kúbein                                       |10              |Talía                 |10        |
-|Handbor                                      |10              |Stöng (10 fet)        |5         |
-|Andlitsmáling                                |10              |Blekpenni og bytta    |10        |
-|Olía                                         |10              |Vistir (þriggja daga)|10        |
-|Veiðistöng                                   |10              |Reipi (25 fet)        |5         |
-|Glerkúlur                                    |5               |Sög                   |5         |
-|Lím                                          |5               |Poki                  |5         |
-|Smurfeiti                                    |10              |Skófla                |5         |
-|Klifurkrókur                                 |25              |Sápa                  |1         |
-|Hamar                                        |5               |Járnhæll              |1         |
-|Vígt vatn                                    |25              |Gaddaskór             |5         |
-|Horn                                         |10              |Sjónauki              |40        |
-|Hestur (+4 hólf)                             |75              |Tjara                 |10        |
-|Stundaglás                                   |50              |Tjald (tveggja manna, þungt)|20        |
-|Reykelsi                                     |10              |Kyndill               |1         |
-|Stigi (þungt, 10 fet)                        |10              |Vagn (+8 hólf, hægt)  |200    |
-|Lampi & olía                                 |10              |Eiturjurtir           |10        |
+|                                            |      |                                             |      |
+|--------------------------------------------|------|---------------------------------------------|------|
+| Andlitsmáling                              | 10   | Múldýr (+6 hólf, hægt)                      | 30   |
+| Blekpenni og bytta                         | 10   | Net                                         | 10   |
+| Bók                                        | 50   | Olía                                        | 10   |
+| Dýragildra                                 | 20   | Poki                                        | 5    |
+| Eiturjurtir                                | 10   | Reipi (25 fet)                              | 5    |
+| Eldunarpottar                              | 10   | Reykelsi                                    | 10   |
+| Fata                                       | 5    | Sápa                                        | 1    |
+| Físibelgur                                 | 10   | Sjónauki                                    | 40   |
+| Fótönglar                                  | 10   | Skófla                                      | 5    |
+| Gaddaskór                                  | 5    | Smurfeiti                                   | 10   |
+| Glerkúlur                                  | 5    | Spegill                                     | 5    |
+| Haki                                       | 10   | Sporjárn                                    | 5    |
+| Hamar                                      | 5    | Stigi (þungt, 10 fet)                       | 10   |
+| Handbor                                    | 10   | Stór svampur                                | 5    |
+| Handjárn                                   | 10   | Stundaglás                                  | 50   |
+| Hestur (+4 hólf)                           | 75   | Stöng (10 fet)                              | 5    |
+| Horn                                       | 10   | Sundblaðra                                  | 5    |
+| Járnhæll                                   | 1    | Svefnpoki                                   | 5    |
+| Keðja (10 fet)                             | 10   | Sög                                         | 5    |
+| Kerra (+4 hólf, þungt)                     | 30   | Talía                                       | 10   |
+| Klifurkrókur                               | 25   | Tjald (tveggja manna, þungt)                | 20   |
+| Krít                                       | 1    | Tjara                                       | 10   |
+| Kúbein                                     | 10   | Vagn (+8 hólf, hægt)                        | 200  |
+| Kyndill                                    | 1    | Vatnsheldur poki                            | 5    |
+| Lampi & olía                               | 10   | Veiðistöng                                  | 10   |
+| Linsa                                      | 10   | Vistir (þriggja daga)                       | 10   |
+| Lím                                        | 5    | Vígt vatn                                   | 25   |
+| Málmþjöl                                   | 5    | Þjófalyklar                                 | 25   |
+   
 
 <p></p>
 
@@ -635,7 +642,7 @@ Stækkið fyrir dæmi
 </details>
 
 ### Lækning
-Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð HP en skilur hópinn eftir berskjaldaðan. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
+Að hvílast í stutta stund og fá sér vatnssopa endurheimtir töpuð HP en skilur hópinn eftir berskjaldaðan. Við að missa eiginleikastig (sjá **Krítískur skaði**) þarf vanalega að hvílast í um viku undir höndum heilara eða hjá einhverjum með sambærilega þekkingu. Sum þjónusta er ókeypis á meðan galdrar eða skjótari leiðir til baka gætu kostað sitt.t a cost.
 
 ### Skortur & Þreyta
 Persónu sem **skortir** eitthvað lífsnauðsynlegt (líkt og mat eða hvíld) getur ekki endurheimt HP eða eiginleikastig. Hver sá sem líður skort í meira en dag bætir við **þreyta** í byrðahólf sitt, eina fyrir hvern dag. Hver einasta Þreyta tekur upp eitt hólf og endist þangað til persónan getur hvílst almennilega (eins og góður nætursvefn á öruggum stað). Persónur geta einnig bætt við sig þreytu með því að **kasta göldrum** eða í uppákomum í sögunni. 
@@ -853,108 +860,112 @@ Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri a�
 
 ## 100 Galdrar
 
+
+
+
 |      |                                         |                                                              |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Líming](#adhere)                       | Hlutur er þakinn mjög klístruðu slími.              |
+| 1    | [Aðdráttur](#attract)                   | Tveir hlutir eru mjög segulmagnaðir að hvor öðrum ef þeir koma innan við 10 fet frá hvor öðrum. |
 | 2    | [Akkeri](#anchor)                       | Sterkur vír sprettur frá höndum þér og festir sig við tvo punkta innan 50 feta á hvorri hlið.|
-| 3    | [Uppvakning hluts](#animate-object)     | Hlutir fylgir skipunum þínum eftir bestu getu.          |
-| 4    | [Mannvæða](#anthropomorphize)           | Dýr öðlast annaðhvort mannlega vitsmuni eða mannlegt útlit í einn dag. |
-| 5    | [Töfraauga](#arcane-eye)                | Þú getur séð í gegnum fljótandi töfraauga sem flýgur um eftir skipun þinni. |
-| 6    | [Geimfangelsi](#astral-prison)          | Hlutur er frystur í tíma og rúmi fyrir innan óbrjótanlega kristalsskel. |
-| 7    | [Aðdráttur](#attract)                   | Tveir hlutir eru mjög segulmagnaðir að hvor öðrum ef þeir koma innan við 10 fet frá hvor öðrum. |
-| 8    | [Hljóðblekking](#auditory-illusion)     | Þú skapar blekkingarhljóð sem virðast koma úr átt að þínu vali. |
-| 9    | [Babl](#babble)                         | Vera þarf að endurtaka hátt og skýrt allt sem þú hugsar. Annars er hún mállaus. |
-| 10   | [Beitublóm](#bait-flower)               | Planta sprettur úr jörðinni sem gefur frá sér lykt af rotnandi holdi. |
-| 11   | [Dýrsform](#beast-form)                 | Þú og eigur þínar skipta ham yfir í hefðbundið dýr. |
-| 12   | [Ringla](#befuddle)                     | Vera að þínu vali er ófær um að mynda skammtímaminningar á meðan galdurinn endist. |
-| 13   | [Líkamsskipti](#body-swap)              | Þú skiptir um líkama við veru sem þú snertir. Ef annar líkami deyr deyr hinn einnig. |
-| 14   | [Heillun](#charm)                       | Vera sem þú sérð lítur á þig sem vin.               |
-| 15   | [Skipun](#command)                      | Skotmark fylgir einni þriggja orða skipum sem skaðar hana ekki |
-| 16   | [Skilningur](#comprehend)               | Þú verður reiprennandi í öllum tungumálum í stutta stund.       |
-| 17   | [Froðukeila](#cone-of-foam)             | Þétt froða spreyjast frá höndum þínum og þekur skotmarkið.       |
-| 18   | [Stjórna plöntum](#control-plants)      | Allar nálægar plöntur og tré hlíða þér og öðlast getuna að hreyfa sig hægt.|
-| 19   | [Stjórna veðri](#control-weather)       | Þú mátt breyta gerð verðurs að vild, en fyrir utan það stjórnar þú því ekki. |
-| 20   | [Sárabót](#cure-wounds)                 | Persónna sem þú getur snert endurheimtir 1d4 STY á dag.      |
-| 21   | [Gera heyrarlausa](#deafen)             | Allar nálægar verur verða heyrnarlausar.                           |
-| 22   | [Galdraskynjun](#detect-magic)          | Þú getur séð eða heyrt nálægar galdrarárur.                   |
-| 23   | [Sundurlimun](#disassemble)             | Það er hægt að taka frá og setja aftur saman alla líkamshluta þína án sársauka eða skaða. Þú getur enn þá stjórnað þeim.|
-| 24   | [Dulargervi](#disguise)                 | Þú getur breytt útliti einnar persónu að vildi svo lengi sem þau eru mannverur. Ef hermt er eftir annarri persónu er erfitt að sjá mun. |
-| 25   | [Tálfærsla](#displace)                  | Hlutir virðist vera allt að 15 fet frá raunverulegum stað sínum.|
-| 26   | [Jarðskjálfti](#earthquake)             | Jörðin tekur að hristast stjórnlaust. Byggingar geta skemmds eða hrunið.|
-| 27   | [Teygjanleiki](#elasticity)             | Líkami þinn getur teygst allt að 10 fet.                     |
-| 28   | [Frumaflsveggur](#elemental-wall)       | Beinn veggur úr ís eða eldi, 50 fet á lengt og 10 fet á hæð, rís upp úr jörðinni. |
-| 29   | [Fjarhnupl](#filch)                     | Hlutur sem þú sérð fjarflyst í hendur þínar.                 |
-| 30   | [Glampi](#flare)                        | Bjartur hnöttur af orku brennir ljósaslóð í himininn og afhjúpar staðsetningu þína fyrir vin eða óvin. |
-| 31   | [Þokuský](#fog-cloud)                   | Þétt þoka sprettur út frá þér. |
-| 32   | [Æði](#frenzy)                          | Það gengur ofbeldisæði yfir nálæga veru.            |
-| 33   | [Hlið](#gate)                           | Hliðgátt til handahófskennds heimssviðs opnast.                  |
-| 34   | [Snúa þyngdarafli](#gravity-shift)      | Þú getur snúið stefnu þyngarkraftsins fyrir sjálfan þig.|
+| 3    | [Auðkenna eiganda](#identify-owner)     | Stafir birtast fyrir ofan hlut sem þú snertir og stafa nafn eiganda hlutsins ef hann er til. |
+| 4    | [Babl](#babble)                         | Vera þarf að endurtaka hátt og skýrt allt sem þú hugsar. Annars er hún mállaus. |
+| 5    | [Bank](#knock)                          | Nálægur lás, venjulegur eða göldróttur, opnast með látum.           |
+| 6    | [Beitublóm](#bait-flower)               | Planta sprettur úr jörðinni sem gefur frá sér lykt af rotnandi holdi. |
+| 7    | [Dáleiðsla](#hypnotize)                 | Vera fellur í dá og svarar satt einni já og nei spurningu sem þú spyrð hana. |
+| 8    | [Dulargervi](#disguise)                 | Þú getur breytt útliti einnar persónu að vildi svo lengi sem þau eru mannverur. Ef hermt er eftir annarri persónu er erfitt að sjá mun. |
+| 9    | [Dýrsform](#beast-form)                 | Þú og eigur þínar skipta ham yfir í hefðbundið dýr. |
+| 10   | [Fjarflutningur](#teleport)             | Hlutur eða persóna sem þú sérð er fjarflutt frá einum stað til annars í 50 feta radíus. |
+| 11   | [Fjarhnupl](#filch)                     | Hlutur sem þú sérð fjarflyst í hendur þínar.                 |
+| 12   | [Fljótandi loft](#liquid-air)           | Það er hægt að synda í loftinu í kringum þig.             |
+| 12   | [Fjölarmur](#multiarm)                  | Þér vex tímabundið auka handleggur.                       |
+| 14   | [Flokka](#sort)                         | Líflausir hlutir flokka sig niður í flokka sem þú tilgreinir. |
+| 15   | [Flýtir](#haste)                        | Hraði þinn þrefaldast.                          |
+| 16   | [Framkalla anda](#raise-spirit)         | Andi líks nálægt þér vaknar upp og svarar 1 spurning.  |
+| 17   | [Framkalla teninga](#summon-cube)       | Einu sinni á sekúndu getur þú framkallað eða fjarlægt 3 feta breiðan tening af jörð. Nýir teningar verða að festast við jörðina eða aðra teninga. |
+| 18   | [Framkalla líkneski](#summon-idol)      | Útskorin steinstytta á stærð við múldýr rís upp úr jörðinni.|
+| 19   | [Fráhrinda](#repel)                     | Tveir hlutir hrindast frá hvor öðrum innan 10 feta. |
+| 20   | [Friða](#pacify)                        | Vera nálægt þér forðast ofbeldi.             |
+| 21   | [Froðukeila](#cone-of-foam)             | Þétt froða spreyjast frá höndum þínum og þekur skotmarkið.       |
+| 22   | [Frumaflsveggur](#elemental-wall)       | Beinn veggur úr ís eða eldi, 50 fet á lengt og 10 fet á hæð, rís upp úr jörðinni. |
+| 23   | [Frumbylgja](#primal-surge)             | Vera þróast snögglega í æðri útgáfu af tegund sinni.  |
+| 24   | [Fælni](#phobia)                        | Nálæg vera verður skelfingu lostin við hlut að þínu vali.|
+| 25   | [Galdradempari](#magic-dampener)        | Öll nálæg galdraáhrif minnka um helming.  |
+| 26   | [Galdramerki](#wizard-mark)             | Þú getur skotið galdralitaðri málningu út um figurgómana á þér. Aðeins þú getur séð þessa málningu og hún sést úr hvaða fjarlægð, gegnum hvað sem er. |
+| 27   | [Galdraskynjun](#detect-magic)          | Þú getur séð eða heyrt nálægar galdrarárur.                   |
+| 28   | [Galdrasög](#spellsaw)                  | Snúandi blað flýgur frá brjóstkassanum á þér, höggvandi niður allt plöntuefni í vegi sínum. Fyrir utan það er það skaðlaust. |
+| 29   | [Geimfangelsi](#astral-prison)          | Hlutur er frystur í tíma og rúmi fyrir innan óbrjótanlega kristalsskel. |
+| 30   | [Ger](#swarm)                           | Þú breytist í ger af krákum, rottum eða píranafiskum. Það er aðeins hægt að slasa þig með sprengiskaða. |
+| 31   | [Gera heyrarlausa](#deafen)             | Allar nálægar verur verða heyrnarlausar.                           |
+| 32   | [Glampi](#flare)                        | Bjartur hnöttur af orku brennir ljósaslóð í himininn og afhjúpar staðsetningu þína fyrir vin eða óvin. |
+| 33   | [Grímuball](#masquerade)                | Útlit og rödd persónu verða nákvæmlega eins og persónu sem þú snertir.|
+| 34   | [Gryfja](#pit)                          | Gryfja 10 fet á breidd og 10 fet á dýpt opnast í jörðinni.        |
 | 35   | [Græðgi](#greed)                        | Vera þróar með sér óstjórnlega löngun í að eignast sýnilegan hlut að þínu vali. |
-| 36   | [Flýtir](#haste)                        | Hraði þinn þrefaldast.                          |
+| 36   | [Græja](#widget)                        | Frumstæð útgáfa af teiknuðu verkfæri eða hlut birtist fyrir framan þig og hverfu eftir stutta stund. |
 | 37   | [Hatur](#hatred)                        | Vera þróar djúpt hatur gagnvart annarri veru eða hópi og vill tortíma þeim. |
-| 38   | [Hvíslheyrn](#hear-whispers)            | Þú heyrir lágvær hljóð skýrt.                           |
-| 39   | [Svif](#hover)                          | Hlutur svífur í lausu lofti 2 fet frá jörðu. Hann getur haldið uppi einni mannveru. |
-| 40   | [Dáleiðsla](#hypnotize)                 | Vera fellur í dá og svarar satt einni já og nei spurningu sem þú spyrð hana. |
-| 41   | [Íssnerting](#icy-touch)                | Þykkt lag af ís breiðist yfir yfirborð sem þú snertir, allt að 10 fet í radíus. |
-| 42   | [Auðkenna eiganda](#identify-owner)     | Stafir birtast fyrir ofan hlut sem þú snertir og stafa nafn eiganda hlutsins ef hann er til. |
-| 43   | [Lýsa upp](#illuminate)                 | Svífandi ljós sem hreyfist samkvæmt skipunum þínum.                   |
-| 44   | [Ósýnilegt tjóður](#invisible-tether)   | Tveir hlutir innan við 10 fet frá hvor öðrum geta ekki færast lengar en 10 fet frá hvor öðrum. |
-| 45   | [Bank](#knock)                          | Nálægur lás, venjulegur eða göldróttur, opnast með látum.           |
-| 46   | [Stökk](#leap)                          | Þú stekkur 10 fet upp í loftið, einu sinni.                            |
-| 47   | [Fljótandi loft](#liquid-air)           | Það er hægt að synda í loftinu í kringum þig.             |
-| 48   | [Galdradempari](#magic-dampener)        | Öll nálæg galdraáhrif minnka um helming.  |
-| 49   | [Óðal](#manse)                          | Sterklega byggt, fullinnréttað hús birtist í 12 tíma. Þú getur leyft eða hamlað inngöngu að vild. |
-| 50   | [Marmaraæði](#marble-craze)             | Vasar þínir fyllast af glerkúlum og endurfyllast á 30 sekúndna fresti.|
-| 51   | [Grímuball](#masquerade)                | Útlit og rödd persónu verða nákvæmlega eins og persónu sem þú snertir.|
-| 52   | [Smækkun](#miniaturize)                 | Vera sem þú snertir er smækkuð niður í stærð músar.  |
-| 53   | [Spegilmynd](#mirror-image)             | Tálmynd sjálfum þér birtist og lætur undir stjórn þinni.|
-| 54   | [Spegilganga](#mirrorwalk)              | Spegill verður hliðgátt inní annan spegil sem þú horfðir á í dag. |
-| 55   | [Fjölarmur](#multiarm)                  | Þér vex tímabundið auka handleggur.                       |
-| 56   | [Nátthnöttur](#night-sphere)            | 50 feta breiður hnöttur af myrkri sem sýnir næturhimininn birtist fyrir framan þig. |
-| 57   | [Hlutgera](#objectify)                  | Þú breytist í líflausan hlut sem er á stærð milli flygils og eplis. |
-| 58   | [Slímform](#ooze-form)                  | Þú verður lifandi hlaup.                                   |
-| 59   | [Friða](#pacify)                        | Vera nálægt þér forðast ofbeldi.             |
-| 60   | [Fælni](#phobia)                        | Nálæg vera verður skelfingu lostin við hlut að þínu vali.|
-| 61   | [Gryfja](#pit)                          | Gryfja 10 fet á breidd og 10 fet á dýpt opnast í jörðinni.        |
-| 62   | [Frumbylgja](#primal-surge)             | Vera þróast snögglega í æðri útgáfu af tegund sinni.  |
-| 63   | [Ýta/Draga](#push/pull)                 | Hlutur af einhverri stærð er dreginn beint í átt að þér eða er ýtt beint frá þér með styrk eins manns. |
-| 64   | [Upprisa](#raise-dead)                  | Beinagrind rís upp úr jörðinni til að þjóna þér. Þær eru gríðarlega heimskar og geta aðeins fylgt einföldum skipunum. |
-| 65   | [Framkalla anda](#raise-spirit)         | Andi líks nálægt þér vaknar upp og svarar 1 spurning.  |
-| 66   | [Hugarlestur](#read-mind)               | Þú getur heyrt grunnhugsanir nálægra vera.     |
-| 67   | [Fráhrinda](#repel)                     | Tveir hlutir hrindast frá hvor öðrum innan 10 feta. |
-| 68   | [Skyggnast](#scry)                      | Þú getur séð í gegnum augu á veru sem þú snertir fyrr um daginn.s |
-| 69   | [Móta frumefni](#sculpt-elements)       | Líflaust efni verður eins og leir í höndum þínum.          |
+| 38   | [Heillun](#charm)                       | Vera sem þú sérð lítur á þig sem vin.               |
+| 39   | [Hlið](#gate)                           | Hliðgátt til handahófskennds heimssviðs opnast.                  |
+| 40   | [Hljóðblekking](#auditory-illusion)     | Þú skapar blekkingarhljóð sem virðast koma úr átt að þínu vali. |
+| 41   | [Hlutgera](#objectify)                  | Þú breytist í líflausan hlut sem er á stærð milli flygils og eplis. |
+| 42   | [Hugarflutningur](#telekinesis)         | Þú getur hreyft einn hlut undir 60 pundum með hugarafli.               |
+| 43   | [Hugarlestur](#read-mind)               | Þú getur heyrt grunnhugsanir nálægra vera.     |
+| 44   | [Hugarsamskipti](#telepathy)            | Tvær verur geta heyrt hugsanir hvor annars, sama hversu langt í burtu þær eru. |
+| 45   | [Hvíslheyrn](#hear-whispers)            | Þú heyrir lágvær hljóð skýrt.                           |
+| 46   | [Hylja](#shroud)                        | Vera sem þú snertir verður ósýnileg þar til hún hreyfir sig.          |
+| 47   | [Íssnerting](#icy-touch)                | Þykkt lag af ís breiðist yfir yfirborð sem þú snertir, allt að 10 fet í radíus. |
+| 48   | [Jarðskjálfti](#earthquake)             | Jörðin tekur að hristast stjórnlaust. Byggingar geta skemmds eða hrunið.|
+| 49   | [Köngulóarklifur](#spider-climb)        | Þú getur klifrað yfirborð eins og könguló.                       |
+| 50   | [Líkamsskipti](#body-swap)              | Þú skiptir um líkama við veru sem þú snertir. Ef annar líkami deyr deyr hinn einnig. |
+| 51   | [Líming](#adhere)                       | Hlutur er þakinn mjög klístruðu slími.              |
+| 52   | [Lýsa upp](#illuminate)                 | Svífandi ljós sem hreyfist samkvæmt skipunum þínum.                   |
+| 53   | [Mannvæða](#anthropomorphize)           | Dýr öðlast annaðhvort mannlega vitsmuni eða mannlegt útlit í einn dag. |
+| 54   | [Markbeita](#target-lure)               | Hlutur sem þú snertir verður skotmark galdurs. |
+| 55   | [Marmaraæði](#marble-craze)             | Vasar þínir fyllast af glerkúlum og endurfyllast á 30 sekúndna fresti.|
+| 56   | [Móta frumefni](#sculpt-elements)       | Líflaust efni verður eins og leir í höndum þínum.          |
+| 57   | [Nátthnöttur](#night-sphere)            | 50 feta breiður hnöttur af myrkri sem sýnir næturhimininn birtist fyrir framan þig. |
+| 58   | [Óðal](#manse)                          | Sterklega byggt, fullinnréttað hús birtist í 12 tíma. Þú getur leyft eða hamlað inngöngu að vild. |
+| 59   | [Ósýnilegt tjóður](#invisible-tether)   | Tveir hlutir innan við 10 fet frá hvor öðrum geta ekki færast lengar en 10 fet frá hvor öðrum. |
+| 60   | [Reykform](#smoke-form)                 | Líkami þinn verður lifandi reykur sem þú hefur stjórn á.       |
+| 61   | [Ringla](#befuddle)                     | Vera að þínu vali er ófær um að mynda skammtímaminningar á meðan galdurinn endist. |
+| 62   | [Röntgensjón](#x-ray-vision)            | Þú getur sé í gegnum veggi, jörð, föt, o.s.frv.              | 
+| 63   | [Sannsjón](#true-sight)                 | Þú sér í gegnum allar nálægar tálsýnar.                      |
+| 64   | [Sárabót](#cure-wounds)                 | Persónna sem þú getur snert endurheimtir 1d4 STY á dag.      |
+| 65   | [Sjónhverfing](#visual-illusion)        | Þögul, óhreyfanleg sjónhverfing á stærð við herbergi birtist að þínu vali. |
+| 66   | [Skilningur](#comprehend)               | Þú verður reiprennandi í öllum tungumálum í stutta stund.       |
+| 67   | [Skipun](#command)                      | Skotmark fylgir einni þriggja orða skipum sem skaðar hana ekki |
+| 68   | [Skjöldur](#shield)                     | Vera sem þú snertir er farin gegn hefðbundnum árásum í eina mínútu. |
+| 69   | [Skyggnast](#scry)                      | Þú getur séð í gegnum augu á veru sem þú snertir fyrr um daginn.s |
 | 70   | [Skynja](#sense)                        | Veldu eina tegund af hlut (lykil, gull, ör, kanna, o.s.frv.). Þú getur skynjast nálægasta hlut af þeirri gerð. |
-| 71   | [Skjöldur](#shield)                     | Vera sem þú snertir er farin gegn hefðbundnum árásum í eina mínútu. |
-| 72   | [Hylja](#shroud)                        | Vera sem þú snertir verður ósýnileg þar til hún hreyfir sig.          |
-| 73   | [Víxla](#shuffle)                       | Tvær verur sem þú sérð skipta samstundis um stað.          |
-| 74   | [Svefn](#sleep)                         | Vera sem þú sérð sofnar lausum svefni.             |
-| 75   | [Svell](#slick)                         | Öll yfirborð í 30 feta radíus verða mjög hál.  |
-| 76   | [Reykform](#smoke-form)                 | Líkami þinn verður lifandi reykur sem þú hefur stjórn á.       |
-| 77   | [Þefa](#sniff)                          | Þú finnur alla lykt, jafnvel hina daufustu.           |
-| 78   | [Slökkva](#snuff)                       | Allar uppsprettur af hefðbundnu ljósi sem þú sérð slökkna. |
-| 79   | [Flokka](#sort)                         | Líflausir hlutir flokka sig niður í flokka sem þú tilgreinir. |
-| 80   | [Tálsýn](#spectacle)                    | Greinilega fölsk en áhrifamikil tálsýn að þínu vali birtist undir þinni stjórn. Hún getur verið á stærð við höll og getur hreyfst og gefið frá sér hljóð. |
-| 81   | [Galdrasög](#spellsaw)                  | Snúandi blað flýgur frá brjóstkassanum á þér, höggvandi niður allt plöntuefni í vegi sínum. Fyrir utan það er það skaðlaust. |
-| 82   | [Köngulóarklifur](#spider-climb)        | Þú getur klifrað yfirborð eins og könguló.                       |
-| 83   | [Framkalla teninga](#summon-cube)       | Einu sinni á sekúndu getur þú framkallað eða fjarlægt 3 feta breiðan tening af jörð. Nýir teningar verða að festast við jörðina eða aðra teninga. |
-| 84   | [Ger](#swarm)                           | Þú breytist í ger af krákum, rottum eða píranafiskum. Það er aðeins hægt að slasa þig með sprengiskaða. |
-| 85   | [Hugarflutningur](#telekinesis)         | Þú getur hreyft einn hlut undir 60 pundum með hugarafli.               |
-| 86   | [Hugarsamskipti](#telepathy)            | Tvær verur geta heyrt hugsanir hvor annars, sama hversu langt í burtu þær eru. |
-| 87   | [Fjarflutningur](#teleport)             | Hlutur eða persóna sem þú sérð er fjarflutt frá einum stað til annars í 50 feta radíus. |
-| 88   | [Markbeita](#target-lure)               | Hlutur sem þú snertir verður skotmark galdurs. |
-| 89   | [Þykkni](#thicket)                      | Trjá- og runnaþykkni allt að 50 fet á breidd sprettur snögglega úr jörðinni. |
-| 90   | [Framkalla líkneski](#summon-idol)      | Útskorin steinstytta á stærð við múldýr rís upp úr jörðinni.|
-| 91   | [Tímastjórnun](#time-control)           | Tíminn inn í 50 feta bólu hægist eða hraðast um 10% í 30 sekúndur. |
-| 92   | [Sannsjón](#true-sight)                 | Þú sér í gegnum allar nálægar tálsýnar.                      |
-| 93   | [Uppstreymi](#upwell)                   | Uppspretta með sjó birtist.                                |
-| 94   | [Sýn](#vision)                          | Þú hefur algjöra stjórn á hvað vera sér.               |
-| 95   | [Sjónhverfing](#visual-illusion)        | Þögul, óhreyfanleg sjónhverfing á stærð við herbergi birtist að þínu vali. |
-| 96   | [Vörn](#ward)                           | Silfurhringur 50 fet í þvermál birtist á jörðinni. Veldu eina tegund sem getur ekki farið yfir hringinn. |
-| 97   | [Vefur](#web)                           | Þykkur vefur skýst út úr úlnliðum þínum.                         |
-| 98   | [Græja](#widget)                        | Frumstæð útgáfa af teiknuðu verkfæri eða hlut birtist fyrir framan þig og hverfu eftir stutta stund. |
-| 99   | [Galdramerki](#wizard-mark)             | Þú getur skotið galdralitaðri málningu út um figurgómana á þér. Aðeins þú getur séð þessa málningu og hún sést úr hvaða fjarlægð, gegnum hvað sem er. |
-| 100  | [Röntgensjón](#x-ray-vision)            | Þú getur sé í gegnum veggi, jörð, föt, o.s.frv.              | 
+| 71   | [Slímform](#ooze-form)                  | Þú verður lifandi hlaup.                                   |
+| 72   | [Slökkva](#snuff)                       | Allar uppsprettur af hefðbundnu ljósi sem þú sérð slökkna. |
+| 73   | [Smækkun](#miniaturize)                 | Vera sem þú snertir er smækkuð niður í stærð músar.  |
+| 74   | [Snúa þyngdarafli](#gravity-shift)      | Þú getur snúið stefnu þyngarkraftsins fyrir sjálfan þig.|
+| 75   | [Spegilganga](#mirrorwalk)              | Spegill verður hliðgátt inní annan spegil sem þú horfðir á í dag. |
+| 76   | [Spegilmynd](#mirror-image)             | Tálmynd sjálfum þér birtist og lætur undir stjórn þinni.|
+| 77   | [Stjórna plöntum](#control-plants)      | Allar nálægar plöntur og tré hlíða þér og öðlast getuna að hreyfa sig hægt.|
+| 78   | [Stjórna veðri](#control-weather)       | Þú mátt breyta gerð verðurs að vild, en fyrir utan það stjórnar þú því ekki. |
+| 79   | [Stökk](#leap)                          | Þú stekkur 10 fet upp í loftið, einu sinni.                            |
+| 80   | [Sundurlimun](#disassemble)             | Það er hægt að taka frá og setja aftur saman alla líkamshluta þína án sársauka eða skaða. Þú getur enn þá stjórnað þeim.|
+| 81   | [Svefn](#sleep)                         | Vera sem þú sérð sofnar lausum svefni.             |
+| 82   | [Svell](#slick)                         | Öll yfirborð í 30 feta radíus verða mjög hál.  |
+| 83   | [Svif](#hover)                          | Hlutur svífur í lausu lofti 2 fet frá jörðu. Hann getur haldið uppi einni mannveru. |
+| 84   | [Sýn](#vision)                          | Þú hefur algjöra stjórn á hvað vera sér.               |
+| 85   | [Tálfærsla](#displace)                  | Hlutir virðist vera allt að 15 fet frá raunverulegum stað sínum.|
+| 86   | [Tálsýn](#spectacle)                    | Greinilega fölsk en áhrifamikil tálsýn að þínu vali birtist undir þinni stjórn. Hún getur verið á stærð við höll og getur hreyfst og gefið frá sér hljóð. |
+| 87   | [Teygjanleiki](#elasticity)             | Líkami þinn getur teygst allt að 10 fet.                     |
+| 88   | [Tímastjórnun](#time-control)           | Tíminn inn í 50 feta bólu hægist eða hraðast um 10% í 30 sekúndur. |
+| 89   | [Töfraauga](#arcane-eye)                | Þú getur séð í gegnum fljótandi töfraauga sem flýgur um eftir skipun þinni. |
+| 90   | [Upprisa](#raise-dead)                  | Beinagrind rís upp úr jörðinni til að þjóna þér. Þær eru gríðarlega heimskar og geta aðeins fylgt einföldum skipunum. |
+| 91   | [Uppstreymi](#upwell)                   | Uppspretta með sjó birtist.                                |
+| 92   | [Uppvakning hluts](#animate-object)     | Hlutir fylgir skipunum þínum eftir bestu getu.          |
+| 93   | [Vefur](#web)                           | Þykkur vefur skýst út úr úlnliðum þínum.                         |
+| 94   | [Víxla](#shuffle)                       | Tvær verur sem þú sérð skipta samstundis um stað.          |
+| 95   | [Vörn](#ward)                           | Silfurhringur 50 fet í þvermál birtist á jörðinni. Veldu eina tegund sem getur ekki farið yfir hringinn. |
+| 96   | [Ýta/Draga](#push/pull)                 | Hlutur af einhverri stærð er dreginn beint í átt að þér eða er ýtt beint frá þér með styrk eins manns. |
+| 97   | [Þefa](#sniff)                          | Þú finnur alla lykt, jafnvel hina daufustu.           |
+| 98   | [Þokuský](#fog-cloud)                   | Þétt þoka sprettur út frá þér. |
+| 99  | [Þykkni](#thicket)                      | Trjá- og runnaþykkni allt að 50 fet á breidd sprettur snögglega úr jörðinni. |
+| 100   | [Æði](#frenzy)                          | Það gengur ofbeldisæði yfir nálæga veru.            |
+
 
 [aftur í efnisyfirlit](#index)
 <p></p>
@@ -978,7 +989,7 @@ Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri a�
 **HÖGGÞOL**  
 **HP** merkir getu persónu til að forðast meiðsli. Það tapast í bardaga og er endurheimt með stuttri hvíld.
 
-**Birgðir**  
+**BIRGÐIR**  
 Persónur hafa 10 birgðahólf: fjögur á líkama sínum og sex í bakpoka (sem virkar eins og svefnpoki ef tæmdur). Flestir hlutir taka eitt hólf en smærri hlutum er hægt að pakka í pakka. **Þungir** hlutir taka tvö hólf og er erfitt og vandræðalegt að bera þá.
 
 Að fylla öll tíu hólf lækkar HP persónu niður í 0. Persónur geta ekki borið meira en birgðahólf þeirra leyfa, en kerrur og hestar geta veitt auka hólf.ots.
