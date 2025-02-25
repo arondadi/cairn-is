@@ -6,14 +6,14 @@ redirect_from: /cairn-srd/
 nav_order: 1
 ---
 
-# Cairn kerfisviðmuðunarskjal (v.1.0)
+# Cairn kerfisviðmiðunarskjal (v.1.0)
 {: .no_toc }
 
 <p></p>
 
 **Cairn** er birt undir leyfi [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-Kíkið á [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv).
+Kíkið á [repo](https://github.com/yochaigal/cairn) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv). Aðalsíða Cairn er að finna á [hér](https://https://cairnrpg.com/).
 
 **Cairn** er ævintýraspil með einum stjórnanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
 Leikmenn spila harðgert ævintýrafólk sem kanna dimman og dularfullann skóg fullan af undarlegur fólki, földum fjársjóðum og hræðilegum skrímslum.
