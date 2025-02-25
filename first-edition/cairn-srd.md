@@ -985,7 +985,7 @@ Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri a�
 - Kastið d20 til að fá útkomu jafna eða undir eiginleikastigi.
 - 1 tekst alltaf, 20 mistekst alltaf.
 
-**HÖGGÞOL**  
+**HÖGGÞOL** 
 **HP** merkir getu persónu til að forðast meiðsli. Það tapast í bardaga og er endurheimt með stuttri hvíld.
 
 **BIRGÐIR**  
