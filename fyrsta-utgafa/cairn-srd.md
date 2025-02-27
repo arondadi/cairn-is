@@ -15,8 +15,8 @@ nav_order: 1
 
 Kíkið á [repo](https://github.com/arondadi/cairn-is) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv). Aðalsíða Cairn er að finna [hér](https://cairnrpg.com/).
 
-**Cairn** er ævintýraspil með einum stjórnanda (**Vörðurinn**) og að minnsta kosti einum öðrum leikmanni.
-Leikmenn spila harðgert ævintýrafólk sem kanna dimman og dularfullann skóg fullan af undarlegur fólki, földum fjársjóðum og hræðilegum skrímslum.
+**Cairn** er ævintýraspil fyrir stjórnanda (**Vörðurinn**) og að minnsta kosti einn spilara til viðbótar.
+Persónurnar sem spilarar leika eru harðgerðar hetjur sem kanna dimman og dularfullan skóg, fullan af undarlegu fólki, földum fjársjóðum og hræðilegum skrímslum.
 
 <details close markdown="block">
   <summary id="index">
@@ -33,29 +33,28 @@ Leikmenn spila harðgert ævintýrafólk sem kanna dimman og dularfullann skóg 
 **Cairn** var skrifað með eftirfarandi hugtök í fyrirrúmi:
 
 ### Hlutleysi
-Hlutverk Varðarins er að miðla reglum, aðstæðum, aukapersónum og frásögn á skýran hátt á meðan hann sjálfur er hlutlaus dómari.
+Hlutverk Varðarins er að miðla reglum, lýsingu á aðstæðum, aukapersónum og frásögninni með skýrum hætti og vera sjálfur hlutlaus dómari.
 
 ### Hlutverkalaust
-Hæfileikar og færni persónu einskorðast ekki við einstaka hlutverk. Þess í stað er það búnaðurinn sem persónan ber og reynsla hennar sem skilgreinir sérhæfingu hennar.
+Hæfileikar og færni persónu einskorðast ekki við tiltekið hlutverk. Þess í stað er það búnaðurinn sem persónan ber og reynsla hennar sem skapar henni sértöðu.
 
 ### Dauði
-Persónur eru ef til vill máttugar en þær eru einnig berskjaldaðar fyrir skaða í margvíslegum myndum. Dauðinn er alltaf handan við hornið en þó aldrei tilviljunarkenndur eða án viðvörunar.
+Persónur geta verið máttugar en þær eru samt berskjaldaðar fyrir margs konar skaða. Dauðinn er alltaf skammt undan, en hann birtist aldrei án aðvörunar eða af tilviljun.
 
 ### Sagan   
-Teningar endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Hvort eitthvað tekst eða mistekst er þess í stað ákvarðað af Verðinum í samtali við spilara, byggt á þáttum innan heimsins.
+Teningarnir endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Það hvort eitthvað tekst eða mistekst er þess í stað ákvarðað af Verðinum í samtali við spilarana, byggt á áhrifaþáttum innan heimsins.
 
 ### Vöxtur
-Persónur taka framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
+Persónurnar taka framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
 
 ### Val leikmanna
-Leikmenn ættu alltaf að skilja ástæður ákvarðanna sinna og upplýsingar um mögulegar hættur ættu að vera veittar að vild og reglulega.
+Leikmenn ættu alltaf að skilja ástæður að baki ákvörðunum sem þeir taka og það að fá upplýsingar um mögulegar hættur er auðsótt og gerist reglulega.
 
-### Meginreglur
-Vörðurinn og leikmennirnir hafa leiðbeiningar sem stuðla að ákveðinni spilaupplifun þar sem gagnrýnin hugsun, könnun og mótun frásagnar í spili er höfð í forgrunni.
+### Grunnreglur
+Bæði Vörðurinn og leikmennirnir eiga sér leiðarljós sem ýta undir spilaupplifun þar sem gagnrýnin hugsun, uppgötvanir og sjálfsprottin frásögn eru í fyrirrúmi.
 
 ### Sameiginleg markmið
-Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
-
+Leikmenn treysta á hvern annan við að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
 
 [aftur í efnisyfirlit](#index)
 <p></p>
@@ -63,50 +62,50 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 ## Meginreglur fyrir Vörðinn
 
 ### Upplýsingar
-- Veittu gagnlegar upplýsingar um leikheiminn þegar persónurnar kanna hann.
-- Leikmenn þurfa ekki að kasta teningum til að læra um aðstæður sínar.
-- Vertu hjálpsamur og skýr í svörum þínum við spurningum leikmanna.
-- Svaraðu heiðarlega, hafðu lýsingar stöðugar og minntu leikmenn á að þeir geti alltaf spurt spurninga.    
+- Gefðu gagnlegar upplýsingar um leikheiminn þegar persónurnar kanna hann.
+- Leikmenn þurfa ekki að kasta teningum til að fræðast um aðstæður sínar.
+- Gefðu skýr og hjálpleg svör við spurningum leikmanna.
+- Svaraðu heiðarlega, hafðu samkvæmni í lýsingum og minntu leikmenn reglulega á að þeir geti alltaf spurt spurninga.    
 
-### Erfiðleiki
-- Byggðu frekar á samhengi og raunsæi heldur en tölum og kerfi leiksins. 
-- Ef eitthvað sem leikmenn vilja gera er raunverulega ómögulegt, gerir ekkert teningakast það mögulegt.
-- Er það sem leikmaður lýsir raunhæft í samræmi við aðstæður? Leyfðu því að gerast.
-- Varnarköst ná yfir margar óvissar aðstæður og eru oft allt sem þarf fyrir áhættusamar aðgerðir.  
+### Erfiðleikastig
+- Ef þú ert í vafa, treystu frekar á samhengi og raunsæi heldur en tölur og regluverk leiksins. 
+- Ef leikmenn vilja gera eitthvað eitthvað sem er raunverulega ómögulegt, er ekkert teningakast að fara að breyta því.
+- Er það sem leikmaður lýsir raunhæft miðað við aðstæður? Leyfðu því að gerast.
+- Varnarköst ná yfir margar óræðar aðstæður og eru oft það eina sam þarf fyrir áhættusamar aðgerðir.  
 
 ### Undirbúningur
-- Leikheimurinn er lifandi, mótanlegur og tilviljanakenndur. Hann skilur og tekur krappar beygjur. 
-- Notaðu tilviljunartöflur og sköpunarverkfæri til að þróa aðstæður en ekki sögur eða söguþráð.
+- Heimur leiksins er lifandi, sveigjanlegur og ófyrirsjáanlegur. Hann skynjar flæði sögunnar og getur tekið krappar beygjur. 
+- Notaðu slembitöflur og sköpunarverkfæri til að þróa aðstæður en ekki sögur eða fastmótaðan söguþráð.
 - Aukapersónur í sögunni muna hvað persónur leikmanna segja og gera og hvernig það hefur áhrif á heiminn.
-- Aukapersónur vilja ekki deyja. Láttu þeirra eigin hagsmuni og vilja til að lifa koma fram í persónuleika þeirra.
+- Aukapersónur vilja ekki deyja. Láttu þeirra eigin hvata og lífsvilja koma fram í persónuleika þeirra.
 
-### Áhersla á frásögn
-- Það sem skiptir máli er upplifunin i leiknum, ekki stærðfræði spilsins eða eiginleikar persónu. Láttu leikmennina fá lærimeistara og persónuleg verkefni til að auðvelda framfarir og sérhæfingu.
-- Taktu eftir þörfum og löngunum leikmanna og settu raunveruleg tækifæri í veg þeirra.
-- Rýtingur í hálsinn á þér mun drepa þig, sama hversu dýr brynjan þín er eða hversu vel þjálfaður þú ert.
+### Áhersla á frásögnina
+- Það sem skiptir máli er upplifunin sem sprettur af leiknum, en ekki útreikningar eða eiginleikar persóna. Láttu leikmennina fá lærimeistara og persónuleg verkefni til að hjálpa þeim að taka framförum og sérhæfa sig.
+- Fylgstu með löngunum og þörfum spilaranna og bjóddu þeim trúverðug tækifæri í leiðangri sínum.
+- Rýtingur í hálsinn mun drepa þig, sama hversu dýr brynjan þín er eða hversu vel þú hefur þjálfað þig.
 
 ### Hætta
 - Leikheimurinn skapar rauðverulega hættu á sársauka og dauða fyrir persónur leikmanna.
-- Gefðu leikmönnum greinilegar vísbendinar um hættu þegar hún er til staðar. Því meiri hætta, því augljósari merki.
-- Láttu gildrur vera augljósar og leyfðu leikmönnum að finna lausn á þeim.
+- Gefðu leikmönnum greinilegar vísbendingar um hættu þegar hún er til staðar. Meiri áhættu fylgja augljósari merki.
+- Láttu gildrur vera sýnilegar og gefðu leikmönnum tíma til að finna lausn á þeim.
 - Gefðu leikmönnum tækifæri á að leysa vandamál og eiga samskipti við heiminn.
 
 ### Fjársjóðir
-- Fjársjóður er sértækur fyrir umhverfið sem hann er fundinn í og segir sögu.
-- Fjársjóður er mjög verðmætur, oft fyrirferðamikill og sjaldan gagnlegur fyrir utan verðgildi og frægð hans.
-- Helgigripir eru ekki fjársjóðir þó þeir séu gagnlegir og áhugaverðir.
-- Notaðu fjársjóði sem beitu fyrir framandi staði sem eru gættir af ógnvekjandi óvinum.  
+- Fjársjóður er við hæfi í því umhverfi þar sem hann finnst og segir sína sögu.
+- Fjársjóður er mjög verðmætur, oft fyrirferðamikill og sjaldan nytsamlegur fyrir utan verðgildi og frægðarljóma.
+- Helgigripir eru ekki fjársjóðir, þótt þeir séu gagnlegir og áhugaverðir.
+- Notaðu fjársjóði sem beitu sem leiðir á framandi slóðir, gætt af ógnvekjandi óvinum.
 
 ### Val
-- Gefðu leikmönnum skýrt val til að knýja fram útkomur þegar leikurinn hægist. 
-- Notaðu tvískipt ,,svo... A eða B?" svör þegar fyrirætlanir leikmanna eru óljósar.
-- Vinnið saman að halda leiknum gangandi með þessum samtölum.
-- Gakktu úr skugga um að aðgerðir persóna hafi áhrif á leikheiminn. 
+- Gefðu leikmönnum skýra valkosti til að knýja fram útkomur þegar hægist á leiknum.
+- Biddu um skýr „hvort er það A eða B?“ svör þegar fyrirætlanir leikmanna eru óljósar.
+- Vinnið saman um að halda leiknum gangandi með þessum samtölum.
+- Sjáðu til þess að aðgerðir persóna hafi áhrif á leikheiminn. 
 
 ### Örlagateningur
-- Stundum muntu vilja eitthvað tilviljunarkennt (t.d. veðrið, einstaka þekkingu persóna, o.s.frv.)
-- Í slíkum tilvikum kastaðu 1d6. Kast upp á 4 eða hærra er leikmönnum í hag.
-- Kast upp á 3 eða lægra táknar oft óheppni fyrir persónur eða bandamenn þeirra.
+- Stundum muntu vilja eitthvað tilviljunarkennt (t.d. veðrið, afmarkaða þekkingu persóna, o.s.frv.)
+- Í þeim tilvikum kastar þú 1d6. Kast upp á 4 eða hærra er leikmönnum í hag.
+- Kast upp á 3 eða lægra táknar yfirleitt óheppni fyrir persónur eða bandamenn þeirra.
 
 [aftur í efnisyfirlit](#index)
 <p></p>
@@ -120,24 +119,24 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 
 ### Samvinna
 - Leitaðu samþykkis hjá hópnum áður en þú æðir áfram.
-- Verið sammála um markmið, takmörk, að sýna hvert öðru virðingu og að afreka meira sem hópur heldur en einstaklingar.
+- Verið sammála um markmið og takmörk, og um það að sýna hvert öðru virðingu og afreka meira sem hópur heldur en einstaklingar.
 
 ### Könnun
-- Að spyrja spurninga og hlusta á smáatriði er gagnlegra en nokkur eiginleiki, hlutur eða hæfileiki sem þú býrð yfir.
-- Takið lýsingum Varðarins án efasemdar en hikið ekki við að afla frekari upplýsinga.
-- Það er aldrei ein rétt leið fram á við. 
+- Að spyrja spurninga og hlusta eftir smáatriðum er gagnlegra en allir þeir eiginleikar, búnaður eða hæfileikar sem þú býrð yfir.
+- Takið lýsingum Varðarins án tortryggni en hikið ekki við að spyrja eftir meiri upplýsingum.
+- Það er aldrei bara ein rétt leið fram á við. 
 
 ### Samskipi
 - Komið fram við aukapersónur eins og raunverulegt fólk og treystið á forvitni ykkar til að afla upplýsinga og leysa vandamál.
-- Þið munuð finna að flest fólk er áhugavert og mun vilja ræða hlutina áður en tekið er til handalögmála.
+- Þið munuð uppgötva að flest fólk er áhugavert og vill ræða hlutina áður en gripið er til ofbeldis.
 
 ### Varúð
-- Bardagi er val og sjaldan það skynsamlegasta. Hugleiddu hvort ofbeldi sé besta leiðin til að ná markmiðum ykkar.
+- Bardagi er ákvörðun og sjaldan það skynsamlegasta. Hugleiddu hvort ofbeldi sé besta leiðin til að ná markmiðum ykkar.
 - Reynið að snúa aðstæðum ykkur í vil og hörfið þegar hlutirnir eru ekki hagstæðir.
 
-### Plön
-- Finnið leiðir til að forðast hindranir með því að kynna þér aðstæður, með útsjónarsemi og staðreyndaleit.
-- Gerið athuganir og spyrjið út í markmið.
+### Skipulagning
+- Finnið leiðir til að forðast hindranir með því að rannsaka aðstæður, sýna útsjónarsemi og leita staðreynda.
+- Leggist í rannsóknir og leitið upplýsinga varðandi markmið ykkar.
 
 ### Metnaður
 - Settu þér markmið og notaðu þín fátæklegu úrræði til að taka skref fram á við.
@@ -150,47 +149,47 @@ Leikmenn treysta á hvorn annan að taka þátt í sameiginlegum heimi, markmið
 ## Persónusköpun
 
 #### Nafn, bakgrunnur & einkenni
-Fyrst, veldu eða kastaðu upp á **nafn** og **bakgrunn** fyrir persónuna þína á viðeigandi [töflum](#name--background-d20). Bakgrunnur persónu gefur vísbendingu um mögulega þekkingu og færni hennar.  
+Fyrst velur þú eða kastar fyrir **nafn** og **bakgrunn** þinnar persónu í viðeigandi [töflum](#name--background-d20). Bakgrunnur persónu hefur áhrif á mögulega þekkingu hennar og færni.  
 
-Því næst kastaðu upp á önnur **einkenni** persónunnar (útlit, talsmáta, framkomu, trú, orðspor o.s.frv.) á [**persónueinkenna**](#character-traits-d10) töflunum. 
+Því næst kastar þú fyrir önnur **einkenni** persónunnar (útlit, talsmáta, framkomu, trú, orðspor o.s.frv.) í [**persónueinkenna**](#character-traits-d10) töflunum. 
 
-Að lokum kastaðu upp á **aldur** persónunnar (2d20+10).
+Að lokum kastar þú fyrir **aldur** persónunnar (2d20+10).
 
 #### Eiginleikastig
-Persónur leikamanna hafa einungis þrjá eiginleika:
-**Styrkur (STY)**, **Fimi (FIM)** og **Viljastyrkur (VIL)**. Þegar persóna er sköpuð kastar leikmaður 3d6 fyrir hvert eiginleikastig persónunnar í þeirri röð sem þeir eru skráðir. 
-Eftir það má skipta á tveimur eiginleikagildum að eigin vali. 
+Persónur leikmanna hafa einungis þrjá eiginleika:
+**Styrkur (STY)**, **Fimi (FIM)** og **Viljastyrkur (VIL)**. Þegar persóna er búin til kastar leikmaður 3d6 sem stig fyrir hvern eiginleika, í þeirri röð sem þeir eru skráðir. 
+Eftir það má víxla tveimur eiginleikastigum að eigin vali. 
 
 <details markdown="block">
   <summary>
-Stækkið fyrir dæmi
+Opnið til að sjá dæmi
  </summary>
- Ines kastar upp á **STY** persónunar og fær **2**, **4** og **6**, samanlagt **12**. Næstu tvö köst eru samanlagt **9** fyrir **FIM** og **13** fyrir **VIL**. Hún ákveður að skipta á **12** og **9** fyrir persónu með **9 STY**, **12 FIM** og **13 VIL**.
+ Una kastar fyrir **STY** persónunar og fær **2**, **4** og **6**, samanlagt **12**. Næstu tvö köst eru samanlagt **9** fyrir **FIM** og **13** fyrir **VIL**. Hún ákveður að skipta á **12** og **9** til að fá persónu með **9 STY**, **12 FIM** og **13 VIL**.
 </details>
 
 ### Höggþol
-Kastaðu 1d6 til að ákvarða það **höggþol (HP)** sem persónan byrjar með. HP endurspeglar eiginleika persónunnar til að forðast skaða í bardaga. HP tákna ekki líkamlega heilsu eða baráttuþrek persónunnar né tapar hún þeim í lengri tíma (sjá **Lækning**). Ef árás lækkar HP persónu niður í nákvæmlega 0 þá þarf leikmaðurinn að kasta á [**ör**](/cairn-srd#scars-1) töflunni. 
+Kastaðu 1d6 til að ákvarða hvaða **höggþol (HP)** persónan byrjar með. HP endurspeglar eiginleika persónunnar til að forðast skaða í bardaga. HP tákna ekki líkamlega heilsu eða baráttuþrek persónunnar og tapast ekki í lengri tíma (sjá **Lækning**). Ef árás lækkar HP persónu niður í nákvæmlega 0 þá þarf leikmaðurinn að kasta fyrir niðurstöðu úr [**ör**](/cairn-srd#scars-1) töflunni. 
 
 #### Birgðir
-Hver persóna hefur samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf fyrir efri hluta líkama
- (t.d. belti, búk eða höfuð). Bakpokinn virkar sem svefnpoki í neyð ef allt innihald er tæmt úr honum. 
+Hver persóna hefur samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf á efri hluta líkamans
+ (t.d. í belti, á búk eða á höfði). Í neyð má nota bakpokann sem svefnpoka með því að tæma allt innihald úr honum. 
 
-Flestir hlutir taka upp eitt hólf og litlum hlutum má oft pakka saman. Hólf eru óhlutstæð og má endurraða eftir mati Varðarins. 
+Flestir hlutir taka upp eitt hólf og litlum hlutum má pakka saman í hólf. Hólf eru óræð og þeim má endurraða með samþykki Varðarins. 
 
-**Þungir** hlutir taka tvö hólf og krefjast venjulega beggja handa eða eru erfiðir í burði. Persóna sem er með fullar birgðir (þ.e. með öll 10 hólf full) lækkar niður í 0 HP.
-Persóna getur ekki borið meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta aukið birgðirnar.  **Leiguliðar** geta einnig borið búnað gegn gjaldi.
+**Fyrirferðarmiklir** hlutir taka tvö hólf og krefjast venjulega beggja handa eða er erfitt að bera. Persóna sem er með fullar birgðir (með öll 10 hólf full) lækkar niður í 0 HP.
+Persóna getur ekki borið meira en birgðahólf hennar leyfa. Kerrur (sem þarf að draga með báðum höndum), hestar eða múldýr geta fjölgað birgðahólfum. **Leiguliðar** geta einnig borið búnað gegn greiðslu.
 
 
 #### Upphafsbúnaður
 Allar persónur byrja með:
 
 - Þriggja daga vistir (eitt hólf)
-- Kyndill (eitt hólf)
+- Kyndil (eitt hólf)
 - 3d6 gullpeninga
 
-Kastið einu sinni á hverri **upphafsbúnaðar** töflu til að ákvarða brynju, vopn, verkfæri og búnað persónu þinnar. Ef útkoma gefur til kynna að kasta á [**galdrabóka**](#spellbooks-d100) töflunni kastið d100 (eða 2d10 og notið annan teninginn fyrir tug og hinn fyrir einingar). 
+Kastið einu sinni fyrir hverja töflu um **upphafsbúnað** til að ákvarða brynju, vopn, verkfæri og búnað persónu þinnar. Þar sem það er tekið fram kastið þið fyrir [**galdrabóka**](#spellbooks-d100) töflunni með d100 (eða 2d10 þar sem annar teningurinn ræður tugatölu og hinn einingum). 
 
-Sjá **búnaðarlista** fyrir tölugildi brynvarnar, skaða og fjölda hólfa. Smærri hluti má oft pakka saman í eitt hólf. 
+Í **búnaðarlistanum** má sjá tölugildi fyrir brynvörn, skaða og fjölda hólfa. Smærri hlutum má oft pakka saman í eitt hólf. 
 
 Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [**valfrjálsa búnaðarpakka**](#optional-gear-packages).  
 
@@ -233,11 +232,11 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     |Alkemisti         |6   |Innbrotsþjófur  |11   |Málaliði   |16    |Smyglari |
-|2     |Flytjandi         |7   |Járnsmiður      |12   |Námumaður  |17    |Þjónn|
-|3     |Fjárhættuspilari  |8   |Jurtalæknir     |13   |Rekki      |18    |Útlagi  |
-|4     |Galdramaður       |9   |Kaupmaður       |14   |Slátrari   |19    |Vasaþjófur     |
-|5     |Grafari           |10  |Klerkur         |15   |Smiður     |20    |Veiðimaður     |
+|1     |Efnameistari      |6   |Járnsmiður      |11   |Námumaður      |16 |Smyglari   |
+|2     |Fjárhættuspilari  |7   |Jurtalæknir     |12   |Rekki          |17 |Þjónn      |
+|3     |Galdramaður       |8   |Kaupmaður       |13   |Skemmtikraftur |18 |Útlagi     |
+|4     |Grafari           |9   |Klerkur         |14   |Slátrari       |19 |Vasaþjófur |
+|5     |Innbrotsþjófur    |10  |Málaliði        |15   |Smiður         |20 |Veiðimaður |
 
 <p></p>
 
@@ -257,7 +256,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Fæðingarblettir  | 6    | Kringlótt   |
+| 1    | Fæðingarblettir  | 6    | Kringlótt  |
 | 2    | Dökk             | 7    | Mjúk       |
 | 3    | Slöpp            | 8    | Sólbrún    |
 | 4    | Bólugrafin       | 9    | Húðflúrðuð |
@@ -270,7 +269,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | 1    | Sköllótt       | 6    | Sítt      |
 | 2    | Fléttað        | 7    | Glæsilegt |
 | 3    | Krullað        | 8    | Feitt     |
-| 4    | Skítugt        | 9    | Liðað  |
+| 4    | Skítugt        | 9    | Liðað     |
 | 5    | Úfið           | 10   | Strítt    |
 
 #### Andlit
@@ -279,7 +278,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | ---- | --------- | ---- | -------- |
 | 1    | Beinabert   | 6    | Fullkomið  |
 | 2    | Brotið      | 7    | Rottulegt  |
-| 3    | Vel mótað   | 8    | Oddhvasst   |
+| 3    | Meitlað     | 8    | Oddhvasst  |
 | 4    | Langleitt   | 9    | Ferkantað  |
 | 5    | Fölt        | 10   | Holt       |
 
@@ -287,7 +286,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Hreinskilinn  | 6    | Grófur     |
+| 1      | Hreinskilinn  | 6    | Hrjúfur    |
 | 2      | Hávær         | 7    | Nákvæmur   |
 | 3      | Dularfullur   | 8    | Skrækur    |
 | 4      | Einhæfur      | 9    | Stamandi   |
@@ -297,37 +296,37 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Forn       | 6    | Tættur     |
-| 2        | Blóðugur   | 7    | Ósamstæður |
-| 3        | Glæsilegur | 8    | Einkennis  |
-| 4        | Óhreinn    | 9    | Fúllykandi |
-| 5        | Framandi   | 10   | Blettóttur |
+| 1        | Forn       | 6    | Tættur      |
+| 2        | Blóðugur   | 7    | Ósamstæður  |
+| 3        | Glæsilegur | 8    | Einkennis   |
+| 4        | Óhreinn    | 9    | Fúllyktandi |
+| 5        | Framandi   | 10   | Blettóttur  |
 
 #### Dyggð
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Metnaðarfull/ur  | 6    | Heiðarleg/ur     |
-| 2      | Varkár           | 7    | Hógvær           |
-| 3      | Hugrökk/rakkur   | 8    | Miskunnsöm/samur |
-| 4      | Öguð/Agaður      | 9    | Friðsæl/l       |
-| 5      | Félagslynd/ur    | 10   | Umburðarlynd/ur  |
+| 1      | Metnaður    | 6    | Heiðarleiki    |
+| 2      | Varkárni    | 7    | Hógværð        |
+| 3      | Hugrekki    | 8    | Miskunnsemi    |
+| 4      | Sjálfsagi   | 9    | Friðsælð       |
+| 5      | Félagslyndi | 10   | Umburðarlyndi  |
 
 #### Löstur
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | Árásargjörn/gjarn | 6    | Löt/Latur        |
-| 2    | Bitur             | 7    | Taugaóstyrk/ur   |
-| 3    | Huglaus           | 8    | Dónaleg/ur       |
-| 4    | Svikul/l          | 9    | Hégómleg/ur     |
-| 5    | Gráðug/ur         | 10   | Hefnigjörn/gjarn |
+| 1    | Árásargirni | 6    | Leti           |
+| 2    | Biturð      | 7    | Taugaóstyrkur  |
+| 3    | Hugleysi    | 8    | Dónaskapur     |
+| 4    | Svikulsemi  | 9    | Hégómleiki     |
+| 5    | Græðgi      | 10   | Hefnigirni     |
 
 #### Orðstír
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Metnaðarfull/ur   | 6    | Letingi       |
+| 1          | Metnaðarfull/ur   | 6    | Slæpingi      |
 | 2          | Dónaleg/ur        | 7    | Sérvitur      |
 | 3          | Hættuleg/ur       | 8    | Ógeðfelld/ur  |
 | 4          | Skemmtikraftur    | 9    | Virðuleg/ur   |
@@ -337,15 +336,15 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Yfirgefin/n  | 6    | Svikin/n            |
-| 2           | Fíkill       | 7    | Lækkuð/aður í tign  |
-| 3           | Fjárkúgun     | 8    | Vanvirt/ur          |
-| 4           | Dæmd/ur      | 9    | Afneituð/aður       |
-| 5           | Bölvuð/ur    | 10   | Útlæg/ur            |
+| 1           | Yfirgefin/n  | 6    | Svikin/n      |
+| 2           | Fíkn         | 7    | Lækkun í tign |
+| 3           | Fjárkúgun    | 8    | Vanvirt/ur    |
+| 4           | Dæmd/ur      | 9    | Afneitað      |
+| 5           | Bölvun       | 10   | Útlegð        |
 
 <p></p>
 
-## Byrjunarbúnaðar (d20)
+## Byrjunarbúnaður (d20)
 
 #### Brynjur
 
@@ -366,13 +365,13 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |                |                  |                          |                                |
 | :-------------------:   | :--------------:        | :------------------:    | :------------------------------: |
 |          1-5            |       6-14              |          15-19          |               20               |
-| Rýtingur, kylfa, stafur | Sverð, stríðskylfa, exi | Bogi, lásabogi, steinslöngva | Atgeir, stríðshamar, stríðsexi |
+| Rýtingur, kylfa, stafur | Sverð, stríðskylfa, exi | Bogi, lásbogi, steinslöngva | Atgeir, stríðshamar, stríðsexi |
 
 #### Ferðabúnaður
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Andafæla              | 6    | Fráhrinda      | 11   | Klifurkrókur | 16   | Reipi (25 fet) |
+| 1    | Andafæla              | 6    | Dýrafæla       | 11   | Klifurkrókur | 16   | Reipi (25 fet) |
 | 2    | Dýragildra            | 7    | Haki           | 12   | Móteitur     | 17   | Sjónauki       |
 | 3    | Eiturjurtir           | 8    | Handjárn       | 13   | Olía         | 18   | Stór sekkur    |
 | 4    | Eldfæri               | 9    | Keðja (10 fet) | 14   | Stöng (10 fet) | 19   | Sundblaðra     |
@@ -383,9 +382,9 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |      |            |      |                |      |            |      |         |
 | ---- | ---------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Fata          | 6     |    Kítti         | 11   | Naglar        | 16   | Smurfeiti  |
-| 2    | Físibelgur    | 7     |     Krít        | 12   | Net   | 17   | Sög |
-| 3    | Fótönglar     | 8     | Kúbein      | 13   | Pottar     | 18   | Sporjárn     |
+| 1    | Fata          | 6     | Kalk         | 11   | Naglar        | 16   | Smurfeiti  |
+| 2    | Físibelgur    | 7     | Krít        | 12   | Net   | 17   | Sög |
+| 3    | Fótþyrnar     | 8     | Kúbein      | 13   | Pottar     | 18   | Sporjárn     |
 | 4    | Hamar         | 9     | Lím         | 14   | Stundaglas        | 19   | Tangir |
 | 5    | Handbor       | 10    | Málmþjöl    | 15   | Skófla      | 20   | Veiðistöng   |
 
@@ -401,7 +400,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | 5    | Ilmvatn        | 10   | Sjónlinsa    | 15   | Tjörupottur     | 20   | Tvinni       |
 
 
-#### Aukahlutur (Kastið aftur á töflu útkomunnar)
+#### Aukahlutur (Kastið aftur í töflunni sem nefnd er)
 
 |                 |                    |                 |           |
 | :-------------: | :----------------: | :-------------: | :-------: |
@@ -458,7 +457,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Hringabrynja (2 Brynja, þungt)  |40   |
 |Plötubrynja (3 Brynja, þungt)    |60   |
 
-#### Weapons
+#### Vopn
 
 | |     |
 |-----------------------------------------------------------|-----|
@@ -467,7 +466,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |Atgeir, stríðshamar, langsverð, o.s.frv. (d10 skaði, þungt)  |20   |
 |Steinslöngva (d4 skaði)                                          |5    |
 |Bogi (d6 skaði, þungt)                                     |20   |
-|Lásabogi (d8 skaði, þungt)                                |30   |
+|Lásbogi (d8 skaði, þungt)                                |30   |
 
 #### Búnaður og verkfæri
 
@@ -481,13 +480,13 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | Eldunarpottar                              | 10   | Reykelsi                                    | 10   |
 | Fata                                       | 5    | Sápa                                        | 1    |
 | Físibelgur                                 | 10   | Sjónauki                                    | 40   |
-| Fótönglar                                  | 10   | Skófla                                      | 5    |
-| Gaddaskór                                  | 5   | Smurfeiti                                   | 10   |
+| Fótþyrnar                                  | 10   | Skófla                                      | 5    |
+| Gaddaskór                                  | 5    | Smurfeiti                                   | 10   |
 | Glerkúlur                                  | 5    | Spegill                                     | 5    |
 | Haki                                       | 10   | Sporjárn                                    | 5    |
 | Hamar                                      | 5    | Stigi (þungt, 10 fet)                       | 10   |
 | Handbor                                    | 10   | Stór svampur                                | 5    |
-| Handjárn                                   | 10   | Stundaglás                                  | 50   |
+| Handjárn                                   | 10   | Stundaglas                                  | 50   |
 | Hestur (+4 hólf)                           | 75   | Stöng (10 fet)                              | 5    |
 | Horn                                       | 10   | Sundblaðra                                  | 5    |
 | Járnhæll                                   | 1    | Svefnpoki                                   | 5    |
@@ -506,14 +505,14 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 <p></p>
 
-## Valfrjálsir búnaðurpakkar
+## Valfrjálsir búnaðarpakkar
 
 #### Álfur
 
 ||
 |-----------------------------------------|
 |Fágað sverð (d8)                         |
-|Rekúrv bogi (d8)                         |
+|Sveigðurogi (d8)                         |
 |Gullslegin klæði (1 brynja)              |
 |Galdrabók (_Heillun_ eða _Galdraskynjun_)|
 |Gyllt flauta                             |
