@@ -446,16 +446,16 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ## Búnaðarlisti  (verð í gullpeningum)
 
-#### Brynja
+#### Brynjur
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Skjöldur (+1 Brynja)           |10   |
-|Hjálmur (+1 Brynja)            |10   |
-|Stungin klæði (+1 Brynja)      |15   |
-|Brynstakkur (1 Brynja, þungt)   |20   |
-|Hringabrynja (2 Brynja, þungt)  |40   |
-|Plötubrynja (3 Brynja, þungt)    |60   |
+|Skjöldur (+1 brynja)           |10   |
+|Hjálmur (+1 brynja)            |10   |
+|Stungin klæði (+1 brynja)      |15   |
+|Brynstakkur (1 brynja, þungt)   |20   |
+|Hringabrynja (2 brynja, þungt)  |40   |
+|Plötubrynja (3 brynja, þungt)    |60   |
 
 #### Vopn
 
@@ -569,7 +569,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |------------------------------------------|
 |Langbogi (d8, þungt)                     |
 |Handöxi (d6)                             |
-|Stungin klæði (1 Brynja)                 |
+|Stungin klæði (1 brynja)                 |
 |Dýragildra                               |
 |Blóðhundur &#124; 2 HP, 12 FIM, bit (d6) |
 |Gjallarhorn                              |
@@ -602,7 +602,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 |                                           |
 |-------------------------------------------|
 |Sigð (d6)                                        |
-|Stungin klæði (+1 Brynja)                         |
+|Stungin klæði (+1 brynja)                         |
 |Vatnsleitarsproti                                |
 |Steinauga (_Skynja_ ef sett í fersk vatn) |
 |Gamalt kort                                      |
@@ -613,7 +613,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 ||
 |-----------------------------------------|
 |Tveir rýtingar (d6+d6)                   |
-|Leðurjakki með hettu (1 Brynja)          |
+|Leðurjakki með hettu (1 brynja)          |
 |Þjófalyklar                              |
 |Fótönglar                                |
 |Klifurkrókur                             |
