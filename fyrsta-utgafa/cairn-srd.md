@@ -15,8 +15,8 @@ nav_order: 1
 
 Kíkið á [repo](https://github.com/arondadi/cairn-is) eða hlaðið niður spilinu í öðru [sniði](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (þar á meðal Word, Affinity, Google Docs, o.s.frv). Aðalsíða Cairn er að finna [hér](https://cairnrpg.com/).
 
-**Cairn** er ævintýraspil fyrir stjórnanda (**Vörðurinn**) og að minnsta kosti einn spilara til viðbótar.
-Persónurnar sem spilarar leika eru harðgerðar hetjur sem kanna dimman og dularfullan skóg, fullan af undarlegu fólki, földum fjársjóðum og hræðilegum skrímslum.
+**Cairn** er ævintýraspil með einum stjórnanda (**Vörðurinn**) og að minnsta kosti einum leikmanni til viðbótar.
+Leikmenn spila harðgerðar hetjur sem kanna dimman og dularfullann skóg, fullann af undarlegu fólki, földum fjársjóðum og hræðilegum skrímslum.
 
 <details close markdown="block">
   <summary id="index">
@@ -36,10 +36,10 @@ Persónurnar sem spilarar leika eru harðgerðar hetjur sem kanna dimman og dula
 Hlutverk Varðarins er að miðla reglum, lýsingu á aðstæðum, aukapersónum og frásögninni með skýrum hætti og vera sjálfur hlutlaus dómari.
 
 ### Hlutverkalaust
-Hæfileikar og færni persónu einskorðast ekki við tiltekið hlutverk. Þess í stað er það búnaðurinn sem persónan ber og reynsla hennar sem skapar henni sértöðu.
+Hæfileikar og færni persónu einskorðast ekki við tiltekið hlutverk. Þess í stað er það búnaðurinn sem persónan ber og reynsla hennar sem skapar henni sérstöðu.
 
 ### Dauði
-Persónur geta verið máttugar en þær eru samt berskjaldaðar fyrir margs konar skaða. Dauðinn er alltaf skammt undan, en hann birtist aldrei án aðvörunar eða af tilviljun.
+Persónur geta verið máttugar en þær eru samt berskjaldaðar fyrir margs konar skaða. Dauðinn er alltaf skammt undan en þó aldrei án aðvörunar eða af tilviljun.
 
 ### Sagan   
 Teningarnir endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. Það hvort eitthvað tekst eða mistekst er þess í stað ákvarðað af Verðinum í samtali við spilarana, byggt á áhrifaþáttum innan heimsins.
@@ -48,10 +48,10 @@ Teningarnir endurspegla ekki alltaf erfiðleika hindrana eða útkomu þeirra. �
 Persónurnar taka framförum innan heimsins, öðlast nýja hæfileika og eiginleika með því að lifa af hættulegar aðstæður og sigrast á hindrunum.
 
 ### Val leikmanna
-Leikmenn ættu alltaf að skilja ástæður að baki ákvörðunum sem þeir taka og það að fá upplýsingar um mögulegar hættur er auðsótt og gerist reglulega.
+Leikmenn ættu alltaf að skilja ástæður að baki ákvarðanna sinna og upplýsingar um mögulegar hættur ættu að vera auðsóttar og reglulegar.
 
 ### Grunnreglur
-Bæði Vörðurinn og leikmennirnir eiga sér leiðarljós sem ýta undir spilaupplifun þar sem gagnrýnin hugsun, uppgötvanir og sjálfsprottin frásögn eru í fyrirrúmi.
+Bæði Vörðurinn og leikmennirnir hafa leiðbeiningar sem ýta undir spilaupplifun þar sem gagnrýnin hugsun, uppgötvanir og sjálfsprottin frásögn eru í fyrirrúmi.
 
 ### Sameiginleg markmið
 Leikmenn treysta á hvern annan við að taka þátt í sameiginlegum heimi, markmiðum persóna og áskorunum hópsins. Því starfar hópurinn yfirleitt saman sem lið að sameiginlegu markmiði.
@@ -80,8 +80,8 @@ Leikmenn treysta á hvern annan við að taka þátt í sameiginlegum heimi, mar
 - Aukapersónur vilja ekki deyja. Láttu þeirra eigin hvata og lífsvilja koma fram í persónuleika þeirra.
 
 ### Áhersla á frásögnina
-- Það sem skiptir máli er upplifunin sem sprettur af leiknum, en ekki útreikningar eða eiginleikar persóna. Láttu leikmennina fá lærimeistara og persónuleg verkefni til að hjálpa þeim að taka framförum og sérhæfa sig.
-- Fylgstu með löngunum og þörfum spilaranna og bjóddu þeim trúverðug tækifæri í leiðangri sínum.
+- Það sem skiptir máli er upplifunin sem sprettur af leiknum, en ekki útreikningar eða eiginleikar persóna. Láttu leikmennina fá lærimeistara og persónuleg verkefni til að hjálpa þeim að taka framförum og að sérhæfa sig.
+- Fylgstu með löngunum og þörfum leikmanna og bjóddu þeim trúverðug tækifæri í leiðangri.
 - Rýtingur í hálsinn mun drepa þig, sama hversu dýr brynjan þín er eða hversu vel þú hefur þjálfað þig.
 
 ### Hætta
@@ -123,7 +123,7 @@ Leikmenn treysta á hvern annan við að taka þátt í sameiginlegum heimi, mar
 
 ### Könnun
 - Að spyrja spurninga og hlusta eftir smáatriðum er gagnlegra en allir þeir eiginleikar, búnaður eða hæfileikar sem þú býrð yfir.
-- Takið lýsingum Varðarins án tortryggni en hikið ekki við að spyrja eftir meiri upplýsingum.
+- Takið lýsingum Varðarins án tortryggni en hikið ekki við að spyrja eftir meiri upplýsingum
 - Það er aldrei bara ein rétt leið fram á við. 
 
 ### Samskipi
@@ -134,7 +134,7 @@ Leikmenn treysta á hvern annan við að taka þátt í sameiginlegum heimi, mar
 - Bardagi er ákvörðun og sjaldan það skynsamlegasta. Hugleiddu hvort ofbeldi sé besta leiðin til að ná markmiðum ykkar.
 - Reynið að snúa aðstæðum ykkur í vil og hörfið þegar hlutirnir eru ekki hagstæðir.
 
-### Skipulagning
+### Plön
 - Finnið leiðir til að forðast hindranir með því að rannsaka aðstæður, sýna útsjónarsemi og leita staðreynda.
 - Leggist í rannsóknir og leitið upplýsinga varðandi markmið ykkar.
 
@@ -232,7 +232,7 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     |Efnameistari      |6   |Járnsmiður      |11   |Námumaður      |16 |Smyglari   |
+|1     |Alkemisti         |6   |Járnsmiður      |11   |Námumaður      |16 |Smyglari   |
 |2     |Fjárhættuspilari  |7   |Jurtalæknir     |12   |Rekki          |17 |Þjónn      |
 |3     |Galdramaður       |8   |Kaupmaður       |13   |Skemmtikraftur |18 |Útlagi     |
 |4     |Grafari           |9   |Klerkur         |14   |Slátrari       |19 |Vasaþjófur |
@@ -371,33 +371,33 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Andafæla              | 6    | Dýrafæla       | 11   | Klifurkrókur | 16   | Reipi (25 fet) |
-| 2    | Dýragildra            | 7    | Haki           | 12   | Móteitur     | 17   | Sjónauki       |
-| 3    | Eiturjurtir           | 8    | Handjárn       | 13   | Olía         | 18   | Stór sekkur    |
-| 4    | Eldfæri               | 9    | Keðja (10 fet) | 14   | Stöng (10 fet) | 19   | Sundblaðra     |
-| 5    | Kerra (+4 hólf, þungt) | 10   | Þjófalyklar    | 15   | Talía       | 20   | Vatnsleitarsproti |
+| 1    | Andafæla              | 6    | Kerra (+4 hólf, fyrirferðamikið)  | 11   | Klifurkrókur | 16   | Reipi (25 fet) |
+| 2    | Dýrafæla              | 7    | Haki                              | 12   | Móteitur     | 17   | Sjónauki       |
+| 3    | Dýragildra            | 8    | Handjárn                          | 13   | Olía         | 18   | Stór sekkur    |
+| 4    | Eiturjurtir           | 9    | Keðja (10 fet)                    | 14   | Stöng (10 fet) | 19   | Sundblaðra     |
+| 5    | Eldfæri               | 10   | Þjófalyklar                       | 15   | Talía       | 20   | Vatnsleitarsproti |
 
 
 #### Verkfæri
 
 |      |            |      |                |      |            |      |         |
-| ---- | ---------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Fata          | 6     | Kalk         | 11   | Naglar        | 16   | Smurfeiti  |
-| 2    | Físibelgur    | 7     | Krít        | 12   | Net   | 17   | Sög |
-| 3    | Fótþyrnar     | 8     | Kúbein      | 13   | Pottar     | 18   | Sporjárn     |
-| 4    | Hamar         | 9     | Lím         | 14   | Stundaglas        | 19   | Tangir |
-| 5    | Handbor       | 10    | Málmþjöl    | 15   | Skófla      | 20   | Veiðistöng   |
+| ---- | ----------    | ----  | ------------| ---- | ----------  | ---- | -------    |
+| 1    | Fata          | 6     | Kítti       | 11   | Naglar      | 16   | Smurfeiti  |
+| 2    | Físibelgur    | 7     | Krít        | 12   | Net         | 17   | Sög        |
+| 3    | Fótönglar     | 8     | Kúbein      | 13   | Pottar      | 18   | Sporjárn   |
+| 4    | Hamar         | 9     | Lím         | 14   | Stundaglas  | 19   | Tangir     |
+| 5    | Handbor       | 10    | Málmþjöl    | 15   | Skófla      | 20   | Veiðistöng |
 
 
 #### Smámunir
 
 |      |                 |      |              |      |                 |      |             |
-| ---- | -------------- | ---- | ------------ | ---- | -------------- | ---- | ---------- |
-| 1    | Andlitsmáling  | 6    | Glerkúlur    | 11   | Lítil bjalla    | 16   | Spegill     |
-| 2    | Blekbytta og penni  | 7    | Gerviskartgripir | 12   | Pakki af salti | 17   | Spilastokkur |
-| 3    | Flauta         | 8    | Hljóðfæri    | 13   | Reykelsi        | 18   | Svampur      |
-| 4    | Flaska         | 9    | Horn         | 14   | Sápa            | 19   | Teningasett  |
-| 5    | Ilmvatn        | 10   | Sjónlinsa    | 15   | Tjörupottur     | 20   | Tvinni       |
+| ---- | --------------      | ---- | ------------     | ---- | --------------  | ---- | ---------- |
+| 1    | Andlitsmáling       | 6    | Glerkúlur        | 11   | Lítil bjalla    | 16   | Spegill      |
+| 2    | Blekbytta og penni  | 7    | Gerviskartgripir | 12   | Pakki af salti  | 17   | Spilastokkur |
+| 3    | Flauta              | 8    | Hljóðfæri        | 13   | Reykelsi        | 18   | Svampur      |
+| 4    | Flaska              | 9    | Horn             | 14   | Sápa            | 19   | Teningasett  |
+| 5    | Ilmvatn             | 10   | Sjónlinsa        | 15   | Tjörupottur     | 20   | Tvinni       |
 
 
 #### Aukahlutur (Kastið aftur í töflunni sem nefnd er)
@@ -450,23 +450,23 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Skjöldur (+1 brynja)           |10   |
-|Hjálmur (+1 brynja)            |10   |
-|Stungin klæði (+1 brynja)      |15   |
-|Brynstakkur (1 brynja, þungt)   |20   |
-|Hringabrynja (2 brynja, þungt)  |40   |
-|Plötubrynja (3 brynja, þungt)    |60   |
+|Skjöldur (+1 brynja)                      |10   |
+|Hjálmur (+1 brynja)                       |10   |
+|Stungin klæði (+1 brynja)                 |15   |
+|Brynstakkur (1 brynja, fyrirferðamikið)   |20   |
+|Hringabrynja (2 brynja, fyrirferðamikið)  |40   |
+|Plötubrynja (3 brynja, fyrirferðamikið)   |60   |
 
 #### Vopn
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Rýtingur, kylfa, sigð, stafur, o.s.frv (d6 skaði)         |5    |
-|Spjót, sverð, stríðskylfa, exi, gaddakylfa, o.s.frv. (d8 skaði)           |10   |
-|Atgeir, stríðshamar, langsverð, o.s.frv. (d10 skaði, þungt)  |20   |
-|Steinslöngva (d4 skaði)                                          |5    |
-|Bogi (d6 skaði, þungt)                                     |20   |
-|Lásbogi (d8 skaði, þungt)                                |30   |
+|Rýtingur, kylfa, sigð, stafur, o.s.frv (d6 skaði)                          |5    |
+|Spjót, sverð, stríðskylfa, exi, gaddakylfa, o.s.frv. (d8 skaði)            |10   |
+|Atgeir, stríðshamar, langsverð, o.s.frv. (d10 skaði, fyrirferðamikið)      |20   |
+|Steinslöngva (d4 skaði)                                                    |5    |
+|Bogi (d6 skaði, fyrirferðamikið)                                           |20   |
+|Lásbogi (d8 skaði, fyrirferðamikið)                                        |30   |
 
 #### Búnaður og verkfæri
 
@@ -475,24 +475,24 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 | Andlitsmáling                              | 10   | Múldýr (+6 hólf, hægt)                      | 30   |
 | Blekbytta og penni                         | 10   | Net                                         | 10   |
 | Bók                                        | 50   | Olía                                        | 10   |
-| Dýragildra                                 | 20   | Stór sekkur                                        | 5    |
+| Dýragildra                                 | 20   | Stór sekkur                                 | 5    |
 | Eiturjurtir                                | 10   | Reipi (25 fet)                              | 5    |
 | Eldunarpottar                              | 10   | Reykelsi                                    | 10   |
 | Fata                                       | 5    | Sápa                                        | 1    |
 | Físibelgur                                 | 10   | Sjónauki                                    | 40   |
-| Fótþyrnar                                  | 10   | Skófla                                      | 5    |
+| Fótönglar                                  | 10   | Skófla                                      | 5    |
 | Gaddaskór                                  | 5    | Smurfeiti                                   | 10   |
 | Glerkúlur                                  | 5    | Spegill                                     | 5    |
 | Haki                                       | 10   | Sporjárn                                    | 5    |
-| Hamar                                      | 5    | Stigi (þungt, 10 fet)                       | 10   |
+| Hamar                                      | 5    | Stigi (fyrirferðamikið, 10 fet)             | 10   |
 | Handbor                                    | 10   | Stór svampur                                | 5    |
 | Handjárn                                   | 10   | Stundaglas                                  | 50   |
 | Hestur (+4 hólf)                           | 75   | Stöng (10 fet)                              | 5    |
 | Horn                                       | 10   | Sundblaðra                                  | 5    |
 | Járnhæll                                   | 1    | Svefnpoki                                   | 5    |
 | Keðja (10 fet)                             | 10   | Sög                                         | 5    |
-| Kerra (+4 hólf, þungt)                     | 30   | Talía                                       | 10   |
-| Klifurkrókur                               | 25   | Tjald (tveggja manna, þungt)                | 20   |
+| Kerra (+4 hólf, fyrirferðamikið)           | 30   | Talía                                       | 10   |
+| Klifurkrókur                               | 25   | Tjald (tveggja manna, fyrirferðamikið)      | 20   |
 | Krít                                       | 1    | Tjara                                       | 10   |
 | Kúbein                                     | 10   | Vagn (+8 hólf, hægt)                        | 200  |
 | Kyndill                                    | 1    | Vatnsheldur poki                            | 5    |
@@ -522,52 +522,52 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 ||
 |-----------------------------------------|
-|Þyrnótt rót (d6)                        |
-|Könglastakkur (1 brynja)               |
-|Handspaði                               |
-|Krukka af skógarmaurum                  |
-|Eitraðir sveppir                        |
-|Handbor                                 |
+|Þyrnótt rót (d6)                         |
+|Könglastakkur (1 brynja)                 |
+|Handspaði                                |
+|Krukka af skógarmaurum                   |
+|Eitraðir sveppir                         |
+|Handbor                                  |
 
 #### Galdramaður
 
 ||
 |-----------------------------------------|
-|Uppurinn galdrastafur (d8, þungt)           |
-|Rýtingur (d6)                            |
-|Galdrabók (kastað upp á galdur)          |
-|Galdrabók (kastað upp á galdur)          |
-|Tötraleg föt (faldir vasar)              |
-|Lénsveppur (x2, sjá **Minjar**)          |
+|Uppurinn galdrastafur (d8, fyrirferðamikið) |
+|Rýtingur (d6)                               |
+|Galdrabók (kastað upp á galdur)             |
+|Galdrabók (kastað upp á galdur)             |
+|Tötraleg föt (faldir vasar)                 |
+|Lénsveppur (x2, sjá **Minjar**)             |
 
 #### Klerkur
 
 |                                   |
 | --------------------------------- |
-| Stríðshamar (d10, þungt)            |
-| Hringabrynja (2 brynja, þungt)      |
-| Brynhanskar (+1 brynja)             |
-| Hreinsandi rýtingur (d6)            |
-| Helgitákn (_Vörn_ einu sinni á dag) |
-| Skykkja reglunnar          |
+| Stríðshamar (d10, fyrirferðamikið)       |
+| Hringabrynja (2 brynja, fyrirferðamikið) |
+| Brynhanskar (+1 brynja)                  |
+| Hreinsandi rýtingur (d6)                 |
+| Helgitákn (_Vörn_ einu sinni á dag)      |
+| Skykkja reglunnar                        |
 
 #### Munkur
 
 ||
 |-------------------------------|
-|Veldissproti (d6)                   |
-|Villandi kufl (+1 brynja)   |
-|Reykelsisker & vígt vatn      |
-|Kanna af hunangsvíni         |
-|Bók með þjóðlagasöngvum       |
-|Kerra (+4 hólf, þungt)        |
+|Veldissproti (d6)                |
+|Villandi kufl (+1 brynja)        |
+|Reykelsisker & vígt vatn         |
+|Kanna af hunangsvíni             |
+|Bók með þjóðlagasöngvum          |
+|Kerra (+4 hólf, fyrirferðamikið) |
 
 
 #### Rekki
 
 ||
 |------------------------------------------|
-|Langbogi (d8, þungt)                     |
+|Langbogi (d8, fyrirferðamikið)           |
 |Handöxi (d6)                             |
 |Stungin klæði (1 brynja)                 |
 |Dýragildra                               |
@@ -579,18 +579,18 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |                            |
 | -------------------------- |
-| Langsverð (d10, þungt)              |
-| Hringabrynja (2 brynja, þungt)      |
-| Hjálmur (+1 brynja)                 |
-| Skikkja með skjaldarmerki        |
-| Handjárn                            |
-| Fín klæði                           |
+| Langsverð (d10, fyrirferðamikið)          |
+| Hringabrynja (2 brynja, fyrirferðamikið)  |
+| Hjálmur (+1 brynja)                       |
+| Skikkja með skjaldarmerki                 |
+| Handjárn                                  |
+| Fín klæði                                 |
 
 #### Stríðsmaður
 
 ||
 |---------------------------------------|
-|Atgeir (d10, þungt)                    |
+|Atgeir (d10, fyrirferðamikið)          |
 |Bjúgsverð (d8)                         |
 |Stuttsverð (d6)                        |
 |Stuttsverð (d6)                        |
@@ -601,12 +601,12 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |                                           |
 |-------------------------------------------|
-|Sigð (d6)                                        |
-|Stungin klæði (+1 brynja)                         |
-|Vatnsleitarsproti                                |
-|Steinauga (_Skynja_ ef sett í fersk vatn) |
-|Gamalt kort                                      |
-|Sjónauki                                         |
+|Sigð (d6)                                  |
+|Stungin klæði (+1 brynja)                  |
+|Vatnsleitarsproti                          |
+|Steinauga (_Skynja_ ef sett í fersk vatn)  |
+|Gamalt kort                                |
+|Sjónauki                                   |
 
 #### Þjófur
 
