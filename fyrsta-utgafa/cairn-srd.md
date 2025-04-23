@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-parent: Fyrsta Útgáfa
+parent: Fyrsta útgáfa
 redirect_from: /cairn-srd/
 nav_order: 1
 ---
@@ -171,8 +171,7 @@ Opnið til að sjá dæmi
 Kastaðu 1d6 til að ákvarða hvaða **höggþol (HP)** persónan byrjar með. HP endurspeglar eiginleika persónunnar til að forðast skaða í bardaga. HP tákna ekki líkamlega heilsu eða baráttuþrek persónunnar og tapast ekki í lengri tíma (sjá **Lækning**). Ef árás lækkar HP persónu niður í nákvæmlega 0 þá þarf leikmaðurinn að kasta fyrir niðurstöðu úr [**ör**](/cairn-srd#scars-1) töflunni. 
 
 #### Birgðir
-Hver persóna hefur samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf á efri hluta líkamans
- (t.d. í belti, á búk eða á höfði). Í neyð má nota bakpokann sem svefnpoka með því að tæma allt innihald úr honum. 
+Hver persóna hefur samtals 10 birgðahólf: bakpoka með sex hólfum, eitt hólf fyrir hvora hönd og tvö hólf á efri hluta líkamans (t.d. í belti, á búk eða á höfði). Í neyð má nota bakpokann sem svefnpoka með því að tæma allt innihald úr honum. 
 
 Flestir hlutir taka upp eitt hólf og litlum hlutum má pakka saman í hólf. Hólf eru óræð og þeim má endurraða með samþykki Varðarins. 
 
@@ -371,11 +370,11 @@ Ef þú vilt notast við hefðbundnari persónuhlutverk, skoðaðu lista yfir [*
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Andafæla              | 6    | Kerra (+4 hólf, fyrirferðamikið)  | 11   | Klifurkrókur | 16   | Reipi (25 fet) |
-| 2    | Dýrafæla              | 7    | Haki                              | 12   | Móteitur     | 17   | Sjónauki       |
-| 3    | Dýragildra            | 8    | Handjárn                          | 13   | Olía         | 18   | Stór sekkur    |
+| 1    | Andafæla              | 6    | Kerra (+4 hólf, fyrirferðamikið)  | 11   | Klifurkrókur   | 16   | Reipi (25 fet) |
+| 2    | Dýrafæla              | 7    | Haki                              | 12   | Móteitur       | 17   | Sjónauki       |
+| 3    | Dýragildra            | 8    | Handjárn                          | 13   | Olía           | 18   | Stór sekkur    |
 | 4    | Eiturjurtir           | 9    | Keðja (10 fet)                    | 14   | Stöng (10 fet) | 19   | Sundblaðra     |
-| 5    | Eldfæri               | 10   | Þjófalyklar                       | 15   | Talía       | 20   | Vatnsleitarsproti |
+| 5    | Eldfæri               | 10   | Þjófalyklar                       | 15   | Talía          | 20   | Vatnsleitarsproti |
 
 
 #### Verkfæri
@@ -642,7 +641,7 @@ Varnarkast er teningakast til að forðast slæma útkomu á áhættusömum ákv
   <summary>
 Stækkið fyrir dæmi
  </summary>
- _Bea hittir á hóp af þungavopnuðum drýslum standandi vörð um hellismunna. Leikmaður hennar skipuleggur varðlega leiðina, vitandi það að hún er með 13 í Fimi og að að læðast sé hennar besti valmöguleiki. Hún kastar d20 og útkoman er 10 - kastið heppnast!_
+ _Una hittir á hóp af þungavopnuðum drýslum standandi vörð um hellismunna. Leikmaður hennar skipuleggur varðlega leiðina, vitandi það að hún er með 13 í Fimi og að að læðast sé hennar besti valmöguleiki. Hún kastar d20 og útkoman er 10 - kastið heppnast!_
 </details>
 
 ### Lækning
@@ -697,7 +696,7 @@ Hver sem er getur brugðið á galdur með því að halda á galdrabók í bá�
 
 **Hunangslás**, 3 hleðslur. Ryðgaður hringur sem minnkar það sem ber hann í 6 tommur. Endurhleðsla: setja í fingurbjargarstórt ílát af konungshunangi. 
 
-**Vinur fálkatemjarans**, 1 hleðsla. Stafur í laginu eins og skotbolti sem geymir _Flýtir_ galdurinn. Endurhleðsla: skjóta úr lásaboga og endurheimta. 
+**Vinur fálkatemjarans**, 1 hleðsla. Stafur í laginu eins og skotbolti sem geymir _Flýtir_ galdurinn. Endurhleðsla: skjóta úr lásboga og endurheimta. 
 
 **Þagnarstafur**, 1 hleðsla. Svartur sproti sem tímabundið slekkur á öllum göldrum innan 50 feta radíusar. Endurhleðsla: Baða í fullu tunglskini. 
 
@@ -720,7 +719,7 @@ Vörðurinn gefur til kynna líklegar aðgerðir aukapersóna eða skrímsla. Í
   <summary>
 Stækkið fyrir dæmi:
  </summary>
- _Bea hefur óvart ráfað inn á umráðasvæði risastórs skógartrölls. Til að geta gert á undan tröllinu þarf hún að gera FIM varnarkast. Henni mistekst og tröllið fær að ráðast á fyrst._
+ _Una hefur óvart ráfað inn á umráðasvæði risastórs skógartrölls. Til að geta gert á undan tröllinu þarf hún að gera FIM varnarkast. Henni mistekst og tröllið fær að ráðast á fyrst._
 </details>
 
 ### Árásir & skaði
@@ -730,7 +729,7 @@ Sá sem framkvæmir árás kastar vopnateningnum sínum og dregur frá Brynju sk
   <summary>
 Stækkið fyrir dæmi:
  </summary>
- _Skógartröllið öskrar og sveiflar kylfunni sinni að Bea, sem er með 5 HP. Kylfan gerir 1d10 skaða og Vörðurinn kastar upp á 4. Hann dregur 1 frá þar sem Bea er í leðurbrynju þannig hún hefur 2 HP eftir._
+ _Skógartröllið öskrar og sveiflar kylfunni sinni að Unu, sem er með 5 HP. Kylfan gerir 1d10 skaða og Vörðurinn kastar upp á 4. Hann dregur 1 frá þar sem Una er í leðurbrynju þannig hún hefur 2 HP eftir._
 </details>
 
 ### Margir árásarmenn
@@ -898,7 +897,7 @@ Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri a�
 | 28   | [Galdrasög](#spellsaw)                  | Snúandi blað flýgur frá brjóstkassanum á þér, höggvandi niður allt plöntuefni í vegi sínum. Fyrir utan það er það skaðlaust. |
 | 29   | [Geimfangelsi](#astral-prison)          | Hlutur er frystur í tíma og rúmi fyrir innan óbrjótanlega kristalsskel. |
 | 30   | [Ger](#swarm)                           | Þú breytist í ger af krákum, rottum eða píranafiskum. Það er aðeins hægt að slasa þig með sprengiskaða. |
-| 31   | [Gera heyrarlausar](#deafen)             | Allar nálægar verur verða heyrnarlausar.                           |
+| 31   | [Gera heyrarlausa](#deafen)             | Allar nálægar verur verða heyrnarlausar.                           |
 | 32   | [Glampi](#flare)                        | Bjartur hnöttur af orku brennir ljósaslóð í himininn og afhjúpar staðsetningu þína fyrir vin eða óvin. |
 | 33   | [Grímuball](#masquerade)                | Útlit og rödd persónu verða nákvæmlega eins og persónu sem þú snertir.|
 | 34   | [Gryfja](#pit)                          | Gryfja 10 fet á breidd og 10 fet á dýpt opnast í jörðinni.        |
@@ -966,8 +965,8 @@ Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri a�
 | 96   | [Ýta/Draga](#push/pull)                 | Hlutur af einhverri stærð er dreginn beint í átt að þér eða er ýtt beint frá þér með styrk eins manns. |
 | 97   | [Þefa](#sniff)                          | Þú finnur alla lykt, jafnvel hina daufustu.           |
 | 98   | [Þokuský](#fog-cloud)                   | Þétt þoka sprettur út frá þér. |
-| 99  | [Þykkni](#thicket)                      | Trjá- og runnaþykkni allt að 50 fet á breidd sprettur snögglega úr jörðinni. |
-| 100   | [Æði](#frenzy)                          | Það gengur ofbeldisæði yfir nálæga veru.            |
+| 99   | [Þykkni](#thicket)                      | Trjá- og runnaþykkni allt að 50 fet á breidd sprettur snögglega úr jörðinni. |
+| 100  | [Æði](#frenzy)                          | Það gengur ofbeldisæði yfir nálæga veru.            |
 
 
 [aftur í efnisyfirlit](#index)
@@ -988,7 +987,7 @@ Skaðateningur er nokkurn veginn það sama, þó að vopnaðar árásir geri a�
 **HP** merkir getu persónu til að forðast meiðsli. Það tapast í bardaga og er endurheimt með stuttri hvíld.
 
 **BIRGÐIR**  
-Persónur hafa 10 birgðahólf: fjögur á líkama sínum og sex í bakpoka (sem virkar eins og svefnpoki ef tæmdur). Flestir hlutir taka eitt hólf en smærri hlutum er hægt að pakka í pakka. **Þungir** hlutir taka tvö hólf og eru óþæginlegir eða erfiðir að bera.
+Persónur hafa 10 birgðahólf: fjögur á líkama sínum og sex í bakpoka (sem virkar eins og svefnpoki ef tæmdur). Flestir hlutir taka eitt hólf en smærri hlutum er hægt að pakka í pakka. **Fyrirferða** hlutir taka tvö hólf og eru óþæginlegir eða erfiðir að bera.
 
 Að fylla öll tíu hólf lækkar HP persónu niður í 0. Persónur geta ekki borið meira en birgðahólf þeirra leyfa, en kerrur og hestar geta veitt auka hólf.
 

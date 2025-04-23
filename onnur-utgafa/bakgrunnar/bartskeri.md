@@ -2,12 +2,12 @@
 title: Bartskeri
 layout: default
 parent: Bakgrunnar
-grand_parent: Önnur Útgáfa
+grand_parent: Önnur útgáfa
 ---
 
 # Bartskeri
 
-> Þú gengur línuna milli heilara og kvalara, þekkir hvað holdið er brothætt en einnig hvaða leyndarmál búa innra með því. Með réttu verkfærunum eru líf og dauði aðeins orð.rds.
+> Hvort sem það er skera hár eða hold, þú gengur línuna milli heilara og kvalara, þekkir hvað holdið er brothætt en einnig hvaða leyndarmál búa innra með því. Með réttu verkfærunum eru líf og dauði aðeins orð.
 
 ## Nöfn
 
@@ -23,24 +23,25 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 - Blóðsuga (endurheimtir 1 STY, 3 skammtar)
 - Blóði drifin læknaklæði (_léleg_)
 
-## How have you "improved" yourself? Roll 1d6:
+## Hvernig hefur þú ,,bætt" þig? Kastaðu 1d6:
 
 |       |                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                                |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some Tough terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy.    |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                            |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis). |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                              |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                                 |
+| **1** | Þú ert með **gerviauga** sem getur stækkað hluti, nýtist sem sjónauki og sem veitir lágmarks nætursjón. Þú getur ekki verið með neitt úr málmi á höfðinu og stergir seglar láta þig líða _skort_.                                                |
+| **2** | Einn **fótur** er að mestu úr málmi (spark d6), og sumt erfitt yfirborð er **auðvelt** yfirferðar. Þú ert með **olíukönnu** (6 skammtar). Án daglegrar smurningar líður þú _skort_ og það verða læti í fætinum. 
+| **3** | Það hefur verið skipt um einn fingur, beinið skipt út fyrir gull og járn. Taktu **krók** og **skrúfjárn** sem er hægt að festa á fingurgóminn.                                                                                                            |
+| **4** | Bæði **eyrun** hafa verið bætt með skurðaðgerð og heyrnin þrefaldast. Þú getur einbeitt þér að ákveðnum hljóðum, t.d. samtali úr mikilli fjarlægð. Þú klæðist heyrnahlífum til að verja gegn skyndilegum, háværum hljóðum (VIL varnarkast til að forðast tímabundna lömun). |
+| **5** | Bringan á þér er þakin galdrastöfum sem _herða húðina_ (1 brynja). Að klæðast annari brynvörn úr málmi ógildir þessi áhrif.                                                                                                                              |
+| **6** | Einn handleggur er úr málmi og hægt að taka af við öxlina. Það er hægt að nota hann sem vopn (d8,_fyrirferðamikið_ þegar ekki áfastur) og hann getur hreyft sig sjálfur ef þú er í augnsýn við hann.                                                                       |
+                        
 
-## What rare tool is essential to your work? Roll 1d6:
+## Hvaða sjaldgæfa verkfæri en nauðsynlegt í starfi þínu? Kastaður 1d6:
 
 |       |                    |                                                                                                                                                                   |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                                    |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                               |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+| **1** | **Endurnýjunarsmyrsl** | Lætur líkamshluta vaxa aftur á einum degi. 1 notkun.                                                                                                                   |
+| **2** | **Græðilirfa**         | Lítill ormur sem getur tengt dauða hluti við líkamann. 1 skammtur.                                                                                      |
+| **3** | **Sáravax**            | Læknar sár af völdum elds eða efna (endurheimtir fullan STR) en gerir ekkert annað. 2 skammtar.                                                                               |
+| **4** | **Kvikasilfur**        | Örvandi efni. Gerir fyrstur í bardaga og nær sjálfkrafa öllum VIL varnarköstum í eina klukkustund. _Ávanabindandi_: Kastaðu STY eða líður _skort_ eftir 24 tíma án þess. 4 skammtar. |
+| **5** | **Lífspumpa**          | Færanleg járnlungu (_fyrirferðamikil_). Gerir mögulegt að framkvæma lífsbjargandi skurðaðgerðir eða anda neðansjávar.                                                                              |
+| **6** | **Segulsteinn**        | Dregur hættuleg efni úr líkamanum og býr yfir öflugum segulkraft.                                                                              |
