@@ -361,7 +361,6 @@ grand_parent: Önnur útgáfa
 - Bera allt að sex af eftirfarandi galdrabókum: _uppvakning hluts_, _töfraauga_, _gera heyrarlausa_, _sundurlimun_, _frumaflsveggur_, _æði_, _hlið_, _svif_, _hatur_, _auðkenna eiganda_, _bank_, _friða_, _upprisa_, _framkalla anda_, _skjöldur_, _svefn_, _reykform_, _hugarflutningur_, _hugarsamskipti_, _fjarflutningur_, _sýn_, _galdramerki_.
 
 
-# skoða eftir þetta!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Sporðljón
 
@@ -537,138 +536,170 @@ grand_parent: Önnur útgáfa
 - Klæðast því sem var á þeim við dauða þeirra.
 - Ef beinagrind er drepin og bein hennar eru ekki dreifð, endurmyndast hún.
 
-Himnarisi
+## Himnarisi
 
-12 HP, 1 Brynja, 16 STY, 12 FIM, 14 VIL, kylfa (d10), losun
+**12 HP, 1 brynja, 16 STY, 12 FIM, 14 VIL, kylfa (d10), _hersveit_**
 
-    Háreistir, hvítir risar sem lifa í kastölum hátt uppi í fjöllum.
-    Skotárásir gegn þeim eru veiklaðar vegna sterks vinds í kringum þá.
+- Háreistir risar með hvíta húð sem lifa í kastölum hátt uppi í fjöllum.
+- Skotárásir gegn þeim eru **skertar** vegna kröfugra vinda í kringum þá.
 
-Sfinx
+## Sfinx
 
-18 HP, 12 STY, 13 FIM, 18 VIL, klær (d8+d8, sprengja), goggur (d10)
+**18 HP, 12 STY, 13 FIM, 18 VIL, klær (d8+d8, sprengjuskaði), goggur (d10)**
 
-    Goðsagnaverur með efri líkama og höfuð manneskju, vængi arnar og líkama ljóns. Ónæmir fyrir öllum töfrum.
-    Leggja fram gátur fyrir þá sem mæta þeim. Ef svarað er rangt, er refsingin oft dauði. Þeir vita nánast allt sem vert er að vita.
-    Öskur: Allir sem heyra verða að standast VIL-próf eða flýja í skelfingu.
+- Goðsagnaverur með efri líkama og höfuð manneskju, vængi arnar og líkama ljóns. Ónæmir fyrir öllum töfrum.
+- Leggja fram gátur fyrir þá sem mæta þeim. Ef svarað er rangt, er refsingin oft dauði. Þeir vita nánast allt sem vert er að vita.
+- **Öskur**: Allir sem heyra verða að standast VIL varnarkast eða flýja í skelfingu.
 
-Stormrisi
+## Stormrisi
 
-18 HP, 2 Brynja, 18 STY, 16 FIM, 18 VIL, stórsverð (d12), losun
+**18 HP, 2 brynja, 18 STY, 16 FIM, 18 VIL, stórsverð (d12), _hersveit_**
 
-    Risavaxnar mannverur með bronslitaða húð og ljós hár. Lifa á hæstu fjallstindum og grýttustu STYandlínum.
-    Óskaddaðir af eldingu, geta kallað fram stormský að vild. Geta flogið með vindinum sem vagn sinn.
-    Þrumuhögg: Veldur 4 STY skaða gegn einu skotmarki. Skotmörk í málmbrynjum taka tvöfaldan skaða.
+- Risavaxnar mannverur með bronslitaða húð og ljóst hár. Lifa á hæstu fjallstindum og grýttustu strandlínum.
+- Skaðast ekki af eldingum, geta kallað fram stormský að vild. Geta flogið með vindinn sem vagn sinn.
+- **Þrumuhögg**: Veldur 4 STY skaða gegn einu skotmarki. Skotmörk í málmbrynjum taka tvöfaldan skaða.
 
-    Svínvera
+## Svínvera
 
-9 HP, 16 STY, 8 FIM, 13 VIL, rás (d6+d6)
+**9 HP, 16 STY, 8 FIM, 13 VIL, skögultennur (d6+d6)**
 
-Feitar mannverur sem breytast í gríðarstór svínlíki til að gæða sér á mannakjöti.
+- Feitar mannverur sem breytast í gríðarstór svínslíki til að gæða sér á mannakjöti.
+- Veiða helst í einangruðum byggðum nálægt skóglendi og votlendi. Geta aðeins skipt um ham á næturnar.
+- _Heillun_: Skotmark hlýðir öllum skipunum svínverunnar þar til hún er drepin. VIL varnarkast einu sinni á lotu til að losna.
 
-Veiða helst í einangruðum byggðum nálægt skóglendi og votlendi. Geta aðeins skipt um form á næturnar.
+## Títan
 
-Hugstjórn: Skotmark hlýðir öllum skipunum svínverunnar þar til hún er drepin. VIL-próf einu sinni á lotu til að losna.
+**18 HP, 3 brynja, 16 STY, 15 FIM, 18 VIL, eldingarsverð (d12), _hersveit_**
 
-Títan
+- Goðsagnakenndar, risavaxnar mannverur með stórfenglega fegurð og kröftuga líkama. Góðhjartaðir en oft með stórmennskubrjálæði.
+- Eru upprunnir frá öðrum veraldarplönun, en stundum reisa þeir vígi í hinum dauðlega heimi.
+- Geta svifið, skipt um ham og mótað frumefni að vild.
 
-18 HP, 3 Brynja, 16 STY, 15 FIM, 18 VIL, eldingarsverð (d12), losun
+## Tréverja
 
-Goðsagnakenndir, risavaxnir mannverur með stórfenglega fegurð og kraftalega líkama. Góðhjartaðir en með stórmennskubrjálæði.
+**10 HP, 3 brynja, 15 STY, 3 FIM, 12 VIL, rætur (d8+d8, _sprengiskaði_)**
 
-Eru upprunnir frá öðrum veraldarsviðum, en stundum reisa þeir vígi í hinum dauðlega heimi.
+- Vitiborin, tvífætt tré með mannlegt andlit í stofninum. Búa í dýpstu skógum.
+- Tala hægt og ígrundað, með djúpri rödd. Eru tímalausar og lifa í þúsundir ára.
 
-Geta svifið, skipt um lögun og mótað frumefni að vild.
+## Tríton
 
-Tréverja
+**6 HP, 12 STY, 15 FIM, 12 VIL, þríforkur (d8)**
 
-10 HP, 3 Brynja, 15 STY, 3 FIM, 12 VIL, rætur (d8+d8, sprengja)
+- Vatnsveljandi mannverur með silfurhúð, blágrænt hár og hreistraðar fætur sem enda í uggum. Búa í hlýjum sjó nálægt landi.
+- Kastalar þeirra eru meitlaðir úr sjávarbergi og kóral. Þeir stjórna stórum fiskatorfum bæði til varnar og fæðuöflunar.
 
-Skynsamar, tvífættar trjáverur með mannlegt andlit í stofninum. Búa í dýpstu skógum.
+## Tröll
 
-Tala hægt og ígrundað, með djúpri rödd. Eru tímalausar og lifa í þúsundir ára.
+**14 HP, 1 brynja, 14 STY, 12 FIM, 4 VIL, bit (d10), klær (d8+d8)**
 
-Tríton
+- Risavaxnar, vörtóttar mannverur úr holdi og berki. Lifna helst neðanjarðar, í dimmum skógum eða í rústum fórnarlamba sinna. Kjötætur.
+- Þegar þau taka **banvænan skaða**, berjast þau áfram þrátt fyrir tapaða útlimi. Þau deyja ekki nema STY falli í 0. Ef höfuð þeirra er ekki brennt með sýru, eldi eða göldrum, endurmyndast þau á 1d4 dögum.
 
-6 HP, 12 STY, 15 FIM, 12 VIL, þríforkur (d8)
+## Einhyrningur
 
-Vatnsmannverur með silfurhúð, blágrænt hár og hreiSTYaðar fætur sem enda í uggum. Búa í hlýjum sjó nálægt landi.
+**6 HP, 14 STY, 12 FIM, 14 VIL, horn (d10, hunsar brynju)**
 
-Kastalabústaðir þeirra eru meitlaðir úr sjávarbergi og kóral. Þeir stjórna stórum fiskahópum bæði til varnar og fæðuöflunar.
+- Töfrandi hestar með eitt langt horn á enni. Viðkvæmir en stoltnir og ósveigjanlegir, eru taldir guðlegar verur.
+- Hár þeirra er afar verðmætt vegna lækningaeiginleika sinna.
 
-Tröll
+## Vampíra
 
-14 HP, 1 Brynja, 14 STY, 12 FIM, 4 VIL, bit (d10), klær (d8+d8)
+**12 HP, 1 brynja, 14 STY, 12 FIM, 16 VIL, bit (d10)**
 
-Risavaxnar, vörtóttar mannverur úr holdi og berki. Lifna helst neðanjarðar, í dimmum skógum eða í rústum fórnarlamba sinna. Kjötætur.
+- Heillandi, ódauðlegar verur sem drekka blóð dauðlegra. Eru á ferli á næturnar og sofa í kistu á daginn. Geta breytt sér í leðurblöku að vild.
+- **Endurmyndun**: Vampíra endurheimtir 6 HP með því að bíta skotmark sem hefur blóð. Ef hún deyr breytist hún í gasský og flýr til kistu sinnar, þar sem hún endurmyndast við næstu næturkomu. Til að drepa hana verður að brenna hana í sólarljósi eða eyðileggja kistuna hennar.
+- **Banvænn skaði**: Vampíran sýgur lífsanda skotmarks og veldur d12 VIL-skaða. Ef VIL fellur í 0, deyr það og verður þræll vampírunnar.
 
-Þegar þau taka gagnrýnin skaða, berjast þau áfram þrátt fyrir tapaða útlimi. Þau deyja ekki nema STY falli í 0. Ef höfuð þeirra er ekki brennt með sýru, eldi eða galdrakrafti, endurmyndast þau á 1d4 dögum.
+## Naðra
 
-Einhyrningur
+**3 HP, 5 STY, 12 FIM, 3 VIL, bit (d6)**
 
-6 HP, 14 STY, 12 FIM, 14 VIL, horn (d10, hunsar brynju)
+- Eiturormar sem finnast oft í hellum, gryfjum og öðrum dimmum stöðum. Hægt er að búa til mótefni úr eiturpokum þeirra.  
+- Nota hita og lykt til að elta fórnarlömb sín. 
+- **Banvænn skaði:** Skotmarkið verður eitrað og deyr á 1d12 klukkustundum án lækningar.
 
-Töfrandi hestar með eitt langt horn á enni. Viðkvæmir en stoltnir og ósveigjanlegir, taldir guðlegar verur.
+## Skuggahlébarði
 
-Hár þeirra er afar verðmætt vegna lækningaeiginleika sinna.
+**8 HP, 13 STY, 16 FIM, 12 VIL, armar (d8+d8, _sprengiskaði_), bit (d10)**
 
-Vampíra
+- Hræðileg rándýr sem líkjast hlébörðum með langa, beitta arma á baki.
+- Töfrar bíta illa gegn þeim. Galdramaður verður að standast VIL varnarkast til að galdur virki.
+- Getur fært sig skyndilega stuttar vegalengdir. Hata Blikkhunda.
 
-12 HP, 1 Brynja, 14 STY, 12 FIM, 16 VIL, bit (d10)
+## Vígasniglar
 
-Heillandi, ódauðleg kvikindi sem drekka blóð dauðlegra. Virka á næturnar og sofa í kistu á daginn. Geta breytt sér í leðurblöku að vild.
+**4 HP, 2 brynja, 14 STY, 6 FIM, 3 VIL, fálmarar (d8+d8)**
 
-Endurnýjun: Vampíra endurheimtir 6 HP með því að bíta skotmark sem hefur blóð. Ef hún „deyr“ breytist hún í gas og flýr til kistu sinnar, þar sem hún endurmyndast við næstu næturkomu. Til að drepa hana verður að brenna hana í sólarljósi eða eyðileggja kistuna hennar.
+- Risavaxnir sniglar með þykka skel og þunga, kylfulega fálmara.
+- Sumir hafa litskrúðuga skel sem getur endurkastað töfrum.
 
-Gagnrýnin Skaði: Vampíran sýgur lífsanda skotmarks, veldur d12 VIL-skaða. Ef VIL fellur í 0, deyr það og verður þræll vampírunnar.
+## Varúlfur
 
-Skuggapanter
+**8 HP, 15 STY, 14 FIM, 6 VIL, klær (d6+d6), bit (d8)**
 
-8 HP, 13 STY, 16 FIM, 12 VIL, tentaklar (d8+d8, sprengja), bit (d10)
+- Ógnvekjandi hamskiptar sem breytast í úlfa að vild.
+- Venjulegar árásir á þá eru _skertar_, en árásir með silfurvopnum eru _elfdar_.
+- **Banvænn skaði**: Skotmark sýkist af varúlfasýki og breytist í varúlf við næstu fullu tungl.
 
-Hræðileg rándýr sem líkjast panterum með langa, beittar tentaklar á baki.
 
-Töfrum gegn þeim er mótspyrnt. Galdramaður verður að standast VIL-próf til að galdur virki.
+## Vígandi
 
-Getur fært sig skyndilega á stuttum vegalengdum. Hatast við Blikkhunda.
+**12 LÍF, 3 brynja, 16 STY, 8 FIM, 12 VIL, langsverð (d10)**
 
-Varúlfur
+- Skelfilegir, fallnir hermenn, reistir úr dauðanum í illum tilgangi. Oft á hryllilegum fákum og leiða lægri uppvakninga til bardaga.  
+- **Banvænn skaði** Ef misheppnast, er all tap á STY varanlegt.
 
-8 HP, 15 STY, 14 FIM, 6 VIL, klær (d6+d6), bit (d8)
 
-Ógnvekjandi hamfaraverur sem breytast í úlfa að vild.
+## Mýraglampi (Will-o-Wisp)
 
-Venjulegar árásir á þá eru veiklaðar, en árásir með silfurvopnum eru styrktar.
+**3 HP, 6 STY, 17 FIM, 12 VIL**
 
-Gagnrýnin Skaði: Skotmark sýkist af varúlfsblóðinu og breytist í varúlf við næstu fullu tungl.
+- Næturandar úr köldum loga, finnast oft í þéttum skógum, mýrum og fenjum.
+- Þekktir fyrir að villa um fyrir ferðalöngum – til dauða, eða heim aftur.
 
-Vígslugír
 
-4 HP, 2 Brynja, 14 STY, 6 FIM, 3 VIL, tentaklar (d8+d8)
+## Úlfur
 
-Risavaxnir sniglar með þykk skjöld og þung, kylfulík tentaklar.
+**6 HP, 12 STY, 14 FIM, 8 VIL, bit (d8)**
 
-Sumir hafa litskrúðug skel sem getur endurkastað töfrum.
+- Stórir hunddýr sem lifa aðallega í skógum eða túndru.
+- Hægt er að temja þá með fyrirhöfn ef þeir eru fangaðir ungir.
 
-Vatnsaðili
 
-14 HP, 15 STY, 16 FIM, 4 VIL, gusugangur (d8)
+## Skógartröll
 
-Sjaldséðir andar vatns, búa í vötnum, ám og sjó.
+**10 HP, 15 STY, 12 FIM, 7 VIL, bit (d8), kylfa (d10)**
 
-Venjulegar árásir gegn þeim eru veiklaðar.
+- Stórar mannsverur með langa útlimi úr berki eða rótum. Þau búa í skógum og eiga djúpa tengingu við gróðurinn í kring.
+- Ef þau deyja, byrja þau smám saman að gróa aftur til lífs nema líkið sé fjarlægt úr skóginum eða brennt.
+- **Banvænn skaði**: Mosi og greinar byrja að spretta úr sárum fórnarlambsins.
 
-Gagnrýnin Skaði: Skotmarkið er umlukið vatni og drukknar á þremur lotum.
 
-Uppvakningur
+## Drekatittlingur
 
-2 HP, 12 STY, 6 FIM, 3 VIL, rifið kló (d6)
+**11 HP, 15 STY 14 FIM, 13 VIL, broddur (d10)**
 
-Endurlífgaðar líkamstætur, vaknaðar með nekromantískum hætti eða bölvun. Ónæmar fyrir hugarstjórn.
+- Stór, vitiborin, vængjuð skriðdýr. Lifa víða en kjósa þurrar klettahæðir.
+- Forðast aðra skepnur og elta bráð sína hljóðlaust úr fjarlægð.
+- **Banvænn skaði**: Fórnarlambið er stungið og haldið fast niðri. Drekatittlingurinn bítur svo höfuðið af.
 
-Ef ekki er algjörlega eytt (með eldi, sundrun osfrv.), rís uppvakningurinn aftur eftir fáeinar mínútur.
 
-Gagnrýnin Skaði: Skotmark sýkist og verður skert. Án hjálpar sérfræðings verður það uppvakningur eftir 1d4 daga.
+## Vatnsfrumaflsvera
+
+**14 HP, 15 STY, 16 FIM, 4 VIL, sprey (d8)**
+
+- Sjaldséðir andar vatns, búa í vötnum, ám og sjó.
+- Venjulegar árásir gegn þeim eru _skertar_.
+- **Banvænn skaði**: Skotmarkið er umlukið vatni og drukknar á þremur lotum.
+
+## Uppvakningur
+
+**2 HP, 12 STY, 6 FIM, 3 VIL, riflaðar klær (d6)**
+
+- Endurlífgaðuð lík, vakin upp með nágöldrum eða bölvun. Ónæmar fyrir hugarstjórn.
+- Ef ekki er algjörlega eytt (með eldi, sundrun osfrv.), rís uppvakningurinn aftur eftir fáeinar mínútur.
+- **Bannvænn skaði**: Skotmark sýkist og líður _skort_. Án hjálpar sérfræðings eða heilarar verður það uppvakningur eftir 1d4 daga.
 
 
 
