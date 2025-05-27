@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-parent: Fyrsta útgáfa
+parent: Fyrsta Útgáfa
 redirect_from: /cairn-srd/
 nav_order: 1
 ---

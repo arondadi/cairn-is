@@ -37,7 +37,7 @@ grand_parent: Önnur útgáfa
 
 ## Meðhjálpari
 
-**4 HP, 1 brynja, 8 STY, 11 FIM, 14 VIL, helgiblótshnífur (d6)**  
+**4 HP, 1 brynja, 8 STY, 11 FIM, 14 VIL, blótshnífur (d6)**  
 
 - Helgir þjónar guða, ferðast oft í hópum fjögurra eða fleiri.  
 - Bera helgi tákn (_Vernd_ einu sinni á dag).  
@@ -47,7 +47,7 @@ grand_parent: Önnur útgáfa
 **6 HP, 13 STY, 12 FIM, 15 VIL, bit (d8)**  
 
 - Risavaxnar kóngulær með grænsvartan húðlit og stóra heila. Geta tekið á sig mannlegt form að vild.  
-- Stunda galdra í myrkum hellum fullum af vefjum. Hafa _heillun_ og _skipun_ galdrabækur.  
+- Stunda galdra í myrkum hellum fullum af vefjum. Hafa _Heillun_ og _Skipun_ galdrabækur.  
 - Eldskaði gegn Aranea er _elfdur_.  
 
 ## Ræningi
@@ -78,14 +78,14 @@ grand_parent: Önnur útgáfa
 
 **5 HP, 11 STY, 14 FIM, 5 VIL, bit (d6)**  
 
-- Hundar sem geta fjarflyst og þjóna öflugum meistara.  
+- Hundar sem geta fjarflutt sig og þjóna öflugum meistara.  
 - Geta fasað út úr veruleikanum að vild. Höggárásir gegn þeim eru _skertar_.  
 
 ## Blóðhjörtur      
 
 **4 HP, 12 STY, 13 FIM, 5 VIL, horn (d8)**  
 
-- Fæðast út frá ofbeldi af eigingjörnum eða sjálfselskum athöfnum.  
+- Verða til út frá ofbeldi af eigingjörnum eða sjálfselskum athöfnum.  
 - Drepa fórnarlömb sín til að nærast en verða aldrei saddir.  
 - **Bannvænn skaði**: Grefur horn sín inn í bráð og rífur út innyflin.  
 
@@ -95,12 +95,12 @@ grand_parent: Önnur útgáfa
 
 - Villtur, loðinn hrekkjalómur sem metur skínandi skartgripi meira en mynt.
 - Boggar hafa raunnöfn sem lýsa eðli þeirra. Að vita þessi nöfn veitir stjórn yfir þeim.
-- **Galdrar**: Bogginn getur _lífgað við hluti_, _Sáð ruglingi_, _skapað galdra dulargervi_, notað _hugarflutning_ og _fjarflutning_.
+- **Galdrar**: Bogginn kann _Lífgað við hluti_, _Sáð ruglingi_, _Skapað galdra dulargervi_, notað _Hugarflutning_ og _Fjarflutning_.
 
 
 ## Beinasmíði
 
-**8 HP, 3 brynja, 15 STY, 5 FIM, 3 VIL, skerptar hendur (d8+d8), _hersveit_**
+**8 HP, 3 brynja, 15 STY, 5 FIM, 3 VIL, skerptir arma (d8+d8), _hersveit_**
 
 - Risavaxin, fjórarma skrímsli úr beinum og göldrum.
 - Hugsunarlausir verðir sem eru reiðubúnir að ráðast á hvaða veru sem er, nema skapara sinn.
@@ -112,7 +112,7 @@ grand_parent: Önnur útgáfa
 **8 HP, 1 brynja, 14 STY, 12 FIM, 11 VIL, kylfa (d8)**
 
 - Stór drýsilkvikindi þakin feldi.
-- Nota helst launsátur og brögð til að öðlast yfirburði.
+- Nota helst launsátur og brögð til að ná yfirburðum.
 - Stjórna oft hópum sambærilegra skepna (oftast drýsla).
 
 
@@ -130,7 +130,7 @@ grand_parent: Önnur útgáfa
 **2 HP, 6 STY, 12 FIM, 3 VIL, bit (d6)**
 
 - Risavaxnar, grasætu engisprettur sem lifa í hellum. Ónæmar fyrir flestum eitrum.
-- Náttúrulegur litur þeirra gerir þeim kleift að renna saman við steininn. Gefa frá sér háværa skræki þegar þær finna fyrir ógn.
+- Náttúrulegur litur þeirra gerir þeim kleift að renna saman við steininn. Gefa frá sér háværa skræki við ógnun.
 
 ## Kentár
 
@@ -151,7 +151,7 @@ grand_parent: Önnur útgáfa
 
 **8 HP, 10 STY, 12 FIM, 2 VIL, klifurgreinar (d4, _sprengiskaði_)**  
 
-- Lítur út eins og venjuleg klifurplanta. Ráðast á þá sem ganga framhjá og nota lík þeirra sem áburð.  
+- Lítur út eins og venjuleg klifurplanta. Nota lík fórnarlamba sem áburð.  
 
 - **Banvænn skaði:** Skotmark er dregið upp í loftið þar sem það kafnar á fáeinum mínútum.  
 
@@ -178,7 +178,7 @@ grand_parent: Önnur útgáfa
 
 **10 HP, 16 STY, 8 FIM, 6 VIL, kylfa (d10)**
 
-- Tvíhöfða ættingjar risa. Kjósa helli og neðanjarðargreni.
+- Tvíhöfða ættingjar risa. Kjósa að dvelja í hellum og neðanjarðargrenum.
 - Ekki hægt að koma þeim að óvörum.
 
 
@@ -213,7 +213,7 @@ grand_parent: Önnur útgáfa
 **8 HP, 1 brynja, 15 STY, 6 FIM, 3 VIL, étandi snerting (d8)**  
 
 - Stórar, formlausar klessur úr gegnsæju hlaupi. Veiða sér hugsunarlaust til matar í dýflissum og neðanjarðarhellum.  
-- **Bannvænn skaði:** Skotmarkið er gleypt og missir **d6 STY** í hverri lotu þar til það er étið upp til agna.  
+- **Banvænn skaði:** Skotmarkið er gleypt og missir **d6 STY** í hverri lotu þar til það er étið upp til agna.  
 
 
 ## Draugur
@@ -221,7 +221,7 @@ grand_parent: Önnur útgáfa
 **8 HP, 14 STY, 12 FIM, 15 VIL, lífskraftssuga (d6)**
 
 - Óefnislegar verur hinna órólegu dauðu, ónæmir fyrir öllu nema göldrum og helgum athöfnum.
-- **Bannvænn skaði**: Skotmark verður kasta VIL varnarkast eða verða andsetinn og geta aðeins athafnað sig eftir vilja draugsins.
+- **Banvænn skaði**: Skotmark verður kasta VIL varnarkast eða verða andsetinn og geta aðeins athafnað sig eftir vilja draugsins.
 
  
 ## Náæta
@@ -237,7 +237,7 @@ grand_parent: Önnur útgáfa
 **8 HP, 1 brynja, 11 STY, 12 FIM, 4 VIL, klær (d10+d10)**
 
 - Skorðdýr á stærð við hest sem finnast oft í þurru landi eða hellum.
-- **Bannvænn skaði**: Eitur sporðsins leysir upp innri vefi skotmarks fyrir auka d8 STY skaða. STY tap er varanlegt.
+- **Banvænn skaði**: Eitur sporðsins leysir upp innri vefi skotmarks fyrir auka d8 STY skaða. STY tap er varanlegt.
 
 
 ## Gnolli
@@ -253,7 +253,7 @@ grand_parent: Önnur útgáfa
 
 - Smávaxnar og ófrýnilegar verur með húð í jarðlitum: grænum, brúnum og gráum.  
 - Forðast bardaga og ráðast aðeins til atlögu ef þeir hafa yfirburði, nota skyndiárásir og flótta.  
-- Stundum nota þeir stórúlfa sem reiðskjóta.
+- Stundum nota þeir ógnarúlfa sem reiðskjóta.
 
 
 ## Grænn drekinn
@@ -272,7 +272,7 @@ grand_parent: Önnur útgáfa
 - Gráðugar blendingsverur með höfuð og vængi arnar en neðri líkama ljóns.
 - Hægt að temja og nota sem reiðskjóta ef þær eru teknar ungar og rétt þjálfaðar.
 - Ráðast með ógnarhraða, grípa bráð sína úr lofti.
-- **Bannvænn skaði**: Rífur hold og bein úr fórnarlambi með beittum goggi.
+- **Banvænn skaði**: Rífur hold og bein úr fórnarlambi með beittum goggi.
 
 ## Grábjörn
 
@@ -306,20 +306,19 @@ grand_parent: Önnur útgáfa
 - Þjálfaðir í að berjast saman. Skaði er _elfdur_ ef bandamaður er einnig í bardaga við sama óvin.
 
 
-
 ## Hettuklæddir menn
 
 **12 HP, 9 STY, 12 FIM, 14 VIL, leystafur (d8)**
 - Verndarar skógarins; sértrúarsöfnuður sem sækir mátt sinn frá leylínum, rúnasteinum og öðru eins.
 - Banvænn skaði: Sogar hluta af sál fórnarlambsins (1d4 VIL skaði).
-- Ber tvær af eftrifarandi galdrabókum ( _Heillun_, _Dáleiðsla_, _Ýta/Draga_, _Skjöldur_)
+- Ber tvær af eftirfarandi galdrabókum ( _Heillun_, _Dáleiðsla_, _Ýta/Draga_, _Skjöldur_)
 
 ## Hýdra
 
 **12 HP, 2 brynja, 13 STY, 7 FIM, 12 VIL, bit (d12, _sprengiskaði_), _hersveit_**
 
 - Stórar eðlur með níu slönguhöfuð. Mjög erfiðar að forðast þegar þær hafa séð bráð sína.
-- Þegar þær taka **banvænans skaða**, missir hýdran eitt höfuð. Hún heldur áfram að berjast þar til ekkert höfuð er eftir.
+- Þegar þær taka **banvænan skaða**, missir hýdran eitt höfuð. Hún heldur áfram að berjast þar til ekkert höfuð er eftir.
 
 
 ## Ósýnilegur eltihrellir
@@ -341,7 +340,7 @@ grand_parent: Önnur útgáfa
 
 **3 HP, 8 STY, 13 FIM, 4 VIL, bit (d6), spjót (d8)**
 
-- Hárlausar mannverur með hundaeinkenni og hreistraða húð. Sjá fullkomlega í myrkri en skaðast af beinu sólarljósi.
+- Hárlausar mannverur lík hundum og með hreistraða húð. Sjá fullkomlega í myrkri en skaðast af beinu sólarljósi.
 - Nota gildrur og launsátur til að sigra andstæðinga. Oft þjónar öflugri verum.
 
 ## Lamía
@@ -350,7 +349,7 @@ grand_parent: Önnur útgáfa
 
 - Skepnur sem nærast á lífsorku annarra, tæla fórnarlömb sín með óvenjumiklum persónutöfrum og greind. Efri líkami er mannlegur, neðri hlutinn sambland af dýrategundum.
 - Náttúrulega göldróttar. Geta skapað sjónhverfingar, heillað verur og dulbúið sig að vild.
-- **Bannvænn skaði**: Skotmarkið missir d6 VIL þegar lífsorka þess er soguð í burtu. Það verður þá bundið vilja lamíunni og hlýðir skipunum hennar meðan hún er nærri.
+- **Banvænn skaði**: Skotmarkið missir d6 VIL þegar lífsorka þess er soguð í burtu. Það verður þá bundið vilja lamíunni og hlýðir skipunum hennar meðan hún er nærri.
 
 ## Návarður
 
@@ -358,7 +357,7 @@ grand_parent: Önnur útgáfa
 
 - Öflugir galdramenn sem færðu hæstu fórn fyrir ódauðleika: sitt eigið líf. Máttaþorsti þeirra er nú óseðjandi.
 - Viðhalda ódauðleika með því að binda sig við jarðneskan grip, venjulega verndaðan af að minnsta kosti d6 öðrum lifandi dauðum þjónum.
-- Bera allt að sex af eftirfarandi galdrabókum: _uppvakning hluts_, _töfraauga_, _gera heyrarlausa_, _sundurlimun_, _frumaflsveggur_, _æði_, _hlið_, _svif_, _hatur_, _auðkenna eiganda_, _bank_, _friða_, _upprisa_, _framkalla anda_, _skjöldur_, _svefn_, _reykform_, _hugarflutningur_, _hugarsamskipti_, _fjarflutningur_, _sýn_, _galdramerki_.
+- Bera allt að sex af eftirfarandi galdrabókum: _Uppvakning hluts_, _Töfraauga_, _Gera heyrarlausa_, _Sundurlimun_, _Frumaflsveggur_, _Æði_, _Hlið_, _Svif_, _Hatur_, _Auðkenna eiganda_, _Bank_, _Friða_, _Upprisa_, _Framkalla anda_, _Skjöldur_, _Svefn_, _Reykform_, _Hugarflutningur_, _Hugarsamskipti_, _Fjarflutningur_, _Sýn_, _Galdramerki_.
 
 
 
@@ -368,7 +367,7 @@ grand_parent: Önnur útgáfa
 
 - Grimm skrímsli með mannsandlit, líkama ljóns, vængi leðurblöku og sporðdrekahala. Búa í fjöllum, yfirgefnum kastölum og gleymdum dýflissum.
 - Sporðgaddar þeirra virka eins og kastspjót og vaxa aftur eftir nokkra daga. Einn gaddur er 150 gp virði fyrir safnara.
-- **Bannvænn skaði**: Skotmarkið líður _skort_ þar til það fær góða nætursvefn. Þar til þá verður það dónalegt, eigingjarnt og grimmt (eða enn þá meira, ef það var það nú þegar).
+- **Banvænn skaði**: Skotmarkið líður _skort_ þar til það fær góða nætursvefn. Þar til þá verður það dónalegt, eigingjarnt og grimmt (eða enn þá meira, ef það var það nú þegar).
 
 ## Hermir
 
@@ -378,33 +377,33 @@ grand_parent: Önnur útgáfa
 - Hreyfa sig ekki meðan þau eru í dulargervi og koma þannig fórnarlömbum sínum á óvart.
 - Munnvatn hermisins er afar klístrað og erfitt að fjarlægja. Alkemistar greiða allt að 150 gp fyrir minnstu flösku af því.
 
-## Hugfláir (Mind Lasher)
+## Mínótár
+
+**12 HP, 1 brynja, 16 STY, 12 FIM, 8 VIL, tveggja handa öxi (d10), áhlaup (d12)**
+
+- Stór mannvera (venjulega karlkyns) með höfuð nauts. Búa í völundarhúsum og dýflissum.
+- Ótrúlega góðir að rekja spor, með frábært lyktarskyn og fundvísir.
+
+## Hugfláir
 
 **12 HP, 8 STY, 12 FIM, 18 VIL, fálmarar (d6, _sprengiskaði_)**
 
 - Mannverur með fjólubláa húð og höfuði í kolkrabbalíki. Búa djúpt neðanjarðar eða í geimskipum. Nærast á heila annarra mannvera og gleypa minningar og lífsanda þeirra. Bráðgreindir en óumræðilega illir.
 - **Hugarsprengja**: Nálæg skotmörk verða að standast VIL varnarkast eða missa 1d4 VIL og verða lamað.
-- **Banvænn skaði**: Fálmari rífur heila fórnarlambsins úr hauskúpunni.
-
-## Minótár
-
-**12 HP, 1 brynja, 16 STY, 12 FIM, 8 VIL, tveggja handa öxi (d10), áhlaup (d12)**
-
-- Stór mannverur (venjulega karlkyns) með höfuð nauts. Búa í völundarhúsum og dýflissum.
-- Ótrúlega góðir að rekja spor, með frábært lyktarskyn og fundvísir.
+- **Banvænn skaði**: Armur rífur heila fórnarlambsins úr hauskúpunni.
 
 ## Múmía
 
-**6 HP, 12 STY, 8 FIM, 6 VIL, drepandi snerting (d10)**
+**6 HP, 12 STY, 8 FIM, 6 VIL, drepsnerting (d10)**
 
 - Uppvakningar vafðir í grafarklæði. Finnast í pýramídum, rústum, hofum og gröfum.
-- **Bannvænn skaði**: Skotmarkið sýkist af múmíurotnun og getur ekki endurheimt STY fyrr en það er læknað af sérfræðingi. Skotmarkið fær einnig _skort_.
+- **Bnnvænn skaði**: Skotmarkið sýkist af múmíurotnun og getur ekki endurheimt STY fyrr en það er læknað af sérfræðingi. Skotmarkið fær einnig _skort_.
 
 ## Mannnaðra
 
 **6 HP, 1 brynja, 14 STY, 12 FIM, 14 VIL, sverð (d6), bit (d10)**
 
-- Mannverur með neðri búk, hala og háls orms. Búa í heitum frumskógum og týndum hofum.c
+- Mannverur með neðri búk, hala og háls orms. Búa í heitum frumskógum og týndum hofum.
 - Nota slægð og dáleiðslu til að fanga aðrar verur og gera þær að þrælum.
 - **Augnaráð**: Skotmark sem horfir beint á mannnöðru verður dáleitt og fellur undir vilja hennar. Fórnarlömb hennar geta ekki verið neydd til ofbeldis.
 
@@ -413,14 +412,14 @@ grand_parent: Önnur útgáfa
 **6 HP, 9 STY, 14 FIM, 5 VIL, klær (d6+d6)**
 
 - Greind næturdýr sem búa í skógum og fenjum. Veiða í hópum.
-- **Bannvænn Skaði**: Næturkötturinn byrjar að éta skotmarkið (d4 STY skaði) meðan það er enn á lífi.
+- **Banvænn skaði**: Næturkötturinn byrjar að éta skotmarkið (d4 STY skaði) meðan það er enn á lífi.
 
 ## Næturnorn
 
 **8 HP, 9 STY, 11 FIM, 16 VIL, klær (d8+d8)**
 
 - Hræðilegar gamlar konur sem búa í dauðum skógum, fenjum og mýrum.
-- Bera þrjár af eftirfarandi galdrabókum: _galdraauga_, _dulargervi_, _þokuský_, _auðkenna eiganda_, _reykform_.
+- Bera þrjár af eftirfarandi galdrabókum: _Galdraauga_, _Dulargervi_, _Þokuský_, _Auðkenna eiganda_, Reykform_.
 
 ## Martröð
 
@@ -434,7 +433,7 @@ grand_parent: Önnur útgáfa
 **6 HP, 1 brynja, 16 STY, 8 FIM, 6 VIL, kylfa (d10)**
 
 - Risavaxnir og gráðugir fautar sem stíga ekki í vitið.
-- Heillast auðveldlega af glitrandi hlutum og safna gull- og fjársjóðspokum í flygsnum sínum.
+- Heillast auðveldlega af glitrandi hlutum og safna gulli og fjársjóð í flygsnum sínum.
 
 ## Uglubjörn
 
@@ -447,23 +446,23 @@ grand_parent: Önnur útgáfa
 
 **4 HP, 15 STY, 13 FIM, 12 VIL, klær (d10+d10)**
 
-- Greindar verur sem líkjas haukum úr hreinum loga, finnast í einangruðum eyðimerkum og háum fjöllum.
+- Greindar verur sem líkjast haukum úr hreinum loga, finnast í einangruðum eyðimerkum og háum fjöllum.
 - Ef þær deyja, springa þær í eldhnött. Endurfæðast 1d3 dögum síðar úr öskunni.
 - Fjaðrir þeirra eru mjög eftirsóttar vegna lækningaeiginleika sinna.
 
-## Smáfólk
+## Smáálfur
 
 **3 HP, 3 STY, 15 FIM, 13 VIL**
 
 - Smávaxnar mannverur með skordýravængi. Náttúrulega ósýnilegar.
 - Geta kastað göldrunum _svefn_ og _grímuball_ að vild.
 
-## Purpura ormur
+## Purpuraormur
 
 **18 HP, 1 brynja, 18 STY, 8 FIM, 6 VIL, bit (d12), _hersveit_**
 
 - Risavaxnir ormar sem búa í risastórum holum djúpt neðanjarðar og koma aðeins á yfirborðið til að veiða. Finnast í heitum eyðimörkum og túndrum.
-- **Bannvænn skaði**: Skotmarkið er gleypt og tekur d8 STY skaða frá sýru í maga ormsins.
+- **Banvænn skaði**: Skotmarkið er gleypt og tekur d8 STY skaða frá sýru í maga ormsins.
 
 
 ## Rauðhattur 
@@ -472,16 +471,16 @@ grand_parent: Önnur útgáfa
 
 - Fæðast úr blóði sem hefur rotnað í álfaheimi. Hattar þeirra eru djúprauðir af blóðinu sem þeir baða sig í.
 - Hunsa þá sem hafa lítið að lifa fyrir, þar sem morð þeirra veitir enga ánægju.
-- **Bannvænn skaði**: Skotmarkið er sundurrifið og blóð þess sprautast um allt, endurheimtir STY sem rauðhatturinn hafði tapað.
+- **Banvænn skaði**: Skotmarkið er sundurrifið og blóð þess sprautast um allt, endurheimtir STY sem rauðhatturinn hafði tapað.
 
-## Skriðdýramaður
+## Skriðdýrafólk
 
-**5 HP, 1 Bbynja, 14 STY, 12 FIM, 5 VIL, beinspjót (d8)**
+**5 HP, 1 brynja, 14 STY, 12 FIM, 5 VIL, beinspjót (d8)**
 
 - Froskdýra mannverur sem lifa í stórum ættbálkum nálægt fenjum og frumskógum.
 - Smíða vopn og brynjur úr beinum bráða sinna. Borða hvað sem er, þar á meðal menn.
 
-## Rótadrýslinn
+## Rótadrýsll
 
 **4 HP, 8 STY, 14 FIM, 8 VIL, spjót (d6)**
 
@@ -490,7 +489,7 @@ grand_parent: Önnur útgáfa
 - Þrá galdrabækur og eru tilbúnir að eiga viðskipti með þær.
 
 
-## Rótarvita
+## Rótarniðji
 
 **8 HP, 9 STY, 16 FIM, 14 VIL, rótarfingur (d6)**
 
@@ -498,13 +497,13 @@ grand_parent: Önnur útgáfa
 - Ofanjarðar virðast þeir rétt mannlegar verur með andlit sem líkist rotnuðu tréstubbi.
 - Skipta sjaldgæfum steinum fyrir „ferskt lík“ af hvaða gerð sem er.
 
-## Ryðskrímsli (Rust Monster)
+## Ryðskrímsli
 
 **5 HP, 16 STY, 13 FIM, 5 VIL, bit (d6)**
 
 - Beltisdýraleg kvikindi með kylfulaga hala og langa skynþræði. Nærast á járni og ryðguðum málmum.
 - Allir venjulegir málmar sem skynþræðir þeirra snerta verða samstundis að ryði. Geta þefað uppi málm langar vegalengdir.
-- **Bannvænn skaði**: Málmbrynja ryðgar og verður ónothæf.
+- **Banvænn skaði**: Málmbrynja ryðgar og verður ónothæf.
 
 ## Hafnorn 
 
@@ -519,29 +518,29 @@ grand_parent: Önnur útgáfa
 **14 HP, 1 STY, 18 FIM, 14 VIL, tæmandi snerting (d6, hunsar brynju)**
 
 - Óefnisleg skrímsli sem líta út eins og lifandi skuggar. Ónæmir fyrir venjulegum árásum, svefni eða hugarstjórn.
-- **Bannvænn skaði**: Skotmark missir d4 STY. Ef STY fellur í 0, verður það einnig að skugga.
+- **Banvænn skaði**: Skotmark missir d4 STY. Ef STY fellur í 0, verður það einnig að skugga.
 
 ## Hrasandi haugur
 
 **9 HP, 15 STY, 6 FIM, 8 VIL, armar (d8+d8), _hersveit_**
 
 - Hávaxnar mannverur gerðar úr slímkenndu gróðri. Búa í dimmum fenjum og rökum neðanjarðargöngum.
-- **Bannvænn skaði**: Skotmarkið er gleypt heilt og dregið á brott.
+- **Banvænn skaði**: Skotmarkið er gleypt heilt og dregið á brott.
 
 ## Beinagrind
 
 **5 HP, 1 brynja, 8 STY, 13 FIM, 0 VIL, ryðgað sverð (d6) eða bogi (d6)**
 
 - Oftast í þjónustu meistara eða návalds, venjulega 3 í hóp eða fleiri.
-- Klæðast því sem var á þeim við dauða þeirra.
+- Klæðast því sem var á þeim við dauða sinn.
 - Ef beinagrind er drepin og bein hennar eru ekki dreifð, endurmyndast hún.
 
 ## Himnarisi
 
-**12 HP, 1 brynja, 16 STY, 12 FIM, 14 VIL, kylfa (d10), _hersveit_**
+**12 HP, 1 brynja, 16 STY, 12 FIM, 14 VIL, gaddakylfa (d10), _hersveit_**
 
 - Háreistir risar með hvíta húð sem lifa í kastölum hátt uppi í fjöllum.
-- Skotárásir gegn þeim eru **skertar** vegna kröfugra vinda í kringum þá.
+- Skotárásir gegn þeim eru _skertar_ vegna kröfugra vinda í kringum þá.
 
 ## Sfinx
 
@@ -556,7 +555,7 @@ grand_parent: Önnur útgáfa
 **18 HP, 2 brynja, 18 STY, 16 FIM, 18 VIL, stórsverð (d12), _hersveit_**
 
 - Risavaxnar mannverur með bronslitaða húð og ljóst hár. Lifa á hæstu fjallstindum og grýttustu strandlínum.
-- Skaðast ekki af eldingum, geta kallað fram stormský að vild. Geta flogið með vindinn sem vagn sinn.
+- Skaðast ekki af eldingum, geta kallað fram stormský að vild. Geta flogið með vindinn sem vagn.
 - **Þrumuhögg**: Veldur 4 STY skaða gegn einu skotmarki. Skotmörk í málmbrynjum taka tvöfaldan skaða.
 
 ## Svínvera
@@ -575,7 +574,7 @@ grand_parent: Önnur útgáfa
 - Eru upprunnir frá öðrum veraldarplönun, en stundum reisa þeir vígi í hinum dauðlega heimi.
 - Geta svifið, skipt um ham og mótað frumefni að vild.
 
-## Tréverja
+## Trévera
 
 **10 HP, 3 brynja, 15 STY, 3 FIM, 12 VIL, rætur (d8+d8, _sprengiskaði_)**
 
@@ -586,7 +585,7 @@ grand_parent: Önnur útgáfa
 
 **6 HP, 12 STY, 15 FIM, 12 VIL, þríforkur (d8)**
 
-- Vatnsveljandi mannverur með silfurhúð, blágrænt hár og hreistraðar fætur sem enda í uggum. Búa í hlýjum sjó nálægt landi.
+- Vatnsdveljandi mannverur með silfurhúð, blágrænt hár og hreistraðar fætur sem enda í uggum. Búa í hlýjum sjó nálægt landi.
 - Kastalar þeirra eru meitlaðir úr sjávarbergi og kóral. Þeir stjórna stórum fiskatorfum bæði til varnar og fæðuöflunar.
 
 ## Tröll
@@ -600,7 +599,7 @@ grand_parent: Önnur útgáfa
 
 **6 HP, 14 STY, 12 FIM, 14 VIL, horn (d10, hunsar brynju)**
 
-- Töfrandi hestar með eitt langt horn á enni. Viðkvæmir en stoltnir og ósveigjanlegir, eru taldir guðlegar verur.
+- Töfrum gæddir hestar með eitt langt horn á enni. Viðkvæmir en stoltnir og ósveigjanlegir, eru taldir guðlegar verur.
 - Hár þeirra er afar verðmætt vegna lækningaeiginleika sinna.
 
 ## Vampíra
@@ -627,12 +626,20 @@ grand_parent: Önnur útgáfa
 - Töfrar bíta illa gegn þeim. Galdramaður verður að standast VIL varnarkast til að galdur virki.
 - Getur fært sig skyndilega stuttar vegalengdir. Hata Blikkhunda.
 
-## Vígasniglar
+## Vígasnigill
 
 **4 HP, 2 brynja, 14 STY, 6 FIM, 3 VIL, fálmarar (d8+d8)**
 
 - Risavaxnir sniglar með þykka skel og þunga, kylfulega fálmara.
 - Sumir hafa litskrúðuga skel sem getur endurkastað töfrum.
+
+## Vatnsfrumaflsvera
+
+**14 HP, 15 STY, 16 FIM, 4 VIL, sprey (d8)**
+
+- Sjaldséðir andar vatns, búa í vötnum, ám og sjó.
+- Venjulegar árásir gegn þeim eru _skertar_.
+- **Banvænn skaði**: Skotmarkið er umlukið vatni og drukknar á þremur lotum.
 
 ## Varúlfur
 
@@ -651,11 +658,11 @@ grand_parent: Önnur útgáfa
 - **Banvænn skaði** Ef misheppnast, er all tap á STY varanlegt.
 
 
-## Mýraglampi (Will-o-Wisp)
+## Mýrarglampi (Will-o-Wisp)
 
 **3 HP, 6 STY, 17 FIM, 12 VIL**
 
-- Næturandar úr köldum loga, finnast oft í þéttum skógum, mýrum og fenjum.
+- Náttandar úr köldum loga, finnast oft í þéttum skógum, mýrum og fenjum.
 - Þekktir fyrir að villa um fyrir ferðalöngum – til dauða, eða heim aftur.
 
 
@@ -685,21 +692,13 @@ grand_parent: Önnur útgáfa
 - **Banvænn skaði**: Fórnarlambið er stungið og haldið fast niðri. Drekatittlingurinn bítur svo höfuðið af.
 
 
-## Vatnsfrumaflsvera
-
-**14 HP, 15 STY, 16 FIM, 4 VIL, sprey (d8)**
-
-- Sjaldséðir andar vatns, búa í vötnum, ám og sjó.
-- Venjulegar árásir gegn þeim eru _skertar_.
-- **Banvænn skaði**: Skotmarkið er umlukið vatni og drukknar á þremur lotum.
-
 ## Uppvakningur
 
-**2 HP, 12 STY, 6 FIM, 3 VIL, riflaðar klær (d6)**
+**2 HP, 12 STY, 6 FIM, 3 VIL, beittar klær (d6)**
 
-- Endurlífgaðuð lík, vakin upp með nágöldrum eða bölvun. Ónæmar fyrir hugarstjórn.
-- Ef ekki er algjörlega eytt (með eldi, sundrun osfrv.), rís uppvakningurinn aftur eftir fáeinar mínútur.
-- **Bannvænn skaði**: Skotmark sýkist og líður _skort_. Án hjálpar sérfræðings eða heilarar verður það uppvakningur eftir 1d4 daga.
+- Endurlífgað lík, vakin upp með nágöldrum eða bölvun. Ónæmar fyrir hugarstjórn.
+- Ef ekki algjörlega eytt (með eldi, sundrun osfrv.), rís uppvakningurinn aftur upp eftir fáeinar mínútur.
+- **Banvænn skaði**: Skotmark sýkist og líður _skort_. Án hjálpar sérfræðings eða heilarar verður það uppvakningur eftir 1d4 daga.
 
 
 
